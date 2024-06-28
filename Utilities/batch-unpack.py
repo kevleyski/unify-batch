@@ -12,6 +12,6 @@ def unpack(unifyFile, xmlFile):
 if not os.path.exists('XML'):
     os.mkdir('XML')
 
-for uf in os.listdir('Patches'):
+for uf in os.listdir('../Unify'):
     if uf.endswith('.unify'):
-        unpack(os.path.join('Patches', uf), os.path.join('XML', uf[:-6] + '.xml'))
+        unpack(os.path.join('../Unify', uf), os.path.join('../Unify', uf[:-6] + '.xml'))
