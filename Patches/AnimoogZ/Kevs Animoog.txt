@@ -1,0 +1,215 @@
+--
+-- Animoog Z Preset v2.0
+--
+preset = {
+	version = 2.0,
+	name = 'Kevs Animoog',
+	bank = 'User',
+	tag1 = 'Pads',
+	tag2 = '',
+	tag3 = '',
+	table = {
+		'StaticFatSaw1','StaticFatSaw1','StaticFatSaw1','StaticFatSaw1',
+		'StaticFatSaw1','StaticFatSaw1','StaticFatSaw1','StaticFatSaw1'
+	},
+	global = {
+		bpm = 120.000000,
+		volume = 0.848419,
+		pbrange = 2,
+		correction = 1.000000,
+		glide = 151.415192,
+		hold = 0,
+		arp = 0,
+		keyboard = {34.371193, 103.000000}
+	},
+	xy = {
+		cursor = {0.532222, 0.478261, 0.000000},
+		path = {
+			{-0.560000, 0.043478, 0.000000}, {0.457974, 0.043478, 0.000000}, 
+		}
+	},
+	kbScale = {
+		mono = 0,
+		voiceLimit = 4,
+		legato = 0,
+		envReset = 1,
+		phaseReset = 0,
+		baseFreq = 0.000000,
+		notes = {1,0,1,0,1,1,0,1,0,1,0,1}
+	}
+	envMod = {
+		vcaEnv = {
+			delay = 0.000000,
+			loop = 0,
+			att = 0.125385,
+			att_curve = 0.000000,
+			hold = 0.000000,
+			dec = 0.891862,
+			dec_curve = -1.000000,
+			sus = 0.779817,
+			rel = 0.728863,
+			rel_curve = -1.000000
+		},
+		vcfEnv = {
+			delay = 0.000000,
+			loop = 0,
+			att = 1.000000,
+			att_curve = 0.000000,
+			hold = 0.000000,
+			dec = 0.540918,
+			dec_curve = -1.000000,
+			sus = 0.284458,
+			rel = 0.559083,
+			rel_curve = -1.000000
+		},
+		modEnv = {
+			delay = 0.000000,
+			loop = 0,
+			att = 1.000000,
+			att_curve = 0.000000,
+			hold = 0.000000,
+			dec = 0.650000,
+			dec_curve = -1.000000,
+			sus = 0.500000,
+			rel = 1.000000,
+			rel_curve = -1.000000
+		},
+		lfo0 = {
+			rate = 0.000000,
+			sync = 0,
+			shape = 0.000000,
+			delay = 0.000000,
+			phase = 0.000000,
+			kbTrig = 1,
+			repeats = 0
+		},
+		lfo1 = {
+			rate = 0.605799,
+			sync = 0,
+			shape = 0.751382,
+			delay = 0.000000,
+			phase = 0.000000,
+			kbTrig = 0,
+			repeats = 0
+		},
+		lfo2 = {
+			rate = 0.832730,
+			sync = 0,
+			shape = 0.300453,
+			delay = 0.000000,
+			phase = 0.000000,
+			kbTrig = 1,
+			repeats = 0
+		},
+		modMatrix = {
+			mod1 = {
+				enabled = 1,
+				src = 'off', srcAmount = 0.000000,
+				ctl = 'poly-pressure', ctlAmount = 0.175438,
+				dest = 'filter-frequency', destPrior = 'oldest'
+			},
+			mod2 = {
+				enabled = 1,
+				src = 'lfo0', srcAmount = 0.935695,
+				ctl = 'velocity', ctlAmount = 0.315788,
+				dest = 'filter-amount', destPrior = 'oldest'
+			},
+			mod3 = {
+				enabled = 1,
+				src = 'lfo1', srcAmount = 0.493827,
+				ctl = 'poly-pressure', ctlAmount = 0.914237,
+				dest = 'pitch-1-semitone', destPrior = 'oldest'
+			},
+			mod4 = {
+				enabled = 1,
+				src = 'lfo2', srcAmount = 1.000000,
+				ctl = 'poly-pressure', ctlAmount = 0.342293,
+				dest = 'path-rate', destPrior = 'oldest'
+			},
+			mod5 = {
+				enabled = 1,
+				src = 'off', srcAmount = 0.000000,
+				ctl = 'off', ctlAmount = 0.000000,
+				dest = 'off', destPrior = 'oldest'
+			},
+			mod6 = {
+				enabled = 1,
+				src = 'off', srcAmount = 0.000000,
+				ctl = 'off', ctlAmount = 0.000000,
+				dest = 'off', destPrior = 'oldest'
+			},
+			mod7 = {
+				enabled = 1,
+				src = 'off', srcAmount = 0.000000,
+				ctl = 'off', ctlAmount = 0.000000,
+				dest = 'off', destPrior = 'oldest'
+			},
+			mod8 = {
+				enabled = 1,
+				src = 'off', srcAmount = 0.000000,
+				ctl = 'off', ctlAmount = 0.000000,
+				dest = 'off', destPrior = 'oldest'
+			},
+			mod9 = {
+				enabled = 1,
+				src = 'off', srcAmount = 0.000000,
+				ctl = 'off', ctlAmount = 0.000000,
+				dest = 'off', destPrior = 'oldest'
+			},
+			mod10 = {
+				enabled = 1,
+				src = 'off', srcAmount = 0.000000,
+				ctl = 'off', ctlAmount = 0.000000,
+				dest = 'off', destPrior = 'oldest'
+			}
+		},
+	},
+	filter = {
+		on = 1,
+		mode = 0,
+		cutoff = 0.005208,
+		resonance = 0.761341,
+		amount = 1.000000,
+		drive = 0.493429
+	},
+	path = {
+		sync = 1,
+		mode = 2,
+		axis = 1,
+		rate = 0.351812
+	},
+	orbit = {
+		xViewRotation = 0.000000,
+		yViewRotation = 0.000000,
+		sync = 0,
+		rate = 0.282010,
+		xAmount = 0.689642,
+		yAmount = -0.697035,
+		zMult = 0.688115,
+		zAmount = 0.484455
+	},
+	thick = {
+		on = 1,
+		crush = 1.000000,
+		drive = 0.273237,
+		detune = 0.796691,
+		unison = 4
+	},
+	delay = {
+		on = 1,
+		type = 1,
+		sync = 1,
+		time = 0.332400,
+		feedback = 0.398168,
+		mix = 0.480018
+	},
+	arp = {
+		on = 0,
+		latch = 0,
+		rate = 1.000000,
+		gatelength = 0.900000,
+		pattern = 1,
+		octave = 1,
+		step1 = 1
+	}
+}
