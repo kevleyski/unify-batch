@@ -10,7 +10,7 @@ UnoLX_Unifier::UnoLX_Unifier()
 {
     talPresetsFolder = File("/Library/Audio/Presets/TAL-Togu\ Audio\ Line");
     presetFileType = "pjunoxl";
-    refPatch = File("~/unfiy-batch/Patches/impOSCar2/Kevs\ Oscar.unify");
+    refPatch = File("~/unify-batch/Patches/impOSCar2/Kevs\ Oscar.unify");
     authorName = "TAL Software GmbH";
 
 #ifdef FMR
@@ -34,7 +34,7 @@ UnoLX_Unifier::UnoLX_Unifier()
     sourceFolder = talPresetsFolder.getChildFile(sourceFolderName);
     libraryName = "Unified - TAL-U-No-LX " + sourceFolderName;
     patchComment = "TAL-U-No-LX factory patches by " + authorName;
-    outputFolder = unifyLibrariesFolder.getChildFile(libraryName).getChildFile("~/unfiy-batch/Patches");
+    outputFolder = unifyLibrariesFolder.getChildFile(libraryName).getChildFile("~/unify-batch/Patches");
 }
 
 static struct

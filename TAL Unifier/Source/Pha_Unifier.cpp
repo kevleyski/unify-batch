@@ -108,7 +108,7 @@ Pha_Unifier::Pha_Unifier()
 {
     talPresetsFolder = File("/Library/Audio/Presets/TAL-Togu\ Audio\ Line");
     presetFileType = "talalpha";
-    refPatch = File("~/unfiy-batch/TALPha/Kevs\ TALPha.unify");
+    refPatch = File("~/unify-batch/TALPha/Kevs\ TALPha.unify");
 
     // uncomment just one
     //String sourceFolderName("Factory Bank A");

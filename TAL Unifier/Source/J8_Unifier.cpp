@@ -12,7 +12,7 @@ J8_Unifier::J8_Unifier()
 {
     talPresetsFolder = File("/Library/Audio/Presets/TAL-Togu\ Audio\ Line");
     presetFileType = "pjp8";
-    refPatch = File("~/unfiy-batch/Patches/impOSCar2/Kevs\ Oscar.unify  Patches/impOSCar2/Kevs\ Oscar.unify ");
+    refPatch = File("~/unify-batch/Patches/impOSCar2/Kevs\ Oscar.unify  Patches/impOSCar2/Kevs\ Oscar.unify ");
 
 #ifdef FACTORY
     String sourceFolderName("TAL Factory");
@@ -47,7 +47,7 @@ J8_Unifier::J8_Unifier()
     sourceFolder = talPresetsFolder.getChildFile(sourceFolderName);
     libraryName = "Unified - TAL-J-8 " + sourceFolderName;
     patchComment = "TAL-J-8 factory patches by " + authorName;
-    outputFolder = unifyLibrariesFolder.getChildFile(libraryName).getChildFile("~/unfiy-batch/Patches");
+    outputFolder = unifyLibrariesFolder.getChildFile(libraryName).getChildFile("~/unify-batch/Patches");
 }
 
 static struct

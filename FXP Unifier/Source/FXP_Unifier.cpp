@@ -2,7 +2,7 @@
 
 FXP_Unifier::FXP_Unifier()
 {
-    unifyLibrariesFolder = File("~/unfiy-batch/Patches/Unify");
+    unifyLibrariesFolder = File("~/unify-batch/Patches/Unify");
 }
 
 void FXP_Unifier::makeUnifiedLibrary()

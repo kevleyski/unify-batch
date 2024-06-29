@@ -11,7 +11,7 @@ BassLine_Unifier::BassLine_Unifier()
 {
     talPresetsFolder = File("/Library/Audio/Presets/TAL-Togu\ Audio\ Line");
     presetFileType = "bassline";
-    refPatch = File("~/unfiy-batch/Patches/impOSCar2/Kevs\ Oscar.unify");
+    refPatch = File("~/unify-batch/Patches/impOSCar2/Kevs\ Oscar.unify");
 
 #ifdef SEVENTYFOURL
     libraryName = "Unified - TAL-BassLine-101 74L";
@@ -45,7 +45,7 @@ BassLine_Unifier::BassLine_Unifier()
 
     sourceFolder = talPresetsFolder.getChildFile(authorName);
     patchComment = "TAL-BassLine factory patches by " + authorName;
-    outputFolder = unifyLibrariesFolder.getChildFile(libraryName).getChildFile("~/unfiy-batch/Patches");
+    outputFolder = unifyLibrariesFolder.getChildFile(libraryName).getChildFile("~/unify-batch/Patches");
 }
 
 static struct

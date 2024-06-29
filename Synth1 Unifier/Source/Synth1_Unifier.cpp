@@ -10,14 +10,14 @@ Synth1_Unifier::Synth1_Unifier()
     //libraryName = "Unified - Synth1 Madame Eljay";
     patchComment = "Unified patches for Synth1 by " + authorName;
 
-    unifyLibrariesFolder = File("~/unfiy-batch/Patches/Unify");
+    unifyLibrariesFolder = File("~/unify-batch/Patches/Unify");
 
     presetsRootFolder = File("/");
     presetFileType = "sy1";
     refPatch = File("D:\\Documents\\Github\\unify-batch\\Synth1 Unifier\\Synth1 1 SINE.unify");
     sourceFolder = presetsRootFolder;
 
-    outputFolder = unifyLibrariesFolder.getChildFile(libraryName).getChildFile("~/unfiy-batch/Patches");
+    outputFolder = unifyLibrariesFolder.getChildFile(libraryName).getChildFile("~/unify-batch/Patches");
     prefix = "SY1";
 
     plugin.reset(instantiatePlugin("VST", "Synth1", "Daichi"));
