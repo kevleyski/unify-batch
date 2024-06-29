@@ -1,0 +1,302 @@
+{
+  "parameters" : {
+    "VoiceActivity.On" : "On",
+    "Volume.On" : "On",
+    "AmpEnvelope.Attack" : "1.3970652",
+    "LFO.Targets.Intensity2" : "0.11249995",
+    "LFO-2.On" : "On",
+    "MIDISource.Input" : "Velocity",
+    "AmpEnvelope.Targets.Intensity4" : "0.0",
+    "LFO.Targets.Intensity1" : "0.28021717",
+    "LFO-2.Targets.Intensity2" : "-0.28750002",
+    "VPSOscillator-2.Skew" : "0.4250015",
+    "MIDISource.Targets.Intensity3" : "0.25",
+    "MIDISource.Targets.Intensity1" : "0.25",
+    "StereoDelay.OffsetR" : "2.0",
+    "StereoDelay.LowCutL" : "121.82256",
+    "LFO-2.Tilt" : "0.0",
+    "LFO.Waveform" : "Triangle",
+    "AmpEnvelope.Targets.Intensity2" : "0.31378734",
+    "LFO.Targets.Intensity5" : "0.0",
+    "MIDISource.Targets.Intensity4" : "0.3499999",
+    "StereoDelay.CrossR→L" : "0.0",
+    "StereoDelay.Smooth" : "0.040000003",
+    "AmpEnvelope.Legato" : "On",
+    "VPSOscillator.Level" : "0.25",
+    "AmpEnvelope.Sustain" : "0.3653334",
+    "VPSOscillator.Phase" : "1.0",
+    "MIDISource.Targets.Intensity5" : "0.0",
+    "LFO.Phase" : "0.0",
+    "LFO.Tilt" : "0.0",
+    "LFO.Sync" : "Free",
+    "MIDISource.Targets.Intensity7" : "0.0",
+    "StereoDelay.LowCutR" : "125.72427",
+    "StereoDelay.MixL" : "0.2",
+    "StereoDelay.Sync" : "Free",
+    "LFO.Targets.Intensity4" : "0.0",
+    "RelativePitch.Semitones" : "0.0",
+    "LFO.Rate" : "1.0",
+    "RelativePitch-2.On" : "On",
+    "RelativePitch.On" : "On",
+    "LFO-2.Targets.Intensity4" : "0.0",
+    "MIDISource.On" : "On",
+    "LFO-2.Trigger" : "Retrig",
+    "MIDISource.Gain" : "0.3203125",
+    "VPSOscillator-2.Formants" : "1.7822126",
+    "StereoDelay.CrossL→R" : "0.0",
+    "StereoDelay.MixR" : "0.2",
+    "LFO.On" : "On",
+    "LFO-2.Phase" : "0.0",
+    "LFO-2.Offset" : "1.0",
+    "LFO.Offset" : "1.0",
+    "MIDISource.Targets.Intensity2" : "0.25",
+    "StereoDelay.TimeL" : "0.12090903",
+    "LFO-2.Targets.Intensity5" : "0.0",
+    "StereoDelay.OffsetL" : "1.5",
+    "VPSOscillator.Skew" : "0.47187555",
+    "RelativePitch-2.Semitones" : "0.0",
+    "LFO-2.Waveform" : "Sine",
+    "RelativePitch-2.Cents" : "10.0",
+    "LFO-2.Targets.Intensity7" : "0.0",
+    "MIDISource.Targets.Intensity8" : "0.0",
+    "RelativePitch.Cents" : "-5.0",
+    "AmpEnvelope.Targets.Intensity3" : "-0.13125002",
+    "LFO.Bias" : "0.0",
+    "Meter.Reset" : "Off",
+    "StereoDelay.FeedbackR" : "0.37125003",
+    "AmpEnvelope.On" : "On",
+    "PitchBend.−Range" : "1.0",
+    "AmpEnvelope.Targets.Intensity1" : "0.1937499",
+    "LFO-2.Depth" : "0.5",
+    "AmpEnvelope.Type" : "ADSR",
+    "LFO.Targets.Intensity7" : "0.0",
+    "MIDISource.Bias" : "1.0",
+    "PitchBend.On" : "On",
+    "LFO.Depth" : "0.5",
+    "LFO.Targets.Intensity8" : "0.0",
+    "LFO-2.Cycles" : "1000.0",
+    "Volume.Volume" : "-5.9999995",
+    "Panner.On" : "On",
+    "StereoDelay.TimeR" : "0.12499999",
+    "LFO-2.Targets.Intensity1" : "0.45624995",
+    "VPSOscillator.On" : "On",
+    "StereoDelay.FeedbackL" : "0.32793748",
+    "LFO.Cycles" : "1000.0",
+    "VPSOscillator.Formants" : "0.5",
+    "StereoDelay.HighCutR" : "5658.094",
+    "AmpEnvelope.Release" : "2.402347",
+    "AmpEnvelope.Decay" : "5.7101083",
+    "Volume.Gain" : "0.0",
+    "VPSOscillator-2.On" : "On",
+    "MIDISource.Smooth" : "0.0019999999",
+    "LFO-2.Targets.Intensity6" : "0.0",
+    "LFO-2.Rate" : "2.1435463",
+    "MIDISource.Targets.Intensity6" : "0.0",
+    "AmpEnvelope.Targets.Intensity7" : "0.0",
+    "LFO.Targets.Intensity3" : "0.0",
+    "Meter.On" : "On",
+    "VPSOscillator-2.Phase" : "1.0",
+    "LFO.Trigger" : "Retrig",
+    "LFO.Targets.Intensity6" : "0.0",
+    "AmpEnvelope.Targets.Intensity5" : "0.0",
+    "LFO-2.Targets.Intensity3" : "0.0",
+    "AmpEnvelope.Targets.Intensity8" : "0.0",
+    "Panner.Pan" : "0.0",
+    "PitchBend.+Range" : "1.0",
+    "LFO-2.Targets.Intensity8" : "0.0",
+    "LFO-2.Bias" : "0.0",
+    "AmpEnvelope.Targets.Intensity6" : "0.0",
+    "StereoDelay.HighCutL" : "5318.802",
+    "LFO-2.Sync" : "Free",
+    "StereoDelay.On" : "On",
+    "VPSOscillator-2.Level" : "0.25"
+  },
+  "lanes" : [
+    {
+      "input" : {
+        "type" : "External",
+        "index" : 0
+      },
+      "type" : "Instrument",
+      "modules" : [
+        {
+          "identifier" : "MIDISource",
+          "type" : "MIDISource",
+          "displayName" : "MIDI Source",
+          "isExpanded" : true
+        },
+        {
+          "displayName" : "LFO",
+          "isExpanded" : true,
+          "type" : "LFO",
+          "identifier" : "LFO"
+        },
+        {
+          "isExpanded" : true,
+          "type" : "LFO",
+          "displayName" : "LFO 2",
+          "identifier" : "LFO-2"
+        }
+      ],
+      "output" : {
+        "index" : 0,
+        "type" : "Off"
+      },
+      "isExpanded" : true
+    },
+    {
+      "type" : "Instrument",
+      "input" : {
+        "index" : 0,
+        "type" : "External"
+      },
+      "modules" : [
+        {
+          "type" : "PitchBend",
+          "isExpanded" : true,
+          "displayName" : "Pitch Bend",
+          "identifier" : "PitchBend"
+        },
+        {
+          "displayName" : "Relative Pitch",
+          "isExpanded" : true,
+          "type" : "RelativePitch",
+          "identifier" : "RelativePitch"
+        },
+        {
+          "isExpanded" : true,
+          "identifier" : "VPSOscillator",
+          "displayName" : "VPS Oscillator",
+          "type" : "VPSOscillator"
+        },
+        {
+          "displayName" : "Panner",
+          "isExpanded" : true,
+          "type" : "Balance",
+          "identifier" : "Panner"
+        },
+        {
+          "displayName" : "Relative Pitch 2",
+          "isExpanded" : true,
+          "identifier" : "RelativePitch-2",
+          "type" : "RelativePitch"
+        },
+        {
+          "type" : "VPSOscillator",
+          "displayName" : "VPS Oscillator 2",
+          "isExpanded" : true,
+          "identifier" : "VPSOscillator-2"
+        },
+        {
+          "identifier" : "AmpEnvelope",
+          "isExpanded" : true,
+          "type" : "AmpEnvelope",
+          "displayName" : "Amp Envelope"
+        },
+        {
+          "identifier" : "VoiceActivity",
+          "displayName" : "Voice Activity",
+          "isExpanded" : true,
+          "type" : "VoiceActivity"
+        }
+      ],
+      "output" : {
+        "index" : 0,
+        "type" : "Bus"
+      },
+      "isExpanded" : true
+    },
+    {
+      "modules" : [
+        {
+          "displayName" : "Stereo Delay",
+          "identifier" : "StereoDelay",
+          "isExpanded" : true,
+          "type" : "StereoDelay"
+        },
+        {
+          "isExpanded" : true,
+          "identifier" : "Volume",
+          "type" : "Volume",
+          "displayName" : "Volume"
+        },
+        {
+          "type" : "Meter",
+          "identifier" : "Meter",
+          "isExpanded" : true,
+          "displayName" : "Meter"
+        }
+      ],
+      "type" : "Audio",
+      "output" : {
+        "type" : "External",
+        "index" : 0
+      },
+      "isExpanded" : true,
+      "input" : {
+        "type" : "Bus",
+        "index" : 0
+      }
+    }
+  ],
+  "modulations" : {
+    "AmpEnvelope" : [
+      "VPSOscillator.Skew",
+      "VPSOscillator-2.Skew"
+    ],
+    "MIDISource" : [
+      "VPSOscillator.Level",
+      "VPSOscillator-2.Level",
+      "VPSOscillator.Skew",
+      "VPSOscillator-2.Skew"
+    ],
+    "LFO" : [
+      "VPSOscillator-2.Formants",
+      "VPSOscillator.Skew"
+    ],
+    "LFO-2" : [
+      "Panner.Pan",
+      "VPSOscillator.Skew"
+    ]
+  },
+  "audioUnit" : "Mela by Nikolozi",
+  "polyphony" : {
+    "priorityRule" : "Newest",
+    "sameNoteRule" : "Reuse Voice",
+    "voices" : 4
+  },
+  "perform" : [
+    {
+      "KeyPath" : "AmpEnvelope.Attack",
+      "title" : "Attack"
+    },
+    {
+      "title" : "Release",
+      "KeyPath" : "AmpEnvelope.Release"
+    },
+    {
+      "title" : "Formants",
+      "KeyPath" : "VPSOscillator.Formants"
+    },
+    {
+      "KeyPath" : "Filter.Frequency",
+      "title" : "Cutoff"
+    },
+    {
+      "title" : "LFO 1 Rate",
+      "KeyPath" : "LFO.Rate"
+    },
+    {
+      "KeyPath" : "LFO-2.Rate",
+      "title" : "LFO 2 Rate"
+    },
+    {
+
+    },
+    {
+      "KeyPath" : "Volume.Volume",
+      "title" : "Volume"
+    }
+  ],
+  "version" : 11
+}
