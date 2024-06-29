@@ -2,7 +2,7 @@
 
 FXP_Unifier::FXP_Unifier()
 {
-    unifyLibrariesFolder = File("D:\\PlugInGuru\\Unify\\Libraries");
+    unifyLibrariesFolder = File("~/unfiy-batch/Patches/Unify");
 }
 
 void FXP_Unifier::makeUnifiedLibrary()

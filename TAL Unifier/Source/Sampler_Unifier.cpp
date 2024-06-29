@@ -11,11 +11,11 @@ Sampler_Unifier::Sampler_Unifier()
 {
     talPresetsFolder = File("D:\\TAL Sampler Libraries");
     presetFileType = "talsmpl";
-    refPatch = File("D:\\PlugInGuru\\Content Development\\Unified TAL Sampler\\BASS - DigiBass.unify");
+    refPatch = File("~/unfiy-batch/Patches/impOSCar2/Kevs\ Oscar.unify  Patches/Unified TAL Sampler\\BASS - DigiBass.unify");
 
 #ifdef CLASSIC80S
     libraryName = "Unified - TAL-Sampler Classic 80s";
-    refPatch = File("D:\\PlugInGuru\\Content Development\\Unified TAL Sampler\\BASS - DigiBass.unify");
+    refPatch = File("~/unfiy-batch/Patches/impOSCar2/Kevs\ Oscar.unify  Patches/Unified TAL Sampler\\BASS - DigiBass.unify");
     sourceFolder = talPresetsFolder.getChildFile("Factory Presets\\Classic 80s");
     authorName = "TAL Software GmbH";
     patchComment = "TAL-Sampler \"Classic 80s\" factory patches";
@@ -54,7 +54,7 @@ Sampler_Unifier::Sampler_Unifier()
     volumeScaling = 0.75;
 #endif
 
-    outputFolder = unifyLibrariesFolder.getChildFile(libraryName).getChildFile("Patches");
+    outputFolder = unifyLibrariesFolder.getChildFile(libraryName).getChildFile("~/unfiy-batch/Patches");
 }
 
 #if defined(HOLLOWSUN) || defined(EMPTYVESSEL)

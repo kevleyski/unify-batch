@@ -10,7 +10,7 @@ PatchConverter::PatchConverter()
 
 void PatchConverter::test()
 {
-    File assetsDir("C:\\Users\\owner\\Documents\\GitHub\\unify-batch\\GForce XML Unifiers\\Assets");
+    File assetsDir("/Library/Audio/Presets/GForce/impOSCar2/impOSCar2");
 
 #if 1
     // tear the sample patch apart to create the plugin-state XML file

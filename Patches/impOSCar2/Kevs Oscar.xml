@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UnifyPreset formatVersion="0.3" showMidiLanes="1" globalTranspose="0" masterEffectsDisabled="0">
+    <PresetMetadata formatVersion="0.1" name="Kevs Oscar" library="Kevs" category="ARP" tags="+ Kevs" genre=""
+                    author="Kev" comment="" hasBpmData="1" masterFxLocked="0" variationsFilePath="" variation="0.0"
+                    keyZonesFilePath=""/>
+    <bpmData bpm="120.0" timeSigNumerator="4" timeSigDenominator="4" beatDivision="16" loopBarCount="0" triggerMode="1"
+             followHost="1" lokey="0" hikey="127"/>
+    <Layer layerTitle="" colour="ff0b362c" mixLevel="1.00000011920929" panPos="0.5" muteState="1" midiDisabled="0"
+           midiChannel="0" midiConvChannel="0" midiSourceIndex="-1" lovel="0" hivel="127" keyOffset="0" lokey="0"
+           hikey="127" loFadeKey="0" hiFadeKey="127" loFadeCurvature="0.0" hiFadeCurvature="0.0" latchEnabled="0"
+           directSendLevel="1.00000011920929" fxSendLevel1="0.0" fxSendLevel2="0.0" fxSendLevel3="0.0"
+           fxSendLevel4="0.0">
+        <Instrument
+                stateInformation="1674.CMlaKA....fQBMDZ....AjTavIC...P......B............................................................................................................................................................................PApim1kpYWyosNPX3y08WgGtGvZsMFlIoyPBPyYNgFZf1bYGEaQPSLVT+QR3e+YwPvePFj1zbUvQOZ0pc06txjKjq2nRC3IVuHRRkp3Ka0ydPKqMQ7rkpj0W1ZMO32u0uWKq7bY3ksF45d0P6A1sc7F62lwFOo8Uf8f1CG5MFrGMw295ws95WrvetHMimkmZkJhDAYhve+HO94Ka0p7Aa3YAqtr07soYh0cwkxcyulm.cGlrQ7zSRUp0Oikop3tSEQQpWs3IaP5hY82ApPwksX8cc6465Z6CLOels2.G6VVcOr.JleqX9ZbjUmh8th+Dl+Dugia66MX3NWwtc+QvUsssYS7txAcjd8O3JGlsDblxDIGlwIxH7CK1tQzx5EdTN9naQKLimldbIbFvebjxtiiussILSRD+4HlqscGyvlK1bjhMnigFaTh7kRWyouVi8eOFNSh63KT6mfRahnZXGG+xoXtF5eH7bUdRP4pEehEbdzeohxWWRz1qCSm0tKMf8.+EwtSFGAuASoRkAqTIgZogSnm+mbdhPO3cAY7JQCPOwhDdbJd3tDROyHQVdrnR.37HyxiREOHCyVwNxz2XF3HSuAmmYJGEHRZrEzlcdnEIxmdRjHiepbyF+PjlM6EBTQrbGnm77C+a7LwBYk7HsIQSxiCxPk1iDyTQas5q8n0uDQKTCyx3AOWQ4vquAmJKPuGUc4UxFXcbrMkstTfqWGSAabh1qmVxgq2bhSZCdLC3FIB3aKOhzomiqiAXyywRJxx3QenSeCvNc+z1m4YlfUCOj0wc.3XnpbMmj0wygMvvp.M7SevP40ldJx4a9xMpxxcWAKsIcuW8+H0O2zcj50XynPUhQxxLNRfSKkwta4Riwl8IwfOAVRXkiSEUa0bPTr8QEOI7FUTn4l65cUylJVqRJic2Eafv432vGDyiJKDe7A5rWd5shWDkjNCLgYJ1FnoUEKxEqaDOWCPpWRXpLTSMgwKWh82NDU4qHZpa6CK+NU9VoFauyO7uqjohp.me32iU9vspbrs9pkdzlHfLKTGRypcFVSQ9cDWqhyRTQQURXwoy5gUBQjAVsQoCC5+bOwGX1gKwmmox0cX4JQb3v0p73LSSo9VjLTT6J.CyyTsmHeKzDvpMNf6qZaL+1I2cZCny4uZ4hWKZWS95fuGaWoz2j5A92calUJ2L.LYMNeabPsCLsueAtFeLQK5mqC4cf0bM6NL7lf1K0iU2AgNNl3fPMGDuUl90W1GbLxTnFWtQSoh72vyO2tTYt5PgkZbdqMa20KMlqwRjYjBAtNmmWFo+txp3i58tFGRwEJyf9JJPwaFJhTapkp3R.l9EM2iV0Qwe25cWPO4AAy2iK1cbFXz58uPHbugGIRyjw0qXrOZa8C8JwE2nuYNOXVhwmZedeCA0jAvdx01Q9drQhMYqp1gq1EZQqA3YraEKKyD64XFz8xmVUR4yLfZhPD9HdqgZ1yyg.Yci502ntkheJaUMS5ZLVc6YxJ8FjXSw6O68.HS+cM2aQ0q0.ASZSof7mwxrTRd2n7fmq9ZEb.BAgZMrdchJMUnoUg8uCzZbEux.meEXBXy2oCS6F5dt4aRD7PyUzKkaXmJO6oOXTguwYeC6ZrxDrS4poj092cpYS.zvCPQWvmhK.+st.7Qtvbcs3UbqfZsiNSF+rAch1HXOUFoIobFOlxUuvgeZ9j1DwGXSxiCMrIlGX2jXCTFrCkA6RYvdTFbOJC1mxf6SYvCHLXlMkAynLXJQPFkHHiRDjQIBxnDAYThfLJQPFkHHPIBBThf.kHHPIBBFGAAJ5F.EcCfhtAPQ2.nna.TzM.J5F.EcCfhtAPQ2.nna.TzM.J5F.EcCfhtAPQ2.nna.TzM.J5F.EcCfhtAPQ2.nna.mQ2n3KsMs7AkOzJXEONVDgMu1p9euXLOK1ZEqxN7UWt6EJDHy1hcAgVhe7N16fqZuOB2uJdOOp3dUw6CTwgZKdsV+htEaNU1A6VcK7htE+CW70ubQ22+2J4qe4e9evCXzdN"
+                currentProgram="127">
+            <PLUGIN name="impOSCar2" format="VST" category="Synth" manufacturer="GForce" version="2.0.0.0"
+                    file="/Library/Audio/Plug-Ins/VST/impOSCar2.vst" uniqueId="496d7032" isInstrument="1"
+                    fileTime="14d8d7f9be0" infoUpdateTime="19062d615af" numInputs="0" numOutputs="2" isShell="0"
+                    hasARAExtension="0" uid="496d7032"/>
+        </Instrument>
+        <MidiVelCurve>
+            <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+        </MidiVelCurve>
+        <MidiInserts/>
+        <AudioInserts/>
+    </Layer>
+    <AudioFxLane title="" colour="ff360b30" mixLevel="1.00000011920929" panPos="0.5" muteState="1">
+        <AudioInserts/>
+    </AudioFxLane>
+    <MacroParameter id="macro1" name="Macro1" unit="" value="0.0" minValue="0.0" maxValue="1.0" valueStep="0.0"
+                    defaultValue="0.0" index="0"/>
+    <MacroParameter id="macro2" name="Macro2" unit="" value="0.0" minValue="0.0" maxValue="1.0" valueStep="0.0"
+                    defaultValue="0.0" index="1"/>
+    <MacroParameter id="macro3" name="Macro3" unit="" value="0.0" minValue="0.0" maxValue="1.0" valueStep="0.0"
+                    defaultValue="0.0" index="2"/>
+    <MacroParameter id="macro4" name="Macro4" unit="" value="0.0" minValue="0.0" maxValue="1.0" valueStep="0.0"
+                    defaultValue="0.0" index="3"/>
+    <MacroParameter id="macro5" name="Macro5" unit="" value="0.0" minValue="0.0" maxValue="1.0" valueStep="0.0"
+                    defaultValue="0.0" index="4"/>
+    <MacroParameter id="macro6" name="Macro6" unit="" value="0.0" minValue="0.0" maxValue="1.0" valueStep="0.0"
+                    defaultValue="0.0" index="5"/>
+    <MacroParameter id="macro7" name="Macro7" unit="" value="0.0" minValue="0.0" maxValue="1.0" valueStep="0.0"
+                    defaultValue="0.0" index="6"/>
+    <MacroParameter id="macro8" name="Macro8" unit="" value="0.0" minValue="0.0" maxValue="1.0" valueStep="0.0"
+                    defaultValue="0.0" index="7"/>
+    <MacroParameter id="macro9" name="Macro9" unit="" value="0.0" minValue="0.0" maxValue="1.0" valueStep="0.0"
+                    defaultValue="0.0" index="8"/>
+    <MacroParameter id="macro10" name="Macro10" unit="" value="0.0" minValue="0.0" maxValue="1.0" valueStep="0.0"
+                    defaultValue="0.0" index="9"/>
+    <MacroParameter id="macro11" name="Macro11" unit="" value="0.0" minValue="0.0" maxValue="1.0" valueStep="0.0"
+                    defaultValue="0.0" index="10"/>
+    <MacroParameter id="macro12" name="Macro12" unit="" value="0.0" minValue="0.0" maxValue="1.0" valueStep="0.0"
+                    defaultValue="0.0" index="11"/>
+    <MacroParameter id="macro13" name="Macro13" unit="" value="0.0" minValue="0.0" maxValue="1.0" valueStep="0.0"
+                    defaultValue="0.0" index="12"/>
+    <MacroParameter id="macro14" name="Macro14" unit="" value="0.0" minValue="0.0" maxValue="1.0" valueStep="0.0"
+                    defaultValue="0.0" index="13"/>
+    <MacroParameter id="macro15" name="Macro15" unit="" value="0.0" minValue="0.0" maxValue="1.0" valueStep="0.0"
+                    defaultValue="0.0" index="14"/>
+    <MacroParameter id="macro16" name="Macro16" unit="" value="0.0" minValue="0.0" maxValue="1.0" valueStep="0.0"
+                    defaultValue="0.0" index="15"/>
+    <MacroParameter id="macro17" name="Macro17" unit="" value="0.0" minValue="0.0" maxValue="1.0" valueStep="0.0"
+                    defaultValue="0.0" index="16"/>
+    <MacroParameter id="macro18" name="Macro18" unit="" value="0.0" minValue="0.0" maxValue="1.0" valueStep="0.0"
+                    defaultValue="0.0" index="17"/>
+    <MacroParameter id="macro19" name="Macro19" unit="" value="0.0" minValue="0.0" maxValue="1.0" valueStep="0.0"
+                    defaultValue="0.0" index="18"/>
+    <MacroParameter id="macro20" name="Macro20" unit="" value="0.0" minValue="0.0" maxValue="1.0" valueStep="0.0"
+                    defaultValue="0.0" index="19"/>
+    <MacroParameter id="macro21" name="Macro21" unit="" value="0.0" minValue="0.0" maxValue="1.0" valueStep="0.0"
+                    defaultValue="0.0" index="20"/>
+    <MacroParameter id="macro22" name="Macro22" unit="" value="0.0" minValue="0.0" maxValue="1.0" valueStep="0.0"
+                    defaultValue="0.0" index="21"/>
+    <MacroParameter id="macro23" name="Macro23" unit="" value="0.0" minValue="0.0" maxValue="1.0" valueStep="0.0"
+                    defaultValue="0.0" index="22"/>
+    <MacroParameter id="macro24" name="Macro24" unit="" value="0.0" minValue="0.0" maxValue="1.0" valueStep="0.0"
+                    defaultValue="0.0" index="23"/>
+    <MacroParameter id="macro25" name="Macro25" unit="" value="0.0" minValue="0.0" maxValue="1.0" valueStep="0.0"
+                    defaultValue="0.0" index="24"/>
+    <MacroParameter id="macro26" name="Macro26" unit="" value="0.0" minValue="0.0" maxValue="1.0" valueStep="0.0"
+                    defaultValue="0.0" index="25"/>
+    <MacroParameter id="macro27" name="Macro27" unit="" value="0.0" minValue="0.0" maxValue="1.0" valueStep="0.0"
+                    defaultValue="0.0" index="26"/>
+    <MacroParameter id="macro28" name="Macro28" unit="" value="0.0" minValue="0.0" maxValue="1.0" valueStep="0.0"
+                    defaultValue="0.0" index="27"/>
+    <MacroParameter id="macro29" name="Macro29" unit="" value="0.0" minValue="0.0" maxValue="1.0" valueStep="0.0"
+                    defaultValue="0.0" index="28"/>
+    <MacroParameter id="macro30" name="Macro30" unit="" value="0.0" minValue="0.0" maxValue="1.0" valueStep="0.0"
+                    defaultValue="0.0" index="29"/>
+    <MacroParameter id="macro31" name="Macro31" unit="" value="0.0" minValue="0.0" maxValue="1.0" valueStep="0.0"
+                    defaultValue="0.0" index="30"/>
+    <MacroParameter id="macro32" name="Macro32" unit="" value="0.0" minValue="0.0" maxValue="1.0" valueStep="0.0"
+                    defaultValue="0.0" index="31"/>
+</UnifyPreset>

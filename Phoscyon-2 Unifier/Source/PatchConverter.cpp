@@ -11,7 +11,7 @@ PatchConverter::PatchConverter()
 
 void PatchConverter::test()
 {
-    File assetsDir("C:\\Users\\owner\\Documents\\GitHub\\unify-batch\\Phoscyon-2 Unifier\\Assets");
+    File assetsDir("Phoscyon-2 Unifier/Assets");
 
 #if 0
     // tear the sample patch apart to create the Phoscyon2-state.xml plugin-state XML file

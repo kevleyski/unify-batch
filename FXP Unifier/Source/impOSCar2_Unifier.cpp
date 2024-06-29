@@ -2,15 +2,15 @@
 
 impOSCar2_Unifier::impOSCar2_Unifier()
 {
-    presetsRootFolder = File("C:\\Program Files\\GForce\\impOSCar2\\Patches\\Instrument");
+    presetsRootFolder = File("/Library/Audio/Presets/GForce/impOSCar2/impOSCar2");
     presetFileType = "fxp";
-    refPatch = File("D:\\PlugInGuru\\Content Development\\GForce Software\\impOSCar2 Template.unify");
+    refPatch = File("~/unfiy-batch/Patches/impOSCar2/Kevs\ Oscar.unify");
 
     libraryName = "Unified - GF impOSCar2";
     authorName = "GForce Software";
     sourceFolder = presetsRootFolder;
     patchComment = "impOSCar2 factory patches by GForce Software";
-    outputFolder = unifyLibrariesFolder.getChildFile(libraryName).getChildFile("Patches");
+    outputFolder = unifyLibrariesFolder.getChildFile(libraryName).getChildFile("~/unfiy-batch/Patches");
 }
 
 static struct

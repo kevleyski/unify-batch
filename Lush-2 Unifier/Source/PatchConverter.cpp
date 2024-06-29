@@ -38,7 +38,7 @@ PatchConverter::PatchConverter()
 
 void PatchConverter::test()
 {
-    File assetsDir("C:\\Users\\owner\\Documents\\GitHub\\unify-batch\\Lush-2 Unifier\\Assets");
+    File assetsDir("Presets/Lush2");
 
 #if 0
     // tear the sample patch apart to create the Lush2-state.xml plugin-state XML file
