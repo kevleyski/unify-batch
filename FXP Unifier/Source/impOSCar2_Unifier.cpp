@@ -10,7 +10,7 @@ impOSCar2_Unifier::impOSCar2_Unifier()
     authorName = "GForce Software";
     sourceFolder = presetsRootFolder;
     patchComment = "impOSCar2 factory patches by GForce Software";
-    outputFolder = unifyLibrariesFolder.getChildFile(libraryName).getChildFile("~/unify-batch/Patches");
+    outputFolder = unifyLibrariesFolder.getChildFile(libraryName).getChildFile("~/unify-batch/Patches/Unify/impOSCar2");
 }
 
 static struct
