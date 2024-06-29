@@ -30,3 +30,8 @@ Another common issue which arises in preparing "unified" libraries is ensuring t
 
 "Unified" libraries are most commonly made using Unify itself, either fully manually, or using software tools like [AutoHotKey](https://www.autohotkey.com/) for partial automation. For some plug-ins, a completely different approach is feasible: processing the plug-in's own preset files to generate corresponding .unify files. [TAL Unifier](TAL%20Unifier/) is a template JUCE/C++ app for applying this approach for plug-ins from [TAL Software GmbH](https://tal-software.com).
 
+## VST2 Legacy SDK
+vst-sdk_3.7.11_build-10_2024-04-22.zip
+https://www.steinberg.net/vst3sdk
+
+https://web.archive.org/web/20181016150224/https://download.steinberg.net/sdk_downloads/vstsdk3610_11_06_2018_build_37.zip
