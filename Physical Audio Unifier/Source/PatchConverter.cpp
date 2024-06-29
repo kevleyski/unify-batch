@@ -60,7 +60,7 @@ void PatchConverter::test()
 
 #if 0
     MemoryBlock mb;
-    File unifyPatchFile("E:\\PlugInGuru\\Unify\\Libraries\\Unified - PA Derailer\\Patches\\ATMO - Gazer.unify");
+    File unifyPatchFile("~/unify-batch/Presets/Unify\\Unified - PA Derailer\\Patches\\ATMO - Gazer.unify");
     unifyPatchFile.loadFileAsData(mb);
     auto patchXml = AudioProcessor::getXmlFromBinary(mb.getData(), mb.getSize());
 

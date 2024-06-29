@@ -49,23 +49,23 @@ void PatchConverter::test()
 
     auto vst3stateXml = AudioProcessor::getXmlFromBinary(mb.getData(), mb.getSize());
 
-    //File outFile("C:\\Users\\owner\\Documents\\GitHub\\unify-batch\\Zebralette3 Unifier\\Assets\\test.xml");
+    //File outFile("~/unify-batch~/test.xml");
     //vst3stateXml->writeTo(outFile);
 
     auto icDataString = vst3stateXml->getChildByName("IComponent")->getAllSubText();
     b64ok = mb.fromBase64Encoding(icDataString);
-    File icDataFile("C:\\Users\\owner\\Documents\\GitHub\\unify-batch\\Zebralette3 Unifier\\Assets\\ic.txt");
+    File icDataFile("~/unify-batch\\Zebralette3 Unifier\\Assets\\ic.txt");
     icDataFile.replaceWithData(mb.getData(), mb.getSize());
 
     auto ecDataString = vst3stateXml->getChildByName("IEditController")->getAllSubText();
     b64ok = mb.fromBase64Encoding(ecDataString);
-    File ecDataFile("C:\\Users\\owner\\Documents\\GitHub\\unify-batch\\Zebralette3 Unifier\\Assets\\ec.txt");
+    File ecDataFile("~/unify-batch\\Zebralette3 Unifier\\Assets\\ec.txt");
     ecDataFile.replaceWithData(mb.getData(), mb.getSize());
 #endif
 
 #if 0
     MemoryBlock mb;
-    File unifyPatchFile("E:\\PlugInGuru\\Unify\\Libraries\\Unified - PA Derailer\\Patches\\ATMO - Gazer.unify");
+    File unifyPatchFile("~/unify-batch/Presets/Unify\\Unified - PA Derailer\\Patches\\ATMO - Gazer.unify");
     unifyPatchFile.loadFileAsData(mb);
     auto patchXml = AudioProcessor::getXmlFromBinary(mb.getData(), mb.getSize());
 

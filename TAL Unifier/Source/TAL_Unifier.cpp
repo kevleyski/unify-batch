@@ -3,7 +3,7 @@
 TAL_Unifier::TAL_Unifier()
     : volumeScaling(1.0)
 {
-    unifyLibrariesFolder = File("E:\\PlugInGuru\\Unify\\Libraries");
+    unifyLibrariesFolder = File("~/unify-batch/Presets/Unify");
 }
 
 void TAL_Unifier::makeUnifiedLibrary()

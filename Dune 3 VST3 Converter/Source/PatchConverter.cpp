@@ -14,14 +14,14 @@ static void AnalyzeVST2State()
     //MemoryBlock memBlock;
     //memBlock.fromBase64Encoding(stateInfo);
 
-    File patchFile("E:\\PlugInGuru\\Staging\\Subsonic Artz Dunes of Arrakis V1\\Subsonic Artz Sands of ARRAKIS Unify\\Libraries\\Subsonic Artz Sands of ARRAKIS\\Patches\\BL - Awareness narcotic.unify");
+    File patchFile("~/unify-batch/Presets/Staging\\Subsonic Artz Dunes of Arrakis V1\\Subsonic Artz Sands of ARRAKIS Unify\\Libraries\\Subsonic Artz Sands of ARRAKIS\\Patches\\BL - Awareness narcotic.unify");
     MemoryBlock memBlock;
     patchFile.loadFileAsData(memBlock);
     auto vst2PatchXml = juce::AudioProcessor::getXmlFromBinary(memBlock.getData(), int(memBlock.getSize()));
     String vst2stateInfo = vst2PatchXml->getChildByName("Layer")->getChildByName("Instrument")->getStringAttribute("stateInformation");
     memBlock.fromBase64Encoding(vst2stateInfo);
 
-    File outFile("E:\\PlugInGuru\\Dune Decoding\\Dune VST2 State Info.bin");
+    File outFile("~/unify-batch/Presets/Dune Decoding\\Dune VST2 State Info.bin");
     outFile.create();
     outFile.replaceWithData(memBlock.getData(), memBlock.getSize());
 }
@@ -34,7 +34,7 @@ static void AnalyzeVST3State()
 
     MemoryBlock memBlock;
     memBlock.fromBase64Encoding(stateInfo);
-    //File outFile("E:\\PlugInGuru\\Dune Decoding\\Dune VST3 Decoded VST3 state.bin");
+    //File outFile("~/unify-batch/Presets/Dune Decoding\\Dune VST3 Decoded VST3 state.bin");
     //outFile.create();
     //outFile.replaceWithData(memBlock.getData(), memBlock.getSize());
 
@@ -42,7 +42,7 @@ static void AnalyzeVST3State()
         String sdata((char*)(memBlock.getData()) + 8, int(memBlock.getSize()) - 9);
         auto vst3stateXml = parseXML(sdata);
         String iComponentDataStr = vst3stateXml->getChildByName("IComponent")->getAllSubText();
-        //File outFile("E:\\PlugInGuru\\Dune Decoding\\Dune VST3 IComponent data.bin");
+        //File outFile("~/unify-batch/Presets/Dune Decoding\\Dune VST3 IComponent data.bin");
         //outFile.create();
         //outFile.replaceWithText(iComponentDataStr);
 
@@ -53,7 +53,7 @@ static void AnalyzeVST3State()
         //Base64::convertFromBase64(ms, iComponentDataStr);
         //ms.flush();
 
-        File outFile("E:\\PlugInGuru\\Dune Decoding\\Dune VST3 Decoded IComponent data.bin");
+        File outFile("~/unify-batch/Presets/Dune Decoding\\Dune VST3 Decoded IComponent data.bin");
         outFile.create();
         outFile.replaceWithData(memBlock.getData(), memBlock.getSize());
     }
@@ -61,7 +61,7 @@ static void AnalyzeVST3State()
     //{
     //    String sdata((char*)(memBlock.getData()) + 4, int(memBlock.getSize()) - 4);
     //    auto opxStateXml = parseXML(sdata);
-    //    File outFile("E:\\PlugInGuru\\Unify\\Presets\\Plugin States\\Dune VST3 Test.xml");
+    //    File outFile("~/unify-batch/Presets/Unify/Presets\\Plugin States\\Dune VST3 Test.xml");
     //    opxStateXml->writeTo(outFile);
     //}
 }

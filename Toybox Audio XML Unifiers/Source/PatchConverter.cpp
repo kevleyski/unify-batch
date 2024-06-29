@@ -10,7 +10,7 @@ PatchConverter::PatchConverter()
 
 void PatchConverter::test()
 {
-    File assetsDir("C:\\Users\\owner\\Documents\\GitHub\\unify-batch\\Toybox Audio XML Unifiers\\Assets");
+    File assetsDir("~/unify-batch\\Toybox Audio XML Unifiers\\Assets");
 
 #if 1
     // tear the sample patch apart to create the plugin-state XML file

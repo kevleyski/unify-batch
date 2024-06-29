@@ -17,7 +17,7 @@ PatchConverter::PatchConverter()
 
     MemoryBlock memBlock;
     memBlock.fromBase64Encoding(stateInfo);
-    //File outFile("E:\\PlugInGuru\\Unify\\Presets\\Plugin States\\OPX Test.bin");
+    //File outFile("~/unify-batch/Presets/Unify/Presets\\Plugin States\\OPX Test.bin");
     //outFile.create();
     //outFile.replaceWithData(memBlock.getData(), memBlock.getSize());
 
@@ -31,7 +31,7 @@ PatchConverter::PatchConverter()
     {
         String sdata((char*)(memBlock.getData()) + 4, int(memBlock.getSize()) - 4);
         auto opxStateXml = parseXML(sdata);
-        File outFile("E:\\PlugInGuru\\Unify\\Presets\\Plugin States\\OPX Test.xml");
+        File outFile("~/unify-batch/Presets/Unify/Presets\\Plugin States\\OPX Test.xml");
         opxStateXml->writeTo(outFile);
     }
 #endif

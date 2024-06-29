@@ -106,9 +106,9 @@ folderPrefix[] =
 
 Pha_Unifier::Pha_Unifier()
 {
-    talPresetsFolder = File("C:\\Users\\owner\\AppData\\Roaming\\ToguAudioLine\\TAL-Pha\\presets");
+    talPresetsFolder = File("/Library/Audio/Presets/TAL-Togu\ Audio\ Line");
     presetFileType = "talalpha";
-    refPatch = File("E:\\PlugInGuru\\Unify\\Libraries\\Unified - TAL-Pha\\TAL-Pha Template.unify");
+    refPatch = File("~/unfiy-batch/TALPha/Kevs\ TALPha.unify");
 
     // uncomment just one
     //String sourceFolderName("Factory Bank A");

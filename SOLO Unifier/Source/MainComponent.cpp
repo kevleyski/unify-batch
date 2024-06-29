@@ -77,14 +77,14 @@ void MainComponent::filesDropped(const StringArray& filePaths, int, int)
 
 void MainComponent::Test(void)
 {
-	File stateFile("E:\\PlugInGuru\\Unify\\Presets\\Plugin States\\SOLO Arabesque Strings.xml");
+	File stateFile("~/unify-batch/Presets/Unify/Presets\\Plugin States\\SOLO Arabesque Strings.xml");
 	auto stateXml = parseXML(stateFile);
 	String stateInfo = stateXml->getStringAttribute("stateInformation");
 
 	MemoryBlock memBlock;
 	memBlock.fromBase64Encoding(stateInfo);
 
-	File outFile("E:\\PlugInGuru\\Unify\\Presets\\Plugin States\\SOLO Arabesque Strings.bin");
+	File outFile("~/unify-batch/Presets/Unify/Presets\\Plugin States\\SOLO Arabesque Strings.bin");
 	outFile.create();
 	outFile.replaceWithData(memBlock.getData(), memBlock.getSize());
 }
