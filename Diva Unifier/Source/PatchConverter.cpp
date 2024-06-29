@@ -174,10 +174,10 @@ XmlElement* PatchConverter::processPresetFile(File inFile, String& newPatchNameO
     instXml->setAttribute("stateInformation", b64state);
     auto pmXml = patchXml->getChildByName("PresetMetadata");
     pmXml->setAttribute("name", newPatchNameOrErrorMessage);
-    pmXml->setAttribute("author", author.isEmpty() ? "U-He" : author);
+    pmXml->setAttribute("author", author.isEmpty() ? "U-He Unify" : author);
     pmXml->setAttribute("category", category);
     pmXml->setAttribute("tags", tags);
-    pmXml->setAttribute("comment", "Factory presets by U-He");
+    pmXml->setAttribute("comment", "Factory presets by U-He converted for Unify");
     if (libraryName.isNotEmpty()) pmXml->setAttribute("library", libraryName);
 
     return patchXml;
