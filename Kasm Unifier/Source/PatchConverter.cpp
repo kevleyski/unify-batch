@@ -1,5 +1,6 @@
 #pragma once
 #include "PatchConverter.h"
+#include "BinaryData.h"
 
 static struct
 {

@@ -19,8 +19,8 @@
 #
 # ==============================================================================
 
-juce_add_gui_app(kasm_unify_patchmaker
-    BUNDLE_ID                       com.pyrmontbrewery.kasm_unify_patchmaker
+juce_add_gui_app(Kasm_Unifier
+    BUNDLE_ID                       com.pyrmontbrewery.Kasm_Unifier
     NEEDS_CURL                      TRUE
     NEEDS_WEB_BROWSER               TRUE
     MICROPHONE_PERMISSION_ENABLED   TRUE
@@ -38,15 +38,17 @@ juce_add_gui_app(kasm_unify_patchmaker
                                     UIInterfaceOrientationLandscapeLeft
                                     UIInterfaceOrientationLandscapeRight)
 
-juce_generate_juce_header(kasm_unify_patchmaker)
+juce_generate_juce_header(Kasm_Unifier)
 
-target_sources(kasm_unify_patchmaker PRIVATE
+target_include_directories(Kasm_Unifier PUBLIC JuceLibraryCode)
+
+target_sources(Kasm_Unifier PRIVATE
     Source/MainComponent.cpp
     Source/PatchConverter.cpp
     JuceLibraryCode/BinaryData.cpp
     Source/Main.cpp)
 
-target_compile_definitions(kasm_unify_patchmaker PRIVATE
+target_compile_definitions(Kasm_Unifier PRIVATE
     PIP_JUCE_EXAMPLES_DIRECTORY_STRING="${JUCE_SOURCE_DIR}/examples"
     JUCE_ALLOW_STATIC_NULL_VARIABLES=0
     JUCE_CONTENT_SHARING=1
@@ -65,7 +67,7 @@ target_compile_definitions(kasm_unify_patchmaker PRIVATE
     # deploy to older versions of macOS/iOS.
     JUCE_SILENCE_XCODE_15_LINKER_WARNING=1)
 
-target_link_libraries(kasm_unify_patchmaker PRIVATE
+target_link_libraries(Kasm_Unifier PRIVATE
     juce::juce_analytics
     juce::juce_animation
     juce::juce_audio_utils
@@ -80,5 +82,5 @@ target_link_libraries(kasm_unify_patchmaker PRIVATE
     juce::juce_recommended_warning_flags)
 
 foreach(folder IN ITEMS ./Assets)
-    juce_add_bundle_resources_directory(kasm_unify_patchmaker ${folder})
+    juce_add_bundle_resources_directory(Kasm_Unifier ${folder})
 endforeach()

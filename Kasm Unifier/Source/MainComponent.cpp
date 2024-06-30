@@ -2,17 +2,21 @@
 #include <stdlib.h>
 #include <time.h>
 
+const String DEFAULT_UNIFY_PATCHES_FOLDER_PATH = "/Library/Audio/Presets/PlugInGuru/Unify";
+
 MainComponent::MainComponent()
 {
-    message = "Edit settings below, then drag .h2p files or folders here";
+    message = "Select Unify patch folder to generate, then drag plugin presets (.h2p files) or folders of patches here...";
 
 	// Output path
 	outputPathLabel.setJustificationType(Justification::topLeft);
-	outputPathLabel.setText("Click to set. If not set, files cannot be processed.", dontSendNotification);
+	outputPathLabel.setText("(click folder below to change)", dontSendNotification);
 	addAndMakeVisible(outputPathLabel);
 
 	outputFolderPathLabel.setText("Output Folder:", dontSendNotification);
 	outputFolderPathLabel.setJustificationType(Justification::right);
+    outputFolderPath.setButtonText(DEFAULT_UNIFY_PATCHES_FOLDER_PATH);
+
 	outputFolderPathLabel.attachToComponent(&outputFolderPath, true);
 	addAndMakeVisible(outputFolderPath);
 	outputFolderPath.onClick = [this]()
@@ -21,6 +25,9 @@ MainComponent::MainComponent()
 		if (chooser.browseForDirectory())
 		{
 			String path = chooser.getResult().getFullPathName();
+            if (path.length() == 0) {
+                path = DEFAULT_UNIFY_PATCHES_FOLDER_PATH;
+            }
 			outputFolderPath.setButtonText(path);
 			patchConverter.outputFolderPath = path;
 		}
@@ -63,12 +70,11 @@ void MainComponent::filesDropped(const StringArray& filePaths, int, int)
 {
 	if (patchConverter.outputFolderPath.isEmpty())
 	{
-		message = "Must set output file path first";
+        patchConverter.outputFolderPath = DEFAULT_UNIFY_PATCHES_FOLDER_PATH;
 	}
-	else
-	{
-		int fileCount = patchConverter.processFiles(filePaths);
-		message = String(fileCount) + " files processed.";
-	}
+
+    int fileCount = patchConverter.processFiles(filePaths);
+    message = String(fileCount) + " files processed.";
+
 	repaint();
 }
