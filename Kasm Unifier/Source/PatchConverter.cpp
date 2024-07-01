@@ -36,6 +36,8 @@ PatchConverter::PatchConverter()
     unifyPatchXml_Diva = parseXML(BinaryData::One_Diva_Layer_xml);
     unifyPatchXml_Zebra2 = parseXML(BinaryData::One_Zebra2_Layer_xml);
     unifyPatchXml_ZebraHZ = parseXML(BinaryData::One_ZebraHZ_Layer_xml);
+    unifyPatchXml_Zebralette = parseXML(BinaryData::One_Zebralette_Layer_xml);
+    unifyPatchXml_Zebralette3 = parseXML(BinaryData::One_Zebralette3_Layer_xml);
 
     //test();
 }
@@ -186,6 +188,10 @@ XmlElement* PatchConverter::processPresetFile(File inFile, String& newPatchNameO
         patchXml = new XmlElement(*unifyPatchXml_ZebraHZ);
     } else if (patchFile.indexOf("#AM=Zebra2") >= 0) {
         patchXml = new XmlElement(*unifyPatchXml_Zebra2);
+    } else if (patchFile.indexOf("#AM=Zebralette3") >= 0) {
+        patchXml = new XmlElement(*unifyPatchXml_Zebralette3);
+    } else if (patchFile.indexOf("#AM=Zebralette") >= 0) {
+        patchXml = new XmlElement(*unifyPatchXml_Zebralette);
     } else {
         return NULL;
     }
