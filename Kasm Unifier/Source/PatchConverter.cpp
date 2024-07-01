@@ -40,6 +40,7 @@ PatchConverter::PatchConverter()
     unifyPatchXml_Zebralette3 = parseXML(BinaryData::One_Zebralette3_Layer_xml);
     unifyPatchXml_Spire = parseXML(BinaryData::One_Spire_Layer_xml);
     unifyPatchXml_Twin3 = parseXML(BinaryData::One_Twin3_Layer_xml);
+    unifyPatchXml_Pigments = parseXML(BinaryData::One_Pigments_Layer_xml);
 
     //test();
 }
@@ -147,8 +148,8 @@ XmlElement* PatchConverter::processPresetFile(File inFile, String& newPatchNameO
     String author = presetStr.fromFirstOccurrenceOf("Author:\n'", false, false).upToFirstOccurrenceOf("'", false, false);
     String comment = presetStr.fromFirstOccurrenceOf("Usage:\n'", false, false).upToFirstOccurrenceOf("'", false, false);
     String tags = presetStr.fromFirstOccurrenceOf("Categories:\n'", false, false).upToFirstOccurrenceOf("'", false, false);
-    String prefix = "UNKOWN";
-    String category = "UNKOWN";
+    String prefix = "UNKNOWN";
+    String category = "UNKNOWN";
     for (auto& wpc : wordPrefixCategory)
     {
         if (tags.containsIgnoreCase(wpc.word))
@@ -159,8 +160,8 @@ XmlElement* PatchConverter::processPresetFile(File inFile, String& newPatchNameO
         }
     }
 
-    if (prefix.indexOf("UNKOWN") == 0) {
-        newPatchNameOrErrorMessage = presetName;
+    if (prefix.indexOf("UNKNOWN") == 0) {
+        newPatchNameOrErrorMessage = "KASM - " + presetName;
     } else {
         newPatchNameOrErrorMessage = prefix + " - " + presetName;
     }
@@ -211,6 +212,9 @@ XmlElement* PatchConverter::processPresetFile(File inFile, String& newPatchNameO
     } else if (patchFile.indexOf("FT3") >= 0) {
         patchXml = new XmlElement(*unifyPatchXml_Twin3);
         commentString = "Factory presets by FabFilter converted for Unify (Kasm)";
+    } else if (patchFile.indexOf("serial") >= 0) {
+        patchXml = new XmlElement(*unifyPatchXml_Pigments);
+        commentString = "Factory presets by Arturia converted for Unify (Kasm)";
     } else {
         return NULL;
     }

@@ -35,6 +35,7 @@ private:
     std::unique_ptr<XmlElement> unifyPatchXml_Zebralette3;
     std::unique_ptr<XmlElement> unifyPatchXml_Spire;
     std::unique_ptr<XmlElement> unifyPatchXml_Twin3;
+    std::unique_ptr<XmlElement> unifyPatchXml_Pigments;
 
     JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR (PatchConverter)
 };
