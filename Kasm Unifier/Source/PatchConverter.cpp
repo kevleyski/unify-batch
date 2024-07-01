@@ -119,9 +119,9 @@ void PatchConverter::processFile(File file, int& fileCount)
         std::unique_ptr<XmlElement> patchXml(processPresetFile(file, newPatchNameOrErrorMessage));
         if (patchXml)
             saveUnifyPatch(file, newPatchNameOrErrorMessage, patchXml.get());
-        else
-            AlertWindow::showMessageBox(MessageBoxIconType::WarningIcon, "Conversion error",
-                file.getFileName() + ": " + newPatchNameOrErrorMessage);
+        else {
+            // AlertWindow::showMessageBox(MessageBoxIconType::WarningIcon, "Conversion error",file.getFileName() + ": " + newPatchNameOrErrorMessage);
+        }
 
         fileCount++;
     }
@@ -186,11 +186,8 @@ XmlElement* PatchConverter::processPresetFile(File inFile, String& newPatchNameO
         patchXml = new XmlElement(*unifyPatchXml_ZebraHZ);
     } else if (patchFile.indexOf("#AM=Zebra2") >= 0) {
         patchXml = new XmlElement(*unifyPatchXml_Zebra2);
-    } else if (patchFile.indexOf("Vital") >= 0) {
-        patchXml = new XmlElement(*unifyPatchXml_Diva);
     } else {
-        AlertWindow::showMessageBox(MessageBoxIconType::WarningIcon, "Did not detect preset format", "Kasm might not yet support this preset");
-        patchXml = new XmlElement(*unifyPatchXml_Diva);
+        return NULL;
     }
 
     auto layerXml = patchXml->getChildByName("Layer");
