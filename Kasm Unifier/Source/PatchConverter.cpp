@@ -39,6 +39,7 @@ PatchConverter::PatchConverter()
     unifyPatchXml_Zebralette = parseXML(BinaryData::One_Zebralette_Layer_xml);
     unifyPatchXml_Zebralette3 = parseXML(BinaryData::One_Zebralette3_Layer_xml);
     unifyPatchXml_Spire = parseXML(BinaryData::One_Spire_Layer_xml);
+    unifyPatchXml_Twin3 = parseXML(BinaryData::One_Twin3_Layer_xml);
 
     //test();
 }
@@ -207,6 +208,9 @@ XmlElement* PatchConverter::processPresetFile(File inFile, String& newPatchNameO
     } else if (patchFile.indexOf("\"anticlick\"") >= 0) {
         patchXml = new XmlElement(*unifyPatchXml_Spire);
         commentString = "Factory presets by Reveal Studios Spire converted for Unify (Kasm)";
+    } else if (patchFile.indexOf("FT3") >= 0) {
+        patchXml = new XmlElement(*unifyPatchXml_Twin3);
+        commentString = "Factory presets by FabFilter converted for Unify (Kasm)";
     } else {
         return NULL;
     }

@@ -17,6 +17,8 @@
             file="Assets/Uhe/Zebralette3/One Zebralette3 Layer.xml"/>
       <FILE id="XGv98A" name="One Spire Layer.xml" compile="0" resource="1"
             file="Assets/Spire/One Spire Layer.xml"/>
+      <FILE id="XGv97F" name="One Twin3 Layer.xml" compile="0" resource="1"
+            file="Assets/Twin3/One Twin3 Layer.xml"/>
     </GROUP>
     <GROUP id="{0444BDA6-8ED0-8B92-C3D3-D2AFB445879D}" name="Source">
       <FILE id="BLSL3z" name="PatchConverter.cpp" compile="1" resource="0"
