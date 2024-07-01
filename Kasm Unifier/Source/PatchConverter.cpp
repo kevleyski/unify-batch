@@ -146,8 +146,8 @@ XmlElement* PatchConverter::processPresetFile(File inFile, String& newPatchNameO
     String author = presetStr.fromFirstOccurrenceOf("Author:\n'", false, false).upToFirstOccurrenceOf("'", false, false);
     String comment = presetStr.fromFirstOccurrenceOf("Usage:\n'", false, false).upToFirstOccurrenceOf("'", false, false);
     String tags = presetStr.fromFirstOccurrenceOf("Categories:\n'", false, false).upToFirstOccurrenceOf("'", false, false);
-    String prefix = "UNKNOWN";
-    String category = "UNKNOWN";
+    String prefix = "UNKOWN";
+    String category = "UNKOWN";
     for (auto& wpc : wordPrefixCategory)
     {
         if (tags.containsIgnoreCase(wpc.word))
@@ -157,7 +157,12 @@ XmlElement* PatchConverter::processPresetFile(File inFile, String& newPatchNameO
             break;
         }
     }
-    newPatchNameOrErrorMessage = prefix + " - " + presetName;
+
+    if (prefix.indexOf("UNKOWN") == 0) {
+        newPatchNameOrErrorMessage = presetName;
+    } else {
+        newPatchNameOrErrorMessage = prefix + " - " + presetName;
+    }
 
     // load preset file as data and convert to base64
     MemoryBlock mb;
@@ -182,19 +187,26 @@ XmlElement* PatchConverter::processPresetFile(File inFile, String& newPatchNameO
 
     // determine which Unify base VST3 patch we'll amend
     String patchFile = inFile.loadFileAsString();
+    String commentString;
 
     if (patchFile.indexOf("#AM=Diva") >= 0) {
         patchXml = new XmlElement(*unifyPatchXml_Diva);
+        commentString = "Factory presets by u-he converted for Unify (Kasm)";
     } else if (patchFile.indexOf("#AM=ZebraHZ") >= 0) {
         patchXml = new XmlElement(*unifyPatchXml_ZebraHZ);
+        commentString = "Factory presets by u-he converted for Unify (Kasm)";
     } else if (patchFile.indexOf("#AM=Zebra2") >= 0) {
         patchXml = new XmlElement(*unifyPatchXml_Zebra2);
+        commentString = "Factory presets by u-he converted for Unify (Kasm)";
     } else if (patchFile.indexOf("#AM=Zebralette3") >= 0) {
         patchXml = new XmlElement(*unifyPatchXml_Zebralette3);
+        commentString = "Factory presets by u-he converted for Unify (Kasm)";
     } else if (patchFile.indexOf("#AM=Zebralette") >= 0) {
         patchXml = new XmlElement(*unifyPatchXml_Zebralette);
+        commentString = "Factory presets by u-he converted for Unify (Kasm)";
     } else if (patchFile.indexOf("\"anticlick\"") >= 0) {
         patchXml = new XmlElement(*unifyPatchXml_Spire);
+        commentString = "Factory presets by Reason Studios Spire converted for Unify (Kasm)";
     } else {
         return NULL;
     }
@@ -205,10 +217,10 @@ XmlElement* PatchConverter::processPresetFile(File inFile, String& newPatchNameO
     instXml->setAttribute("stateInformation", b64state);
     auto pmXml = patchXml->getChildByName("PresetMetadata");
     pmXml->setAttribute("name", newPatchNameOrErrorMessage);
-    pmXml->setAttribute("author", author.isEmpty() ? "u-he (Kasm)" : author);
+    pmXml->setAttribute("author", author.isEmpty() ? "Kasm" : author);
     pmXml->setAttribute("category", category);
     pmXml->setAttribute("tags", tags);
-    pmXml->setAttribute("comment", "Factory presets by u-he converted for Unify (Kasm)");
+    pmXml->setAttribute("comment", commentString);
     if (libraryName.isNotEmpty()) pmXml->setAttribute("library", libraryName);
 
     return patchXml;
