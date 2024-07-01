@@ -9,6 +9,8 @@
             file="Assets/Uhe/Diva/One Diva Layer.xml"/>
       <FILE id="XGv98E" name="One Zebra2 Layer.xml" compile="0" resource="1"
             file="Assets/Uhe/Zebra2/One Zebra2 Layer.xml"/>
+      <FILE id="XGv98D" name="One ZebraHZ Layer.xml" compile="0" resource="1"
+            file="Assets/Uhe/ZebraHZ/One ZebraHZ Layer.xml"/>
     </GROUP>
     <GROUP id="{0444BDA6-8ED0-8B92-C3D3-D2AFB445879D}" name="Source">
       <FILE id="BLSL3z" name="PatchConverter.cpp" compile="1" resource="0"

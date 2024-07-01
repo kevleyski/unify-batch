@@ -35,6 +35,7 @@ PatchConverter::PatchConverter()
 {
     unifyPatchXml_Diva = parseXML(BinaryData::One_Diva_Layer_xml);
     unifyPatchXml_Zebra2 = parseXML(BinaryData::One_Zebra2_Layer_xml);
+    unifyPatchXml_ZebraHZ = parseXML(BinaryData::One_ZebraHZ_Layer_xml);
 
     //test();
 }
@@ -179,11 +180,13 @@ XmlElement* PatchConverter::processPresetFile(File inFile, String& newPatchNameO
     // determine which Unify base VST3 patch we'll amend
     String patchFile = inFile.loadFileAsString();
 
-    if (patchFile.indexOf("#AM=Diva") > 0) {
+    if (patchFile.indexOf("#AM=Diva") >= 0) {
         patchXml = new XmlElement(*unifyPatchXml_Diva);
-    } else if (patchFile.indexOf("#AM=Zebra2")) {
+    } else if (patchFile.indexOf("#AM=ZebraHZ") >= 0) {
+        patchXml = new XmlElement(*unifyPatchXml_ZebraHZ);
+    } else if (patchFile.indexOf("#AM=Zebra2") >= 0) {
         patchXml = new XmlElement(*unifyPatchXml_Zebra2);
-    } else if (patchFile.indexOf("Vital")) {
+    } else if (patchFile.indexOf("Vital") >= 0) {
         patchXml = new XmlElement(*unifyPatchXml_Diva);
     } else {
         AlertWindow::showMessageBox(MessageBoxIconType::WarningIcon, "Did not detect preset format", "Kasm might not yet support this preset");
