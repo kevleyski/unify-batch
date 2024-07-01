@@ -6,7 +6,7 @@ const String DEFAULT_UNIFY_PATCHES_FOLDER_PATH = "/Library/Audio/Presets/PlugInG
 
 MainComponent::MainComponent()
 {
-    message = "Select Unify patch folder to generate, then drag plugin presets (.h2p files) or folders of patches here...";
+    message = "Select Unify patch folder to generate, then drag plugin presets files or folders of patches here...";
 
 	// Output path
 	outputPathLabel.setJustificationType(Justification::topLeft);
