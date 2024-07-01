@@ -28,7 +28,8 @@ protected:
 
 private:
     File outputFolder;
-    std::unique_ptr<XmlElement> unifyPatchXml;
+    std::unique_ptr<XmlElement> unifyPatchXml_Diva;
+    std::unique_ptr<XmlElement> unifyPatchXml_Zebra2;
 
     JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR (PatchConverter)
 };

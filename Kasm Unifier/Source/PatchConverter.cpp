@@ -33,7 +33,8 @@ wordPrefixCategory[] =
 
 PatchConverter::PatchConverter()
 {
-    unifyPatchXml = parseXML(BinaryData::One_Diva_Layer_xml);
+    unifyPatchXml_Diva = parseXML(BinaryData::One_Diva_Layer_xml);
+    unifyPatchXml_Zebra2 = parseXML(BinaryData::One_Zebra2_Layer_xml);
 
     //test();
 }
@@ -111,7 +112,7 @@ void PatchConverter::processFile(File file, int& fileCount)
         for (DirectoryEntry entry : RangedDirectoryIterator(file, false, "*", File::findFilesAndDirectories))
             processFile(entry.getFile(), fileCount);
     }
-    else if (file.getFileExtension() == ".h2p")
+    else if (file.getFileExtension() != ".unify")
     {
         String newPatchNameOrErrorMessage;
         std::unique_ptr<XmlElement> patchXml(processPresetFile(file, newPatchNameOrErrorMessage));
@@ -123,6 +124,10 @@ void PatchConverter::processFile(File file, int& fileCount)
 
         fileCount++;
     }
+}
+
+String base64_encode(String str) {
+    return (new MemoryBlock(str.toUTF8(), static_cast<size_t>(str.length())))->toBase64Encoding();
 }
 
 XmlElement* PatchConverter::processPresetFile(File inFile, String& newPatchNameOrErrorMessage)
@@ -169,17 +174,32 @@ XmlElement* PatchConverter::processPresetFile(File inFile, String& newPatchNameO
     b64state = mb.toBase64Encoding();
 
     // assemble new Unify patch XML
-    auto patchXml = new XmlElement(*unifyPatchXml); // deep copy
+    XmlElement* patchXml;
+
+    // determine which Unify base VST3 patch we'll amend
+    String patchFile = inFile.loadFileAsString();
+
+    if (patchFile.indexOf("#AM=Diva") > 0) {
+        patchXml = new XmlElement(*unifyPatchXml_Diva);
+    } else if (patchFile.indexOf("#AM=Zebra2")) {
+        patchXml = new XmlElement(*unifyPatchXml_Zebra2);
+    } else if (patchFile.indexOf("Vital")) {
+        patchXml = new XmlElement(*unifyPatchXml_Diva);
+    } else {
+        AlertWindow::showMessageBox(MessageBoxIconType::WarningIcon, "Did not detect preset format", "Kasm might not yet support this preset");
+        patchXml = new XmlElement(*unifyPatchXml_Diva);
+    }
+
     auto layerXml = patchXml->getChildByName("Layer");
     layerXml->setAttribute("layerTitle", newPatchNameOrErrorMessage);
     auto instXml = layerXml->getChildByName("Instrument");
     instXml->setAttribute("stateInformation", b64state);
     auto pmXml = patchXml->getChildByName("PresetMetadata");
     pmXml->setAttribute("name", newPatchNameOrErrorMessage);
-    pmXml->setAttribute("author", author.isEmpty() ? "U-He (Kasm)" : author);
+    pmXml->setAttribute("author", author.isEmpty() ? "u-he (Kasm)" : author);
     pmXml->setAttribute("category", category);
     pmXml->setAttribute("tags", tags);
-    pmXml->setAttribute("comment", "Factory presets by U-He converted for Unify (Kasm)");
+    pmXml->setAttribute("comment", "Factory presets by u-he converted for Unify (Kasm)");
     if (libraryName.isNotEmpty()) pmXml->setAttribute("library", libraryName);
 
     return patchXml;
