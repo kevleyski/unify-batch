@@ -206,7 +206,7 @@ XmlElement* PatchConverter::processPresetFile(File inFile, String& newPatchNameO
         commentString = "Factory presets by u-he converted for Unify (Kasm)";
     } else if (patchFile.indexOf("\"anticlick\"") >= 0) {
         patchXml = new XmlElement(*unifyPatchXml_Spire);
-        commentString = "Factory presets by Reason Studios Spire converted for Unify (Kasm)";
+        commentString = "Factory presets by Reveal Studios Spire converted for Unify (Kasm)";
     } else {
         return NULL;
     }
