@@ -41,6 +41,7 @@ PatchConverter::PatchConverter()
     unifyPatchXml_Spire = parseXML(BinaryData::One_Spire_Layer_xml);
     unifyPatchXml_Twin3 = parseXML(BinaryData::One_Twin3_Layer_xml);
     unifyPatchXml_Pigments = parseXML(BinaryData::One_Pigments_Layer_xml);
+    unifyPatchXml_Kontakt = parseXML(BinaryData::One_Kontakt_Layer_xml);
 
     //test();
 }
@@ -142,6 +143,7 @@ XmlElement* PatchConverter::processPresetFile(File inFile, String& newPatchNameO
     return nullptr;
 #else
     String presetName = inFile.getFileNameWithoutExtension();
+    String presetExtension = inFile.getFileExtension();
 
     // load preset file as text and parse the metadata
     String presetStr = inFile.loadFileAsString();
@@ -215,6 +217,9 @@ XmlElement* PatchConverter::processPresetFile(File inFile, String& newPatchNameO
     } else if (patchFile.indexOf("serial") >= 0) {
         patchXml = new XmlElement(*unifyPatchXml_Pigments);
         commentString = "Factory presets by Arturia converted for Unify (Kasm)";
+    } else if (presetExtension.indexOf("nki") >= 0) {
+        patchXml = new XmlElement(*unifyPatchXml_Kontakt);
+        commentString = "Factory presets by Native Instruments converted for Unify (Kasm)";
     } else {
         return NULL;
     }

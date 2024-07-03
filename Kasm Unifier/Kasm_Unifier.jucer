@@ -21,6 +21,8 @@
             file="Assets/Twin3/One Twin3 Layer.xml"/>
       <FILE id="XGv97E" name="One Pigments Layer.xml" compile="0" resource="1"
             file="Assets/Pigments/One Pigments Layer.xml"/>
+      <FILE id="XGv97D" name="One Kontakt Layer.xml" compile="0" resource="1"
+            file="Assets/Kontakt/One Kontakt Layer.xml"/>
     </GROUP>
     <GROUP id="{0444BDA6-8ED0-8B92-C3D3-D2AFB445879D}" name="Source">
       <FILE id="BLSL3z" name="PatchConverter.cpp" compile="1" resource="0"
