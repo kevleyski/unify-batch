@@ -37,6 +37,8 @@ private:
     std::unique_ptr<XmlElement> unifyPatchXml_Twin3;
     std::unique_ptr<XmlElement> unifyPatchXml_Pigments;
     std::unique_ptr<XmlElement> unifyPatchXml_Kontakt;
+    std::unique_ptr<XmlElement> unifyPatchXml_Omnisphere_Multi;
+    std::unique_ptr<XmlElement> unifyPatchXml_Omnisphere_Patch;
 
     JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR (PatchConverter)
 };

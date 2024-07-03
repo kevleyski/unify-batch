@@ -23,6 +23,10 @@
             file="Assets/Pigments/One Pigments Layer.xml"/>
       <FILE id="XGv97D" name="One Kontakt Layer.xml" compile="0" resource="1"
             file="Assets/Kontakt/One Kontakt Layer.xml"/>
+      <FILE id="XGv97C" name="One Omnisphere Multi Layer.xml" compile="0"
+            resource="1" file="Assets/Omnisphere/One Omnisphere Multi Layer.xml"/>
+      <FILE id="XGv97B" name="One Omnisphere Patch Layer.xml" compile="0"
+            resource="1" file="Assets/Omnisphere/One Omnisphere Patch Layer.xml"/>
     </GROUP>
     <GROUP id="{0444BDA6-8ED0-8B92-C3D3-D2AFB445879D}" name="Source">
       <FILE id="BLSL3z" name="PatchConverter.cpp" compile="1" resource="0"
