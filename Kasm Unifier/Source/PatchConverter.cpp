@@ -45,6 +45,7 @@ PatchConverter::PatchConverter()
     unifyPatchXml_Omnisphere_Multi = parseXML(BinaryData::One_Omnisphere_Multi_Layer_xml);
     unifyPatchXml_Omnisphere_Patch = parseXML(BinaryData::One_Omnisphere_Patch_Layer_xml);
     unifyPatchXml_Batallion_Patch = parseXML(BinaryData::One_Batallion_Layer_xml);
+    unifyPatchXml_Lion_Patch = parseXML(BinaryData::One_Lion_Layer_xml);
 
     //test();
 }
@@ -230,8 +231,13 @@ XmlElement* PatchConverter::processPresetFile(File inFile, String& newPatchNameO
         patchXml = new XmlElement(*unifyPatchXml_Omnisphere_Patch);
         commentString = "Factory presets by Omnishpere converted for Unify (Kasm)";
     } else if (presetExtension.indexOf("uap") >= 0) {
-        patchXml = new XmlElement(*unifyPatchXml_Batallion_Patch);
-        commentString = "Factory presets by Unified Plugins converted for Unify (Kasm)";
+        if (patchFile.indexOf("drum1distortenv1") >= 0) {
+            patchXml = new XmlElement(*unifyPatchXml_Batallion_Patch);
+            commentString = "Factory presets by Unified Plugins converted for Unify (Kasm)";
+        } else {
+            patchXml = new XmlElement(*unifyPatchXml_Lion_Patch);
+            commentString = "Factory presets by Unified Plugins converted for Unify (Kasm)";
+        }
     } else {
         return NULL;
     }

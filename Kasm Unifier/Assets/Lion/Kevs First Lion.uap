@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LIONSETTINGS pluginVersion="1.5.0" presetName="Kevs First Lion" ModControl1="0.06201545149087906"
+              ModControl1Scaled="0.06201545149087906" ModControl2="0.04604452848434448"
+              ModControl2Scaled="0.04604452848434448" ModControl3="0.02016141451895237"
+              ModControl3Scaled="0.02016141451895237" ModControl4="0.08401202410459518"
+              ModControl4Scaled="0.08401202410459518" ModControl5="0.09304844588041306"
+              ModControl5Scaled="0.09304844588041306" ModControl6="0.06870905309915543"
+              ModControl6Scaled="0.06870905309915543" ModControl7="0.08037747442722321"
+              ModControl7Scaled="0.08037747442722321" ModControl8="0.09390796720981598"
+              ModControl8Scaled="0.09390796720981598" ModControl9="0.0433213971555233"
+              ModControl9Scaled="0.0433213971555233" ModControl10="0.02924819104373455"
+              ModControl10Scaled="0.02924819104373455" ModControl11="0.0860741138458252"
+              ModControl11Scaled="0.0860741138458252" ModControl12="0.04577941820025444"
+              ModControl12Scaled="0.04577941820025444" ModControl13="0.06640352308750153"
+              ModControl13Scaled="0.06640352308750153" ModControl14="0.04316505417227745"
+              ModControl14Scaled="0.04316505417227745" ModControl15="0.08677089214324951"
+              ModControl15Scaled="0.08677089214324951" ModControl16="0.09260813146829605"
+              ModControl16Scaled="0.09260813146829605" ModControl17="0.04257914051413536"
+              ModControl17Scaled="0.04257914051413536" ModControl18="0.0345626138150692"
+              ModControl18Scaled="0.0345626138150692" ModControl19="0.02911257743835449"
+              ModControl19Scaled="0.02911257743835449" ModControl20="0.09529212862253189"
+              ModControl20Scaled="0.09529212862253189" ModControl21="0.03373044729232788"
+              ModControl21Scaled="0.03373044729232788" ModControl22="0.01133902091532946"
+              ModControl22Scaled="0.01133902091532946" ModControl23="0.06487701088190079"
+              ModControl23Scaled="0.06487701088190079" ModControl24="0.0759659931063652"
+              ModControl24Scaled="0.0759659931063652" ModControl25="0.09447038173675537"
+              ModControl25Scaled="0.09447038173675537" ModControl26="0.04663289710879326"
+              ModControl26Scaled="0.04663289710879326" ModControl27="0.01523290853947401"
+              ModControl27Scaled="0.01523290853947401" ModControl28="0.07757120579481125"
+              ModControl28Scaled="0.07757120579481125" ModControl29="0.03952538967132568"
+              ModControl29Scaled="0.03952538967132568" ModControl30="0.0665186420083046"
+              ModControl30Scaled="0.0665186420083046" ModControl31="0.09124767035245895"
+              ModControl31Scaled="0.09124767035245895" ModControl32="0.02967642620205879"
+              ModControl32Scaled="0.02967642620205879" Attack="0.3808926343917847"
+              AttackScaled="1.105191946029663" Attack_Curve="0.2106593698263168"
+              Attack_CurveScaled="-3.472087383270264" Decay="0.3541412949562073"
+              DecayScaled="0.8883000612258911" Decay_Curve="0.814648449420929"
+              Decay_CurveScaled="-3.775781393051147" Sustain="0.6220442652702332"
+              SustainScaled="0.6220442652702332" Release="0.4041948020458221"
+              ReleaseScaled="1.320693969726562" Release_Curve="0.8479043245315552"
+              Release_CurveScaled="-4.174851894378662" Osc1Mode="Wavefold"
+              Osc1Tune="0.5" Osc1TuneScaled="1.0" Sub1Tune="0.5" Sub1TuneScaled="1.0"
+              Osc1Ctrl1="0.537653386592865" Osc1Ctrl1Scaled="0.537653386592865"
+              Osc1Ctrl2="0.4529553055763245" Osc1Ctrl2Scaled="0.4529553055763245"
+              Osc1Ctrl3="0.4853213727474213" Osc1Ctrl3Scaled="0.4853213727474213"
+              QuantOsc1="Chromatic" QuantSub1="Minor" Osc1Pan="0.4431171417236328"
+              Osc1PanScaled="-0.1137657165527344" O1Stereo="0.0" O1StereoScaled="0.0"
+              O1Enable="1.0" O1EnableScaled="1.0" O1Drift="1.0" O1DriftScaled="1.0"
+              O1UniNum="2" O1UniTune="0.09374053776264191" O1UniTuneScaled="0.008787288330495358"
+              O1UniSub="0.08490081876516342" O1UniSubScaled="0.007208148948848248"
+              O1UniP1="0.04553290829062462" O1UniP1Scaled="0.002073245821520686"
+              O1UniP2="0.07414527237415314" O1UniP2Scaled="0.005497521255165339"
+              O1UniP3="0.05076846107840538" O1UniP3Scaled="0.002577436622232199"
+              O1UniPan="0.07883614301681519" O1UniPanScaled="0.006215137429535389"
+              Osc2Mode="Wavefold" Osc2Tune="0.5" Osc2TuneScaled="1.0" Sub2Tune="0.5"
+              Sub2TuneScaled="1.0" Osc2Ctrl1="0.5132248401641846" Osc2Ctrl1Scaled="0.5132248401641846"
+              Osc2Ctrl2="0.4860228300094604" Osc2Ctrl2Scaled="0.4860228300094604"
+              Osc2Ctrl3="0.4241980612277985" Osc2Ctrl3Scaled="0.4241980612277985"
+              QuantOsc2="Chromatic" QuantSub2="Chromatic" Osc2Pan="0.4252542555332184"
+              Osc2PanScaled="-0.1494914889335632" O2Stereo="0.0" O2StereoScaled="0.0"
+              O2Enable="0.0" O2EnableScaled="0.0" O2Drift="0.0" O2DriftScaled="0.0"
+              O2UniNum="Off" O2UniTune="0.04412690550088882" O2UniTuneScaled="0.001947183744050562"
+              O2UniSub="0.07417763769626617" O2UniSubScaled="0.005502321757376194"
+              O2UniP1="0.08206722885370255" O2UniP1Scaled="0.006735030096024275"
+              O2UniP2="0.06098927184939384" O2UniP2Scaled="0.003719691187143326"
+              O2UniP3="0.04183278232812881" O2UniP3Scaled="0.001749981660395861"
+              O2UniPan="0.06632232666015625" O2UniPanScaled="0.004398650955408812"
+              MixMode="Linear XFade" MixSpecial="0.4887644052505493" MixSpecialScaled="0.4887644052505493"
+              Gain1="0.9782081246376038" Gain1Scaled="0.9782081246376038" Gain2="0.9965419769287109"
+              Gain2Scaled="0.9965419769287109" FiltMode="LP12" DriveOn="0.0"
+              DriveOnScaled="0.0" Drive="0.5750667452812195" DriveScaled="0.5750667452812195"
+              Cutoff="0.9231683611869812" CutoffScaled="15739.482421875" Res="0.08802273124456406"
+              ResScaled="1.880227327346802" Invert="0.0" InvertScaled="0.0"
+              FEnable="1.0" FEnableScaled="1.0" Pan="0.5635404586791992" PanScaled="0.1270809173583984"
+              OutGain="0.7859920859336853" OutGainScaled="1.415664792060852"
+              BYOMEMix="0.9053477048873901" BYOMEMixScaled="0.9053477048873901"
+              SoftClip="0.0" SoftClipScaled="0.0" Legato="0.05291668325662613"
+              LegatoScaled="0.05291668325662613" Transpose="0.5" TransposeScaled="1.0"
+              RandUniPhz="0.0" RandUniPhzScaled="0.0" LegatoMod="0.0" LegatoModScaled="0.0"
+              tuningName="Default" NumberOfVoices="Poly 4" OnlineQuality="1x"
+              OfflineQuality="1x" LegatoRate="0.0" LegatoRateScaled="0.0">
+  <modulation footerMode="0" mute="0">
+    <mods>
+      <mod_0 index="0" bipolar="1" tempoSync="0" minimized="1" type="macro">
+        <outputs>
+          <out_0 scale="1.0" macroIndex="0"/>
+          <out_1 scale="1.0" macroIndex="1"/>
+          <out_2 scale="1.0" macroIndex="2"/>
+          <out_3 scale="1.0" macroIndex="3"/>
+          <out_4 scale="1.0" macroIndex="4"/>
+          <out_5 scale="1.0" macroIndex="5"/>
+          <out_6 scale="1.0" macroIndex="6"/>
+          <out_7 scale="1.0" macroIndex="7"/>
+          <out_8 scale="1.0" macroIndex="8"/>
+          <out_9 scale="1.0" macroIndex="9"/>
+          <out_10 scale="1.0" macroIndex="10"/>
+          <out_11 scale="1.0" macroIndex="11"/>
+          <out_12 scale="1.0" macroIndex="12"/>
+          <out_13 scale="1.0" macroIndex="13"/>
+          <out_14 scale="1.0" macroIndex="14"/>
+          <out_15 scale="1.0" macroIndex="15"/>
+          <out_16 scale="1.0" macroIndex="16"/>
+          <out_17 scale="1.0" macroIndex="17"/>
+          <out_18 scale="1.0" macroIndex="18"/>
+          <out_19 scale="1.0" macroIndex="19"/>
+          <out_20 scale="1.0" macroIndex="20"/>
+          <out_21 scale="1.0" macroIndex="21"/>
+          <out_22 scale="1.0" macroIndex="22"/>
+          <out_23 scale="1.0" macroIndex="23"/>
+          <out_24 scale="1.0" macroIndex="24"/>
+          <out_25 scale="1.0" macroIndex="25"/>
+          <out_26 scale="1.0" macroIndex="26"/>
+          <out_27 scale="1.0" macroIndex="27"/>
+          <out_28 scale="1.0" macroIndex="28"/>
+          <out_29 scale="1.0" macroIndex="29"/>
+          <out_30 scale="1.0" macroIndex="30"/>
+          <out_31 scale="1.0" macroIndex="31"/>
+        </outputs>
+        <sliders>
+          <slider name="AMP" value="0.6051311492919922" scaledValue="0.2102622985839844"/>
+          <slider name="ModControl1" value="0.06201545149087906" scaledValue="0.06201545149087906"/>
+          <slider name="ModControl2" value="0.04604452848434448" scaledValue="0.04604452848434448"/>
+          <slider name="ModControl3" value="0.02016141451895237" scaledValue="0.02016141451895237"/>
+          <slider name="ModControl4" value="0.08401202410459518" scaledValue="0.08401202410459518"/>
+          <slider name="ModControl5" value="0.09304844588041306" scaledValue="0.09304844588041306"/>
+          <slider name="ModControl6" value="0.06870905309915543" scaledValue="0.06870905309915543"/>
+          <slider name="ModControl7" value="0.08037747442722321" scaledValue="0.08037747442722321"/>
+          <slider name="ModControl8" value="0.09390796720981598" scaledValue="0.09390796720981598"/>
+          <slider name="ModControl9" value="0.0433213971555233" scaledValue="0.0433213971555233"/>
+          <slider name="ModControl10" value="0.02924819104373455" scaledValue="0.02924819104373455"/>
+          <slider name="ModControl11" value="0.0860741138458252" scaledValue="0.0860741138458252"/>
+          <slider name="ModControl12" value="0.04577941820025444" scaledValue="0.04577941820025444"/>
+          <slider name="ModControl13" value="0.06640352308750153" scaledValue="0.06640352308750153"/>
+          <slider name="ModControl14" value="0.04316505417227745" scaledValue="0.04316505417227745"/>
+          <slider name="ModControl15" value="0.08677089214324951" scaledValue="0.08677089214324951"/>
+          <slider name="ModControl16" value="0.09260813146829605" scaledValue="0.09260813146829605"/>
+          <slider name="ModControl17" value="0.04257914051413536" scaledValue="0.04257914051413536"/>
+          <slider name="ModControl18" value="0.0345626138150692" scaledValue="0.0345626138150692"/>
+          <slider name="ModControl19" value="0.02911257743835449" scaledValue="0.02911257743835449"/>
+          <slider name="ModControl20" value="0.09529212862253189" scaledValue="0.09529212862253189"/>
+          <slider name="ModControl21" value="0.03373044729232788" scaledValue="0.03373044729232788"/>
+          <slider name="ModControl22" value="0.01133902091532946" scaledValue="0.01133902091532946"/>
+          <slider name="ModControl23" value="0.06487701088190079" scaledValue="0.06487701088190079"/>
+          <slider name="ModControl24" value="0.0759659931063652" scaledValue="0.0759659931063652"/>
+          <slider name="ModControl25" value="0.09447038173675537" scaledValue="0.09447038173675537"/>
+          <slider name="ModControl26" value="0.04663289710879326" scaledValue="0.04663289710879326"/>
+          <slider name="ModControl27" value="0.01523290853947401" scaledValue="0.01523290853947401"/>
+          <slider name="ModControl28" value="0.07757120579481125" scaledValue="0.07757120579481125"/>
+          <slider name="ModControl29" value="0.03952538967132568" scaledValue="0.03952538967132568"/>
+          <slider name="ModControl30" value="0.0665186420083046" scaledValue="0.0665186420083046"/>
+          <slider name="ModControl31" value="0.09124767035245895" scaledValue="0.09124767035245895"/>
+          <slider name="ModControl32" value="0.02967642620205879" scaledValue="0.02967642620205879"/>
+        </sliders>
+        <buttons/>
+        <combos/>
+        <macroTitles macro0="Macro 1" macro1="Macro 2" macro2="Macro 3" macro3="Macro 4"
+                     macro4="Macro 5" macro5="Macro 6" macro6="Macro 7" macro7="Macro 8"
+                     macro8="Macro 9" macro9="Macro 10" macro10="Macro 11" macro11="Macro 12"
+                     macro12="Macro 13" macro13="Macro 14" macro14="Macro 15" macro15="Macro 16"
+                     macro16="Macro 17" macro17="Macro 18" macro18="Macro 19" macro19="Macro 20"
+                     macro20="Macro 21" macro21="Macro 22" macro22="Macro 23" macro23="Macro 24"
+                     macro24="Macro 25" macro25="Macro 26" macro26="Macro 27" macro27="Macro 28"
+                     macro28="Macro 29" macro29="Macro 30" macro30="Macro 31" macro31="Macro 32"/>
+      </mod_0>
+      <mod_1 index="1" bipolar="1" tempoSync="0" minimized="0" type="midiin">
+        <outputs>
+          <out_0 scale="1.0" macroIndex="0"/>
+          <out_1 scale="1.0" macroIndex="1"/>
+          <out_2 scale="1.0" macroIndex="2"/>
+          <out_3 scale="1.0" macroIndex="3"/>
+          <out_4 scale="1.0" macroIndex="4"/>
+          <out_5 scale="1.0" macroIndex="5"/>
+          <out_6 scale="1.0" macroIndex="6"/>
+          <out_7 scale="1.0" macroIndex="7"/>
+          <out_8 scale="1.0" macroIndex="8"/>
+        </outputs>
+        <sliders>
+          <slider name="AMP" value="0.6307622194290161" scaledValue="0.2615244388580322"/>
+        </sliders>
+        <buttons>
+          <button name="M" value="1.0" scaledValue="1.0"/>
+          <button name="LATCH" value="0.0" scaledValue="0.0"/>
+        </buttons>
+        <combos/>
+        <midiSettings pbUp="13" pbDown="13"/>
+      </mod_1>
+      <mod_2 index="2" bipolar="1" tempoSync="0" minimized="0" type="masteradsr">
+        <outputs>
+          <out_0 scale="1.0" macroIndex="0"/>
+        </outputs>
+        <sliders>
+          <slider name="AMP" value="0.677054762840271" scaledValue="0.354109525680542"/>
+          <slider name="DUR" value="0.4012231528759003" scaledValue="1.604892611503601"/>
+          <slider name="Attack" value="0.3662890493869781" scaledValue="0.9828829765319824"/>
+          <slider name="Decay" value="0.3249004483222961" scaledValue="0.6859318017959595"/>
+          <slider name="Sustain" value="0.6686290502548218" scaledValue="0.6686290502548218"/>
+          <slider name="Release" value="0.5680049657821655" scaledValue="3.665104389190674"/>
+          <slider name="Depth" value="0.5765762329101562" scaledValue="57.65762329101562"/>
+        </sliders>
+        <buttons>
+          <button name="M" value="1.0" scaledValue="1.0"/>
+        </buttons>
+        <combos/>
+        <adsrParams>
+          <adsrParam name="Attack" value="0.3662890493869781" scaledValue="0.9828829765319824"/>
+          <adsrParam name="Attack_Curve" value="0.2000000029802322" scaledValue="-3.600000143051147"/>
+          <adsrParam name="Decay" value="0.3249004483222961" scaledValue="0.6859318017959595"/>
+          <adsrParam name="Decay_Curve" value="0.800000011920929" scaledValue="-3.600000143051147"/>
+          <adsrParam name="Sustain" value="0.6686290502548218" scaledValue="0.6686290502548218"/>
+          <adsrParam name="Release" value="0.5680049657821655" scaledValue="3.665104389190674"/>
+          <adsrParam name="Release_Curve" value="0.800000011920929" scaledValue="-3.600000143051147"/>
+        </adsrParams>
+      </mod_2>
+      <mod_3 index="3" bipolar="1" tempoSync="0" minimized="0" type="sine">
+        <outputs>
+          <out_0 scale="1.0" macroIndex="0"/>
+        </outputs>
+        <sliders>
+          <slider name="AMP" value="0.5533489584922791" scaledValue="0.1066979169845581"/>
+          <slider name="FREQ" value="0.3653720021247864" scaledValue="0.9755191206932068"/>
+          <slider name="PHASE" value="0.08288206905126572" scaledValue="0.08288206905126572"/>
+        </sliders>
+        <buttons>
+          <button name="M" value="0.0" scaledValue="0.0"/>
+          <button name="T" value="1.0" scaledValue="1.0"/>
+          <button name="B" value="0.0" scaledValue="0.0"/>
+        </buttons>
+        <combos/>
+      </mod_3>
+    </mods>
+    <connections/>
+  </modulation>
+  <effectRow_0>
+    <effects>
+      <effect_0 index="0" tempoSync="0" minimized="0" type="renoun" disabled="1"
+                normalizedGain="0.8">
+        <sliders>
+          <slider name="DryWet" value="0.5630171298980713" scaledValue="0.5630171298980713"/>
+          <slider name="PREDELAY" value="0.03706495836377144" scaledValue="0.00002546012728998903"/>
+          <slider name="Bandwidth" value="0.9882086515426636" scaledValue="0.9882086515426636"/>
+          <slider name="Damping" value="0.4433101713657379" scaledValue="0.4433101713657379"/>
+          <slider name="Decay" value="0.7306923866271973" scaledValue="0.7306923866271973"/>
+          <slider name="MODRATE" value="0.04918752983212471" scaledValue="0.09677652269601822"/>
+          <slider name="ModDepth" value="0.04190826416015625" scaledValue="0.04190826416015625"/>
+          <slider name="Diffuse" value="0.7679470181465149" scaledValue="0.7679470181465149"/>
+          <slider name="Tail" value="0.6110662221908569" scaledValue="0.6110662221908569"/>
+        </sliders>
+        <buttons/>
+        <combos/>
+        <comboboxes/>
+      </effect_0>
+    </effects>
+  </effectRow_0>
+</LIONSETTINGS>
