@@ -50,6 +50,7 @@ PatchConverter::PatchConverter()
     unifyPatchXml_Lion_Patch = parseXML(BinaryData::One_Lion_Layer_xml);
     unifyPatchXml_MassiveX_Patch = parseXML(BinaryData::One_Massive_X_Layer_xml);
     unifyPatchXml_DecentSampler_Patch = parseXML(BinaryData::One_Decent_Sampler_Layer_xml);
+    unifyPatchXml_HALion7_Patch = parseXML(BinaryData::One_HALion7_Layer_xml);
 
     //test();
 }
@@ -268,6 +269,10 @@ XmlElement* PatchConverter::processPresetFile(File inFile, String& newPatchNameO
         // Decent Sampler
         patchXml = new XmlElement(*unifyPatchXml_DecentSampler_Patch);
         commentString = "Factory presets by Native Instruments for Unify (Kasm)";
+    } else if (presetExtension.indexOf("vstprest") >= 0) {
+        // Steinberg HALion7
+        patchXml = new XmlElement(*unifyPatchXml_HALion7_Patch);
+        commentString = "Factory presets by Steinberg for Unify (Kasm)";
     } else {
         // Not yet supported
         return NULL;
