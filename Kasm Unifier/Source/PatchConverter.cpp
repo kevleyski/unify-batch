@@ -46,6 +46,7 @@ PatchConverter::PatchConverter()
     unifyPatchXml_Omnisphere_Patch = parseXML(BinaryData::One_Omnisphere_Patch_Layer_xml);
     unifyPatchXml_Batallion_Patch = parseXML(BinaryData::One_Batallion_Layer_xml);
     unifyPatchXml_Lion_Patch = parseXML(BinaryData::One_Lion_Layer_xml);
+    unifyPatchXml_MassiveX_Patch = parseXML(BinaryData::One_Massive_X_Layer_xml);
 
     //test();
 }
@@ -238,6 +239,9 @@ XmlElement* PatchConverter::processPresetFile(File inFile, String& newPatchNameO
             patchXml = new XmlElement(*unifyPatchXml_Lion_Patch);
             commentString = "Factory presets by Unified Plugins converted for Unify (Kasm)";
         }
+    } else if (presetExtension.indexOf("nksf") >= 0) {
+        patchXml = new XmlElement(*unifyPatchXml_MassiveX_Patch);
+        commentString = "Factory presets by Native Instruments for Unify (Kasm)";
     } else {
         return NULL;
     }

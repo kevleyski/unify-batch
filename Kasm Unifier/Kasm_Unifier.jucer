@@ -31,6 +31,8 @@
             file="Assets/Batallion/One Batallion Layer.xml"/>
       <FILE id="XGv96F" name="One Lion Layer.xml" compile="0" resource="1"
             file="Assets/Lion/One Lion Layer.xml"/>
+      <FILE id="XGv963" name="One Massive X Layer.xml" compile="0" resource="1"
+            file="Assets/Massive X/One Massive X Layer.xml"/>
     </GROUP>
     <GROUP id="{0444BDA6-8ED0-8B92-C3D3-D2AFB445879D}" name="Source">
       <FILE id="BLSL3z" name="PatchConverter.cpp" compile="1" resource="0"
