@@ -38,6 +38,8 @@ PatchConverter::PatchConverter()
     unifyPatchXml_ZebraHZ = parseXML(BinaryData::One_ZebraHZ_Layer_xml);
     unifyPatchXml_Zebralette = parseXML(BinaryData::One_Zebralette_Layer_xml);
     unifyPatchXml_Zebralette3 = parseXML(BinaryData::One_Zebralette3_Layer_xml);
+    unifyPatchXml_Vital = parseXML(BinaryData::One_Vital_Layer_xml);
+    unifyPatchXml_Serum = parseXML(BinaryData::One_Serum_Layer_xml);
     unifyPatchXml_Spire = parseXML(BinaryData::One_Spire_Layer_xml);
     unifyPatchXml_Twin3 = parseXML(BinaryData::One_Twin3_Layer_xml);
     unifyPatchXml_Pigments = parseXML(BinaryData::One_Pigments_Layer_xml);
@@ -217,8 +219,16 @@ XmlElement* PatchConverter::processPresetFile(File inFile, String& newPatchNameO
             patchXml = new XmlElement(*unifyPatchXml_Zebralette);
             commentString = "Factory presets by u-he converted for Unify (Kasm)";
         }
+    } else if (presetExtension.indexOf("vital") >= 0) {
+        // Vital Synth
+        patchXml = new XmlElement(*unifyPatchXml_Vital);
+        commentString = "Factory presets by Vital converted for Unify (Kasm)";
+    } else if (presetExtension.indexOf("fxp") >= 0) {
+        // Xfer Serum Synth
+        patchXml = new XmlElement(*unifyPatchXml_Serum);
+        commentString = "Factory presets by Xfer converted for Unify (Kasm)";
     } else if (patchFile.indexOf("\"anticlick\"") >= 0) {
-        // Lennar Digital Spire
+        // Lennar Digital Spire Synth
         patchXml = new XmlElement(*unifyPatchXml_Spire);
         commentString = "Factory presets by Reveal Studios Spire converted for Unify (Kasm)";
     } else if (patchFile.indexOf("FT3") >= 0) {

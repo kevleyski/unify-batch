@@ -35,6 +35,10 @@
             file="Assets/Native Instruments/Massive X/One Massive X Layer.xml"/>
       <FILE id="XGv96F" name="One Decent Sampler Layer.xml" compile="0" resource="1"
             file="Assets/Decent Sampler/One Decent Sampler Layer.xml"/>
+      <FILE id="XGv96E" name="One Vital Layer.xml" compile="0" resource="1"
+            file="Assets/Vital/One Vital Layer.xml"/>
+      <FILE id="XGv96D" name="One Serum Layer.xml" compile="0" resource="1"
+            file="Assets/Serum/One Serum Layer.xml"/>
     </GROUP>
     <GROUP id="{0444BDA6-8ED0-8B92-C3D3-D2AFB445879D}" name="Source">
       <FILE id="BLSL3z" name="PatchConverter.cpp" compile="1" resource="0"

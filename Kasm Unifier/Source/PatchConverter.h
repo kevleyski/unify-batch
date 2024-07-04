@@ -34,6 +34,8 @@ private:
     std::unique_ptr<XmlElement> unifyPatchXml_Zebralette;
     std::unique_ptr<XmlElement> unifyPatchXml_Zebralette3;
     std::unique_ptr<XmlElement> unifyPatchXml_Spire;
+    std::unique_ptr<XmlElement> unifyPatchXml_Vital;
+    std::unique_ptr<XmlElement> unifyPatchXml_Serum;
     std::unique_ptr<XmlElement> unifyPatchXml_Twin3;
     std::unique_ptr<XmlElement> unifyPatchXml_Pigments;
     std::unique_ptr<XmlElement> unifyPatchXml_Kontakt;
