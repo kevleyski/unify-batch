@@ -47,6 +47,7 @@ PatchConverter::PatchConverter()
     unifyPatchXml_Batallion_Patch = parseXML(BinaryData::One_Batallion_Layer_xml);
     unifyPatchXml_Lion_Patch = parseXML(BinaryData::One_Lion_Layer_xml);
     unifyPatchXml_MassiveX_Patch = parseXML(BinaryData::One_Massive_X_Layer_xml);
+    unifyPatchXml_DecentSampler_Patch = parseXML(BinaryData::One_Decent_Sampler_Layer_xml);
 
     //test();
 }
@@ -198,40 +199,50 @@ XmlElement* PatchConverter::processPresetFile(File inFile, String& newPatchNameO
     String patchFile = inFile.loadFileAsString();
     String commentString;
 
-    if (patchFile.indexOf("#AM=Diva") >= 0) {
-        patchXml = new XmlElement(*unifyPatchXml_Diva);
-        commentString = "Factory presets by u-he converted for Unify (Kasm)";
-    } else if (patchFile.indexOf("#AM=ZebraHZ") >= 0) {
-        patchXml = new XmlElement(*unifyPatchXml_ZebraHZ);
-        commentString = "Factory presets by u-he converted for Unify (Kasm)";
-    } else if (patchFile.indexOf("#AM=Zebra2") >= 0) {
-        patchXml = new XmlElement(*unifyPatchXml_Zebra2);
-        commentString = "Factory presets by u-he converted for Unify (Kasm)";
-    } else if (patchFile.indexOf("#AM=Zebralette3") >= 0) {
-        patchXml = new XmlElement(*unifyPatchXml_Zebralette3);
-        commentString = "Factory presets by u-he converted for Unify (Kasm)";
-    } else if (patchFile.indexOf("#AM=Zebralette") >= 0) {
-        patchXml = new XmlElement(*unifyPatchXml_Zebralette);
-        commentString = "Factory presets by u-he converted for Unify (Kasm)";
+    if (presetExtension.indexOf("h2p") >= 0) {
+        // u-he
+        if (patchFile.indexOf("#AM=Diva") >= 0) {
+            patchXml = new XmlElement(*unifyPatchXml_Diva);
+            commentString = "Factory presets by u-he converted for Unify (Kasm)";
+        } else if (patchFile.indexOf("#AM=ZebraHZ") >= 0) {
+            patchXml = new XmlElement(*unifyPatchXml_ZebraHZ);
+            commentString = "Factory presets by u-he converted for Unify (Kasm)";
+        } else if (patchFile.indexOf("#AM=Zebra2") >= 0) {
+            patchXml = new XmlElement(*unifyPatchXml_Zebra2);
+            commentString = "Factory presets by u-he converted for Unify (Kasm)";
+        } else if (patchFile.indexOf("#AM=Zebralette3") >= 0) {
+            patchXml = new XmlElement(*unifyPatchXml_Zebralette3);
+            commentString = "Factory presets by u-he converted for Unify (Kasm)";
+        } else if (patchFile.indexOf("#AM=Zebralette") >= 0) {
+            patchXml = new XmlElement(*unifyPatchXml_Zebralette);
+            commentString = "Factory presets by u-he converted for Unify (Kasm)";
+        }
     } else if (patchFile.indexOf("\"anticlick\"") >= 0) {
+        // Lennar Digital Spire
         patchXml = new XmlElement(*unifyPatchXml_Spire);
         commentString = "Factory presets by Reveal Studios Spire converted for Unify (Kasm)";
     } else if (patchFile.indexOf("FT3") >= 0) {
+        // FabFilter Twin 3
         patchXml = new XmlElement(*unifyPatchXml_Twin3);
         commentString = "Factory presets by FabFilter converted for Unify (Kasm)";
     } else if (patchFile.indexOf("serial") >= 0) {
+        // Arturia Pigments Synth
         patchXml = new XmlElement(*unifyPatchXml_Pigments);
         commentString = "Factory presets by Arturia converted for Unify (Kasm)";
     } else if (presetExtension.indexOf("nki") >= 0) {
+        // Native Instrument
         patchXml = new XmlElement(*unifyPatchXml_Kontakt);
         commentString = "Factory presets by Native Instruments converted for Unify (Kasm)";
     } else if (presetExtension.indexOf("mlt_omn") >= 0) {
+        // Spectronics Omnishere (multi)
         patchXml = new XmlElement(*unifyPatchXml_Omnisphere_Multi);
         commentString = "Factory presets by Omnishpere for Unify (Kasm)";
     } else if (presetExtension.indexOf("prt_omn") >= 0) {
+        // Spectronics Omnishere (part/patch)
         patchXml = new XmlElement(*unifyPatchXml_Omnisphere_Patch);
         commentString = "Factory presets by Omnishpere converted for Unify (Kasm)";
     } else if (presetExtension.indexOf("uap") >= 0) {
+        // Unfiltered Audio
         if (patchFile.indexOf("drum1distortenv1") >= 0) {
             patchXml = new XmlElement(*unifyPatchXml_Batallion_Patch);
             commentString = "Factory presets by Unified Plugins converted for Unify (Kasm)";
@@ -240,9 +251,15 @@ XmlElement* PatchConverter::processPresetFile(File inFile, String& newPatchNameO
             commentString = "Factory presets by Unified Plugins converted for Unify (Kasm)";
         }
     } else if (presetExtension.indexOf("nksf") >= 0) {
+        // Native Instruments Massive X Synth
         patchXml = new XmlElement(*unifyPatchXml_MassiveX_Patch);
         commentString = "Factory presets by Native Instruments for Unify (Kasm)";
+    } else if (presetExtension.indexOf("dspreset") >= 0) {
+        // Decent Sampler
+        patchXml = new XmlElement(*unifyPatchXml_DecentSampler_Patch);
+        commentString = "Factory presets by Native Instruments for Unify (Kasm)";
     } else {
+        // Not yet supported
         return NULL;
     }
 

@@ -42,6 +42,7 @@ private:
     std::unique_ptr<XmlElement> unifyPatchXml_Batallion_Patch;
     std::unique_ptr<XmlElement> unifyPatchXml_Lion_Patch;
     std::unique_ptr<XmlElement> unifyPatchXml_MassiveX_Patch;
+    std::unique_ptr<XmlElement> unifyPatchXml_DecentSampler_Patch;
 
     JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR (PatchConverter)
 };
