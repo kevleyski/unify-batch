@@ -1,0 +1,2 @@
+Seems nki files are not themselves the patch, more an encrypted version of (any small change is a massive file change)
+to make a patch stack. It also seem that Unify itself might be loading nki into a common rack maybe, maybe Shaun knows

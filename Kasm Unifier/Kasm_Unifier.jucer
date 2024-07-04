@@ -22,17 +22,17 @@
       <FILE id="XGv97E" name="One Pigments Layer.xml" compile="0" resource="1"
             file="Assets/Pigments/One Pigments Layer.xml"/>
       <FILE id="XGv97D" name="One Kontakt Layer.xml" compile="0" resource="1"
-            file="Assets/Kontakt/One Kontakt Layer.xml"/>
+            file="Assets/Native Instruments/Kontakt/One Kontakt Layer.xml"/>
       <FILE id="XGv97C" name="One Omnisphere Multi Layer.xml" compile="0"
             resource="1" file="Assets/Omnisphere/One Omnisphere Multi Layer.xml"/>
       <FILE id="XGv97B" name="One Omnisphere Patch Layer.xml" compile="0"
             resource="1" file="Assets/Omnisphere/One Omnisphere Patch Layer.xml"/>
       <FILE id="XGv97A" name="One Batallion Layer.xml" compile="0" resource="1"
-            file="Assets/Batallion/One Batallion Layer.xml"/>
+            file="Assets/Unified Audio/Batallion/One Batallion Layer.xml"/>
       <FILE id="XGv96F" name="One Lion Layer.xml" compile="0" resource="1"
-            file="Assets/Lion/One Lion Layer.xml"/>
+            file="Assets/Unified Audio/Lion/One Lion Layer.xml"/>
       <FILE id="XGv96E" name="One Massive X Layer.xml" compile="0" resource="1"
-            file="Assets/Massive X/One Massive X Layer.xml"/>
+            file="Assets/Native Instruments/Massive X/One Massive X Layer.xml"/>
       <FILE id="XGv96F" name="One Decent Sampler Layer.xml" compile="0" resource="1"
             file="Assets/Decent Sampler/One Decent Sampler Layer.xml"/>
     </GROUP>
