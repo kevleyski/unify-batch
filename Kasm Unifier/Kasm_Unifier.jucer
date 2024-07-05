@@ -41,6 +41,8 @@
             file="Assets/Decent Sampler/One Decent Sampler Layer.xml"/>
       <FILE id="XGv96D" name="One Vital Layer.xml" compile="0" resource="1"
             file="Assets/Vital/One Vital Layer.xml"/>
+      <FILE id="XGv96C" name="One Reason Rack Layer.xml" compile="0" resource="1"
+            file="Assets/Reason/One Reason Rack Layer.xml"/>
     </GROUP>
     <GROUP id="{0444BDA6-8ED0-8B92-C3D3-D2AFB445879D}" name="Source">
       <FILE id="BLSL3z" name="PatchConverter.cpp" compile="1" resource="0"
