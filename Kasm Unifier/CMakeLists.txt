@@ -46,6 +46,7 @@ target_sources(Kasm_Unifier PRIVATE
     Source/MainComponent.cpp
     Source/PatchConverter.cpp
     JuceLibraryCode/BinaryData.cpp
+    JuceLibraryCode/BinaryData2.cpp
     Source/Main.cpp)
 
 target_compile_definitions(Kasm_Unifier PRIVATE

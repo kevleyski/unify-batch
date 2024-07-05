@@ -53,6 +53,7 @@ PatchConverter::PatchConverter()
     unifyPatchXml_HALion7_Patch = parseXML(BinaryData::One_HALion7_Layer_xml);
     unifyPatchXml_UVIWorkstation = parseXML(BinaryData::One_UVIWorkstation_Layer_xml);
     unifyPatchXml_ReasonRack = parseXML(BinaryData::One_Reason_Rack_Layer_xml);
+    unifyPatchXml_SurgeXT = parseXML(BinaryData::One_SurgeXT_Layer_xml);
 
     //test();
 }
@@ -227,9 +228,15 @@ XmlElement* PatchConverter::processPresetFile(File inFile, String& newPatchNameO
         patchXml = new XmlElement(*unifyPatchXml_Vital);
         commentString = "Factory presets by Vital converted for Unify (Kasm)";
     } else if (presetExtension.indexOf("fxp") >= 0) {
-        // Xfer Serum Synth
-        patchXml = new XmlElement(*unifyPatchXml_Serum);
-        commentString = "Factory presets by Xfer converted for Unify (Kasm)";
+        if (patchFile.indexOf("CcnK") >= 0) {
+            // SurgeXT
+            patchXml = new XmlElement(*unifyPatchXml_SurgeXT);
+            commentString = "Factory presets by SurgeXT Team converted for Unify (Kasm)";
+        } else {
+            // Xfer Serum Synth
+            patchXml = new XmlElement(*unifyPatchXml_Serum);
+            commentString = "Factory presets by Xfer converted for Unify (Kasm)";
+        }
     } else if (patchFile.indexOf("\"anticlick\"") >= 0) {
         // Lennar Digital Spire Synth
         patchXml = new XmlElement(*unifyPatchXml_Spire);

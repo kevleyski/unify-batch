@@ -48,6 +48,7 @@ private:
     std::unique_ptr<XmlElement> unifyPatchXml_HALion7_Patch;
     std::unique_ptr<XmlElement> unifyPatchXml_UVIWorkstation;
     std::unique_ptr<XmlElement> unifyPatchXml_ReasonRack;
+    std::unique_ptr<XmlElement> unifyPatchXml_SurgeXT;
 
     JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR (PatchConverter)
 };
