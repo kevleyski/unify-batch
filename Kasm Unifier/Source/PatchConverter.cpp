@@ -51,6 +51,8 @@ PatchConverter::PatchConverter()
     unifyPatchXml_MassiveX_Patch = parseXML(BinaryData::One_Massive_X_Layer_xml);
     unifyPatchXml_DecentSampler_Patch = parseXML(BinaryData::One_Decent_Sampler_Layer_xml);
     unifyPatchXml_HALion7_Patch = parseXML(BinaryData::One_HALion7_Layer_xml);
+    unifyPatchXml_UVIWorkstation = parseXML(BinaryData::One_UVIWorkstation_Layer_xml);
+    unifyPatchXml_ReasonRack = parseXML(BinaryData::One_Reason_Rack_Layer_xml);
 
     //test();
 }
@@ -273,6 +275,10 @@ XmlElement* PatchConverter::processPresetFile(File inFile, String& newPatchNameO
         // Steinberg HALion7
         patchXml = new XmlElement(*unifyPatchXml_HALion7_Patch);
         commentString = "Factory presets by Steinberg for Unify (Kasm)";
+    } else if (presetExtension.indexOf("uviws") >= 0) {
+        // UVI Workstation
+        patchXml = new XmlElement(*unifyPatchXml_UVIWorkstation);
+        commentString = "Factory presets by UVI for Unify (Kasm)";
     } else {
         // Not yet supported
         return NULL;
