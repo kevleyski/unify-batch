@@ -46,7 +46,7 @@ PatchConverter::PatchConverter()
     unifyPatchXml_Kontakt = parseXML(BinaryData::One_Kontakt_Layer_xml);
     unifyPatchXml_Omnisphere_Multi = parseXML(BinaryData::One_Omnisphere_Multi_Layer_xml);
     unifyPatchXml_Omnisphere_Patch = parseXML(BinaryData::One_Omnisphere_Patch_Layer_xml);
-    unifyPatchXml_Batallion_Patch = parseXML(BinaryData::One_Batallion_Layer_xml);
+    unifyPatchXml_Battalion_Patch = parseXML(BinaryData::One_Battalion_Layer_xml);
     unifyPatchXml_Lion_Patch = parseXML(BinaryData::One_Lion_Layer_xml);
     unifyPatchXml_MassiveX_Patch = parseXML(BinaryData::One_Massive_X_Layer_xml);
     unifyPatchXml_DecentSampler_Patch = parseXML(BinaryData::One_Decent_Sampler_Layer_xml);
@@ -255,7 +255,7 @@ XmlElement* PatchConverter::processPresetFile(File inFile, String& newPatchNameO
     } else if (presetExtension.indexOf("uap") >= 0) {
         // Unfiltered Audio
         if (patchFile.indexOf("drum1distortenv1") >= 0) {
-            patchXml = new XmlElement(*unifyPatchXml_Batallion_Patch);
+            patchXml = new XmlElement(*unifyPatchXml_Battalion_Patch);
             commentString = "Factory presets by Unified Plugins converted for Unify (Kasm)";
         } else {
             patchXml = new XmlElement(*unifyPatchXml_Lion_Patch);

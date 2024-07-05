@@ -41,7 +41,7 @@ private:
     std::unique_ptr<XmlElement> unifyPatchXml_Kontakt;
     std::unique_ptr<XmlElement> unifyPatchXml_Omnisphere_Multi;
     std::unique_ptr<XmlElement> unifyPatchXml_Omnisphere_Patch;
-    std::unique_ptr<XmlElement> unifyPatchXml_Batallion_Patch;
+    std::unique_ptr<XmlElement> unifyPatchXml_Battalion_Patch;
     std::unique_ptr<XmlElement> unifyPatchXml_Lion_Patch;
     std::unique_ptr<XmlElement> unifyPatchXml_MassiveX_Patch;
     std::unique_ptr<XmlElement> unifyPatchXml_DecentSampler_Patch;

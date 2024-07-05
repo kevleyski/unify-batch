@@ -5,6 +5,10 @@
               defines="JUCE_MODAL_LOOPS_PERMITTED" version="1.1.1" userNotes="Modified by Kev for Kasm plugin">
   <MAINGROUP id="F7NPr8" name="Kasm_Unifier">
     <GROUP id="{405A2C30-01AE-93EA-EB3E-1D7D4BB5A2CF}" name="Assets">
+      <FILE id="XGv96C" name="One Serum Layer.xml" compile="0" resource="1"
+            file="Assets/Serum/One Serum Layer.xml"/>
+      <FILE id="XGv96B" name="One HALion7 Layer.xml" compile="0" resource="1"
+            file="Assets/HALion7/One HALion7 Layer.xml"/>
       <FILE id="XGv98F" name="One Diva Layer.xml" compile="0" resource="1"
             file="Assets/Uhe/Diva/One Diva Layer.xml"/>
       <FILE id="XGv98E" name="One Zebra2 Layer.xml" compile="0" resource="1"
@@ -27,20 +31,16 @@
             resource="1" file="Assets/Omnisphere/One Omnisphere Multi Layer.xml"/>
       <FILE id="XGv97B" name="One Omnisphere Patch Layer.xml" compile="0"
             resource="1" file="Assets/Omnisphere/One Omnisphere Patch Layer.xml"/>
-      <FILE id="XGv97A" name="One Batallion Layer.xml" compile="0" resource="1"
-            file="Assets/Unified Audio/Batallion/One Batallion Layer.xml"/>
+      <FILE id="XGv97A" name="One Battalion Layer.xml" compile="0" resource="1"
+            file="Assets/Unified Audio/Battalion/One Battalion Layer.xml"/>
       <FILE id="XGv96F" name="One Lion Layer.xml" compile="0" resource="1"
             file="Assets/Unified Audio/Lion/One Lion Layer.xml"/>
       <FILE id="XGv96E" name="One Massive X Layer.xml" compile="0" resource="1"
             file="Assets/Native Instruments/Massive X/One Massive X Layer.xml"/>
       <FILE id="XGv96F" name="One Decent Sampler Layer.xml" compile="0" resource="1"
             file="Assets/Decent Sampler/One Decent Sampler Layer.xml"/>
-      <FILE id="XGv96E" name="One Vital Layer.xml" compile="0" resource="1"
+      <FILE id="XGv96D" name="One Vital Layer.xml" compile="0" resource="1"
             file="Assets/Vital/One Vital Layer.xml"/>
-      <FILE id="XGv96D" name="One Serum Layer.xml" compile="0" resource="1"
-            file="Assets/Serum/One Serum Layer.xml"/>
-      <FILE id="XGv96E" name="One HALion7 Layer.xml" compile="0" resource="1"
-            file="Assets/HALion7/One HALion7 Layer.xml"/>
     </GROUP>
     <GROUP id="{0444BDA6-8ED0-8B92-C3D3-D2AFB445879D}" name="Source">
       <FILE id="BLSL3z" name="PatchConverter.cpp" compile="1" resource="0"
