@@ -1,6 +1,7 @@
 #pragma once
 #include "PatchConverter.h"
 #include "BinaryData.h"
+#include "MyVstUtils.h"
 
 static struct
 {
@@ -54,6 +55,7 @@ PatchConverter::PatchConverter()
     unifyPatchXml_UVIWorkstation = parseXML(BinaryData::One_UVIWorkstation_Layer_xml);
     unifyPatchXml_ReasonRack = parseXML(BinaryData::One_Reason_Rack_Layer_xml);
     unifyPatchXml_SurgeXT = parseXML(BinaryData::One_SurgeXT_Layer_xml);
+    unifyPatchXml_Sylenth1 = parseXML(BinaryData::One_Sylenth1_Layer_xml);
 
     //test();
 }
@@ -145,34 +147,74 @@ void PatchConverter::processFile(File file, int& fileCount)
     }
 }
 
+static char first16bytes[] = "VstW\x00\x00\x00\x08\x00\x00\x00\x01\x00\x00\x00\x00";
+static String tuningJson(",\"tuning\":{\"default\":true,\"mapping_name\":\"\",\"reference_midi_note\":0.0,\"scale\":[0.0,1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,11.0,12.0],\"scale_start_midi_note\":60,\"tuning_name\":\"\"}");
+
 String base64_encode(String str) {
     return (new MemoryBlock(str.toUTF8(), static_cast<size_t>(str.length())))->toBase64Encoding();
 }
 
 XmlElement* PatchConverter::processPresetFile(File inFile, String& newPatchNameOrErrorMessage)
 {
-#if 0
-    return nullptr;
-#else
     String presetName = inFile.getFileNameWithoutExtension();
     String presetExtension = inFile.getFileExtension();
 
-    // load preset file as text and parse the metadata
-    String presetStr = inFile.loadFileAsString();
-    String author = presetStr.fromFirstOccurrenceOf("Author:\n'", false, false).upToFirstOccurrenceOf("'", false, false);
-    String comment = presetStr.fromFirstOccurrenceOf("Usage:\n'", false, false).upToFirstOccurrenceOf("'", false, false);
-    String tags = presetStr.fromFirstOccurrenceOf("Categories:\n'", false, false).upToFirstOccurrenceOf("'", false, false);
-    String prefix = "UNKNOWN";
-    String category = "UNKNOWN";
-    for (auto& wpc : wordPrefixCategory)
-    {
-        if (tags.containsIgnoreCase(wpc.word))
-        {
-            prefix = wpc.prefix;
-            category = wpc.category;
-            break;
-        }
-    }
+    String prefix = "";
+    String category = "";
+    String author = "";
+    String tags = "";
+
+    // TODO: handle fxb (banks of fxp patch files)
+
+    // TODO: parse JSON for metadata e.g. Vital
+	if (0) {
+		    // load patch JSON and tack on the "tuning" tags at the end
+	    String patchJson = inFile.loadFileAsString().trimEnd().dropLastCharacters(1) + tuningJson + "}";
+
+	    // parse out some metadata
+	    var json = JSON::parse(patchJson);
+	    String presetAuthor = json.getProperty("author", "Vital Audio").toString();
+	    String presetComments = json.getProperty("comments", "").toString();
+	    String presetName = json.getProperty("preset_name", inFile.getFileNameWithoutExtension()).toString();
+	    String presetStyle = json.getProperty("preset_style", "").toString();
+	    getCategoryAndPrefix(presetStyle, category, prefix);
+	    newPatchNameOrErrorMessage = prefix + " - " + presetName;
+
+	    // put patch JSON into a MemoryBlock
+	    MemoryBlock mb(patchJson.getCharPointer(), patchJson.getNumBytesAsUTF8());
+
+	    // wrap in a VST "FBCh" chunk in mb
+	    MyVstConv vstConv;
+	    vstConv.setChunkData(patchJson.getCharPointer(), patchJson.getNumBytesAsUTF8(), true);
+	    vstConv.saveToFXBFile(mb, true);
+
+	    // prepend Vital's 16-byte binary header and convert to base64
+	    MemoryBlock mb2(first16bytes, 16);
+	    mb2.setSize(16 + mb.getSize());
+	    mb2.copyFrom(mb.getData(), 16, mb.getSize());
+	    String b64state = mb2.toBase64Encoding();
+	} else {
+
+	    // load preset file as text and parse the metadata
+	    String presetStr = inFile.loadFileAsString();
+	    author = presetStr.fromFirstOccurrenceOf("Author:\n'", false, false).upToFirstOccurrenceOf("'", false, false);
+	    String comment = presetStr.fromFirstOccurrenceOf("Usage:\n'", false, false).upToFirstOccurrenceOf("'", false, false);
+	    tags = presetStr.fromFirstOccurrenceOf("Categories:\n'", false, false).upToFirstOccurrenceOf("'", false, false);
+	    for (auto& wpc : wordPrefixCategory)
+	    {
+	        if (tags.containsIgnoreCase(wpc.word))
+	        {
+	            prefix = wpc.prefix;
+	            category = wpc.category;
+	            break;
+	        }
+	    }
+	}
+
+    if (prefix.isEmpty()) prefix = "UNKNOWN";
+    if (category.isEmpty()) category = "UNKNOWN";
+    if (author.isEmpty()) author = "Kev";
+    if (tags.isEmpty()) tags = "Kasm";
 
     if (prefix.indexOf("UNKNOWN") == 0) {
         newPatchNameOrErrorMessage = "KASM - " + presetName;
@@ -229,9 +271,15 @@ XmlElement* PatchConverter::processPresetFile(File inFile, String& newPatchNameO
         commentString = "Factory presets by Vital converted for Unify (Kasm)";
     } else if (presetExtension.indexOf("fxp") >= 0) {
         if (patchFile.indexOf("CcnK") >= 0) {
-            // SurgeXT
-            patchXml = new XmlElement(*unifyPatchXml_SurgeXT);
-            commentString = "Factory presets by SurgeXT Team converted for Unify (Kasm)";
+            if (1 /* TODO */) {
+                // Lennar Digital Sylenth1 synth
+                patchXml = new XmlElement(*unifyPatchXml_Sylenth1);
+                commentString = "Factory presets by Lennar Digital for Unify (Kasm)";
+            } else {
+                // SurgeXT
+                patchXml = new XmlElement(*unifyPatchXml_SurgeXT);
+                commentString = "Factory presets by SurgeXT Team converted for Unify (Kasm)";
+            }
         } else {
             // Xfer Serum Synth
             patchXml = new XmlElement(*unifyPatchXml_Serum);
@@ -304,7 +352,6 @@ XmlElement* PatchConverter::processPresetFile(File inFile, String& newPatchNameO
     if (libraryName.isNotEmpty()) pmXml->setAttribute("library", libraryName);
 
     return patchXml;
-#endif
 }
 
 void PatchConverter::saveUnifyPatch(File inFile, String patchName, XmlElement* patchXml)
@@ -319,4 +366,44 @@ void PatchConverter::saveUnifyPatch(File inFile, String patchName, XmlElement* p
         outFile.create();
         outFile.replaceWithData(outBlock.getData(), outBlock.getSize());
     }
+}
+
+static struct { String presetStyle, category, prefix; } categoryTable[] =
+{
+    // Not yet used. If you want better categories than are encoded in Vital's "preset_style" attribute,
+    // you'll need to analyze all the attribute values actually used in your preset collection and define
+    // appropriate Unify category/prefix strings for each of them here. The following are example entries
+    // used for a completely different plug-in.
+
+    { "Arpegs", "Arpeggio", "BPM ARP" },
+    { "Sequences", "Sequence", "BPM SEQ" },
+    { "Textures", "Texture", "TEXT" },
+    { "Basses", "Bass", "BASS" },
+    { "Bells", "Bell", "BELL" },
+    { "Chords", "Chord", "CHORD" },
+    { "Effects", "SFX", "SFX" },
+    { "Keys", "Keyboard", "KEY" },
+    { "Leads", "Lead", "LEAD" },
+    { "Organ", "Organ", "ORGAN" },
+    { "Pads", "Pad", "PAD" },
+    { "Hits", "Drum", "DRUM" },
+};
+
+void PatchConverter::getCategoryAndPrefix(String presetStyle, String& category, String& prefix)
+{
+    // Activate this code only after you have prepared a complete categoryTable[] above.
+#if 0
+    for (auto& cte : categoryTable)
+    {
+        if (cte.presetStyle == presetStyle)
+        {
+            category = cte.category;
+            prefix = cte.prefix;
+            return;
+        }
+    }
+#endif
+
+    category = presetStyle;
+    prefix = presetStyle.isEmpty() ? "UNKNOWN" : presetStyle.toUpperCase();
 }

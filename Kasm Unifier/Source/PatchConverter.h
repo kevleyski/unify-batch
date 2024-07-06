@@ -1,6 +1,8 @@
 #pragma once
 #include <JuceHeader.h>
 
+#define LIBRARY_NAME "Kasm"
+
 class PatchConverter
 {
 public:
@@ -9,7 +11,7 @@ public:
     bool setLayerTitle = true;
 
 #if 1
-    String libraryName = "Kasm u-he Kasm";
+    String libraryName = LIBRARY_NAME;
 #else
     String libraryName;
 #endif
@@ -20,6 +22,8 @@ public:
 
 protected:
     void test();
+
+    void getCategoryAndPrefix(String, String&, String&);
 
     void processFile(File, int& fileCount);
     XmlElement* processPresetFile(File inFile, String& newPatchNameOrErrorMessage);
@@ -49,6 +53,7 @@ private:
     std::unique_ptr<XmlElement> unifyPatchXml_UVIWorkstation;
     std::unique_ptr<XmlElement> unifyPatchXml_ReasonRack;
     std::unique_ptr<XmlElement> unifyPatchXml_SurgeXT;
+    std::unique_ptr<XmlElement> unifyPatchXml_Sylenth1;
 
     JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR (PatchConverter)
 };
