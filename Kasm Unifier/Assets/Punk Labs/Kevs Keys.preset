@@ -1,0 +1,40 @@
+{
+  "tags": [
+    "Ambient",
+    "Bright",
+    "Classical",
+    "Clean",
+    "Jazz"
+  ],
+  "info": {
+    "Author": "Punk Labs",
+    "Description": "A big dramatic chamber."
+  },
+  "params": {
+    "Body Damp": 15.000000953674316,
+    "Body Size": 100.0,
+    "MIDI Bend Range": 2,
+    "MIDI Sensitivity": 100.0,
+    "MIDI Sustain Lock": false,
+    "Media Flutter": 0.0,
+    "Media Mono": 0.0,
+    "Media Noise Amount": 0.0,
+    "Media Noise Type": 0,
+    "Media Shape": 75.0,
+    "Media Speed": 78.0,
+    "Mix Gain": 0.0,
+    "Mix Pan": 0.0,
+    "Mix Saturation": 0.0,
+    "Reverb Amount": 80.25,
+    "Reverb Damp": 25.0,
+    "Reverb Highpass": 100.0,
+    "Reverb Size": 100.0,
+    "Sampler Bits": 16,
+    "Sampler Highpass": 20.0,
+    "Sampler Lowpass": 2.9782752990722656,
+    "Sampler Samplerate": 44.099998474121094,
+    "Strings Brightness": 50.0,
+    "Strings Detuned": 2.75,
+    "Strings In Tune": 98.0
+  }
+}
