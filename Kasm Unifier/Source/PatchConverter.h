@@ -54,6 +54,7 @@ private:
     std::unique_ptr<XmlElement> unifyPatchXml_ReasonRack;
     std::unique_ptr<XmlElement> unifyPatchXml_SurgeXT;
     std::unique_ptr<XmlElement> unifyPatchXml_Sylenth1;
+    std::unique_ptr<XmlElement> unifyPatchXml_Softube_Modular;
 
     JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR (PatchConverter)
 };

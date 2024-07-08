@@ -56,7 +56,7 @@ PatchConverter::PatchConverter()
     unifyPatchXml_ReasonRack = parseXML(BinaryData::One_Reason_Rack_Layer_xml);
     unifyPatchXml_SurgeXT = parseXML(BinaryData::One_SurgeXT_Layer_xml);
     unifyPatchXml_Sylenth1 = parseXML(BinaryData::One_Sylenth1_Layer_xml);
-
+    unifyPatchXml_Softube_Modular = parseXML(BinaryData::One_Softube_Modular_Layer_xml);
     //test();
 }
 
@@ -334,6 +334,10 @@ XmlElement* PatchConverter::processPresetFile(File inFile, String& newPatchNameO
         // UVI Workstation
         patchXml = new XmlElement(*unifyPatchXml_UVIWorkstation);
         commentString = "Factory presets by UVI for Unify (Kasm)";
+    } else if (presetExtension.indexOf("spt") >= 0) {
+        // UVI Workstation
+        patchXml = new XmlElement(*unifyPatchXml_Softube_Modular);
+        commentString = "Factory presets by Softube for Unify (Kasm)";
     } else {
         // Not yet supported
         return NULL;
