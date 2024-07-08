@@ -261,7 +261,7 @@ XmlElement* PatchConverter::processPresetFile(File inFile, String& newPatchNameO
         } else if (patchFile.indexOf("#AM=Zebralette3") >= 0) {
             patchXml = new XmlElement(*unifyPatchXml_Zebralette3);
             commentString = "Factory presets by u-he converted for Unify (Kasm)";
-        } else if (patchFile.indexOf("#AM=Zebralette") >= 0) {
+        } else {
             patchXml = new XmlElement(*unifyPatchXml_Zebralette);
             commentString = "Factory presets by u-he converted for Unify (Kasm)";
         }
