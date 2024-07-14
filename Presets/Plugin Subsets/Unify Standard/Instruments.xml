@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<categorizedPluginSelections>
+    
+    <pluginSelections category="Instruments">
+     <PluginSelector descriptiveName="Guru Sampler" pluginFormatName="Built-In"/>
+      <PluginSelector descriptiveName="OB-Xd" pluginFormatName="VST"/>
+      <PluginSelector descriptiveName="Dexed" pluginFormatName="VST"/>
+      <PluginSelector descriptiveName="Digits" pluginFormatName="VST"/>
+      <PluginSelector descriptiveName="mda DX10" pluginFormatName="VST"/>
+      <PluginSelector descriptiveName="mda JX10" pluginFormatName="VST"/>
+      <PluginSelector descriptiveName="Unify" pluginFormatName="Built-In"/>
+      <PluginSelector descriptiveName="MOrgan Osc" pluginFormatName="VST3"/>
+      <PluginSelector descriptiveName="SoundFont Player" pluginFormatName="Built-In"/>
+    </pluginSelections>
+    
+    <pluginSelections category="Utility">
+      <PluginSelector descriptiveName="ComboBox" pluginFormatName="Built-In"/>
+      <PluginSelector descriptiveName="MIDI Monitor" pluginFormatName="Built-In"/>
+      <PluginSelector descriptiveName="Audio File Player" pluginFormatName="Built-In"/>
+      <PluginSelector descriptiveName="Sine Wave Synth" pluginFormatName="Built-In"/>
+    </pluginSelections>
+
+</categorizedPluginSelections>

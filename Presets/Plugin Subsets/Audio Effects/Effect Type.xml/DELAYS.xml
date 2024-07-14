@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pluginSelections>
+  <PluginSelector descriptiveName="AUDelay" pluginFormatName="AudioUnit"/>
+  <PluginSelector descriptiveName="AUSampleDelay" pluginFormatName="AudioUnit"/>
+  <PluginSelector descriptiveName="bx_delay2500" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Crystallizer" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Delay ETERNITY" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Delay ETERNITY" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Delay MEMORY-BRIGADE" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Delay TAPE-201" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="EchoBoy" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="EchoBoy Jr" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Full Bucket Brigade Delay" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="iZotope DDLY Dynamic Delay" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="kHs Delay" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="mda Delay" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="mda DubDelay" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="NA Shimmer Delay" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Objeq Delay" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Omega Delay" pluginFormatName="Built-In"/>
+  <PluginSelector descriptiveName="PSP 608 MultiDelay" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="RP-Delay" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Sample Delay" pluginFormatName="Built-In"/>
+  <PluginSelector descriptiveName="StereoDelay" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="TapeDelay" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Tube Delay" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="UAD EP-34 Tape Echo" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Galaxy Tape Echo" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Precision Delay Mod" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Precision Delay Mod L" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Unfiltered Audio Instant Delay" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="ValhallaDelay" pluginFormatName="VST"/>
+</pluginSelections>

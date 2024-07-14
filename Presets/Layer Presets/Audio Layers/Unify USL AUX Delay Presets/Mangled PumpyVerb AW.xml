@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<AudioFxLane title="Omega HPF PingPong" mixLevel="0.6309573650360107" panPos="0.5"
+             muteState="1">
+  <AudioInserts>
+    <InsertEffect stateInformation="948.VMjLgr5....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOO0VYmEFQkwVX44COPEjTA0DHoQVOhHFbsMUdtMlHfXWXrUWY8HRLt.iHu3COPEjTA0DHoQVOhLFZuIWcyYTYkQlXgM1Zh.hcgwVck0iHzXiKvHxK9vCTAIUPMARZj0iHig1axU2bM8FYDUFbzglHfXWXrUWY8HhLv3BLh7hO7.UPRETSfjFY8HxXn8lb0MWSuQlQxUVbh.hcgwVck0iHv3hM0HSM2DSNwXSM3.iLv.iLh7hO7.UPRETSfjFY8HxXn8lb0MWSuQVYh.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HxXn8lb0M2UkQWSogmHfXWXrUWY8HxL23BLh7hO7.UPRETSfjFY8HBYkwVX4QUZsUFSh.hcgwVck0iHv3hMxPCN4fCLwXCM0HyM3jyLh7hO7.UPRETSfjFY8HBYkwVX4QUZsUlTh.hcgwVck0iHv3xL1fCLxHSN2fyLvTCNwXyMh7hO7.UPRETSfjFY8HBYoMGcDIWZ1UlHfXWXrUWY8HBLtTiMzLCMybSMvPyM1fyL2HiHu3COPEjTA0DHoQVOhPVZyQ2Qgklah.hcgwVck0iHsDyLtDCL0jyL1.SMvPSL0.CMh7hO7.UPRETSfjFY8HBYoMGcSQmbk41YzglHfXWXrUWY8HBLtTCLyHSN1fSMxDSLwfSL1PiHu3COPEjTA0DHoQVOhPVZyQGU4AWYh.hcgwVck0iHw3BLh7hO7.UPRETSfjFY8HBYxklYzETauUmazIBH1EFa0UVOhzBLtTiHu3COPEjTA0DHoQVOhPlb4cUYz0TZ3IBH1EFa0UVOhDCLv3BLh7hO7.UPRETSfjFY8HhYhwTYlQmHfXWXrUWY8HhLz3BLh7hO7.UPRETSfjFY8HhYh0zajUlHfXWXrUWY8HRLt.iHu3COPEjTA0DHoQVOhXlXRk1YnQmHfXWXrUWY8HhL23RMh7hO7.UPRETSfjFY8HhYowFckImQxUVbh.hcgwVck0iHy.CMtDCLwjCN4bCM1.SNyfiHu3COPEjTA0DHoQVOhXVZrQWYxcTXo4lHfXWXrUWY8HBLt.iHu3COPEjTA0DHoQVOhXVZrQWYxEkHfXWXrUWY8HhLtHCLvLSMwPyM1XiM4LSLxHxK9vCTAIUPMARZj0iHlkFazUlbTkGbkIBH1EFa0UVOhDiKvHxK9vyKO0VYmEFQkwVX44C."
+                  currentProgram="0">
+      <PLUGIN name="Omega Delay" format="Built-In" category="Effect" manufacturer="Built-In"
+              version="0.16.3" file="Omega Delay:" uid="86367dc4" isInstrument="0"
+              fileTime="0" infoUpdateTime="0" numInputs="2" numOutputs="2"
+              isShell="0"/>
+    </InsertEffect>
+    <InsertEffect stateInformation="713.VMjLg.r....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BON8VZ5Iza34COCUmb1UFLfPWdvUVOh.iH9vCbgIWXsAhcgwVck0iHv3BM2bSM0.SMvXSM4DyM4XSNh7hO77xP0ImckAiO7LTcxYWYw.Bc4AWY8HBLh3COvElbg0FH1EFa0UVOh.iKvHxK9vyKCUmb1UVL9viSukldB8Fd9vCTAIUPMARZj0iHjk1bzQjboYWYh.hcgwVck0iHxDiK2jSN4jSNxLyMvXCL0TiHu3COPEjTA0DHoQVOhPVZyQ2Qgklah.hcgwVck0iHsDCLt.iHu3COPEjTA0DHoQVOhPlb4cUYz0TZ3IBH1EFa0UVOhPyMtTiHu3COPEjTA0DHoQVOhz1axAGZh.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HBbuMGcFkFazUlbFIWYwIBH1EFa0UVOhXiLv3xLvXCN3PyM1TiMxTiHu3COPEjTA0DHoQVOh.2ayQmQowFckIWTh.hcgwVck0iH13RM3PSLwHiMzPSL4TSM0biHu3COPEjTA0DHoQVOh.2ayQmQowFckI2TzE1YkMmHfXWXrUWY8HBLt.iHu3COPEjTA0DHoQVOh.2ayQmQowFckIGU4AWYh.hcgwVck0iHy3BLh7hO7.UPRETSfjFY8HBbxUlQowFckImQxUVbh.hcgwVck0iH0jSNt.CN0DCMz.CMxjiM3fiHu3COPEjTA0DHoQVOh.mbkYTZrQWYxEkHfXWXrUWY8HBMtfSLw.SLwLSLzLSNx.SNh7hO7.UPRETSfjFY8HBbxUlQowFckI2TzE1YkMmHfXWXrUWY8HRLt.iHu3COPEjTA0DHoQVOh.mbkYTZrQWYxQUdvUlHfXWXrUWY8HxLt.iHu3COu3zaoomPugmO77hSukldB8Fd9.."
+                  currentProgram="0">
+      <PLUGIN name="NoizBox" format="Built-In" category="Effect" manufacturer="Built-In"
+              version="0.21.1" file="NoizBox:" uid="e1901999" isInstrument="0"
+              fileTime="0" infoUpdateTime="0" numInputs="2" numOutputs="2"
+              isShell="0"/>
+    </InsertEffect>
+    <InsertEffect stateInformation="181.VMjLgvJ....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOWEFckImUkImX9vCTAIUPMARZj0iHjIWdWUFcMkFdh.hcgwVck0iHwDiKvHxK9vCTAIUPMARZj0iHlUVYjIVXislHfXWXrUWY8HRN03BLh7hO7.UPRETSfjFY8HhYowFckImQxUVbh.hcgwVck0iH0LyMv3BLh7hO77xUgQWYxYUYxIlO.."
+                  currentProgram="0">
+      <PLUGIN name="WaterVerb" format="Built-In" category="Effect" manufacturer="Built-In"
+              version="0.21.1" file="WaterVerb:" uid="6aaf22b6" isInstrument="0"
+              fileTime="0" infoUpdateTime="0" numInputs="2" numOutputs="2"
+              isShell="0"/>
+    </InsertEffect>
+    <InsertEffect stateInformation="727.VMjLg3r....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BON8VZ5Iza34COCUmb1UFLfPWdvUVOhPiH9vCbgIWXsAhcgwVck0iHv3RL4jSN3fSMxjCL3XSLwLiHu3COuLTcxYWYv3COCUmb1UVLfPWdvUVOh.iH9vCbgIWXsAhcgwVck0iHv3BLh7hO77xP0ImckEiO73zaoomPugmO7.UPRETSfjFY8HBYoMGcDIWZ1UlHfXWXrUWY8HRLx3hLv.CLv.yM1HSNyjCM0HxK9vCTAIUPMARZj0iHjk1bzcTXo4lHfXWXrUWY8HRKwDiK1jSN4jSN3.SNxXSMwPiHu3COPEjTA0DHoQVOhPlb4cUYz0TZ3IBH1EFa0UVOhDCLv3BLh7hO7.UPRETSfjFY8HRauIGbnIBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHv81bzYTZrQWYxYjbkEmHfXWXrUWY8HRN4jiK4jSN4LCN4XCM3PyL3HxK9vCTAIUPMARZj0iHv81bzYTZrQWYxEkHfXWXrUWY8HBLtbCL2.CLv.SL2DiM1DyL2biHu3COPEjTA0DHoQVOh.2ayQmQowFckI2TzE1YkMmHfXWXrUWY8HBLt.iHu3COPEjTA0DHoQVOh.2ayQmQowFckIGU4AWYh.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HBbxUlQowFckImQxUVbh.hcgwVck0iH3LSM43hM0LyLx.yLwHSMh7hO7.UPRETSfjFY8HBbxUlQowFckIWTh.hcgwVck0iH13BLwfCM4.yLwPCM3LiMzLiHu3COPEjTA0DHoQVOh.mbkYTZrQWYxMEcgcVYyIBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHvIWYFkFazUlbTkGbkIBH1EFa0UVOhDiKvHxK9vyKN8VZ5Iza34COu3zaoomPugmO.."
+                  currentProgram="0">
+      <PLUGIN name="NoizBox" format="Built-In" category="Effect" manufacturer="Built-In"
+              version="0.21.1" file="NoizBox:" uid="e1901999" isInstrument="0"
+              fileTime="0" infoUpdateTime="0" numInputs="2" numOutputs="2"
+              isShell="0"/>
+    </InsertEffect>
+    <InsertEffect stateInformation="249.VMjLg.O....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOPUWavgza0MWY9vyP0Imck4COSU1YsUlazAhY30TZt0iHv3BLh.hY30TX30iHw3BLh.hY40TZt0iHv3BLh.hY40TX30iHw3BLh.xX0ImcgQWcxUVOh.iKvHxK9vyKCUmb1UlO7.UcsAGRuU2bk4COPEjTA0DHoQVOhHVYgQGQoYmHfXWXrUWY8HRMt.iHu3COPEjTA0DHoQVOhPVYvQGZh.hcgwVck0iHw.CLt.iHu3COu.UcsAGRuU2bk4COu.UcsAGRuU2bk4C."
+                  currentProgram="0">
+      <PLUGIN name="Pump House" format="Built-In" category="Effect" manufacturer="Built-In"
+              version="0.21.1" file="Pump House:" uid="b49a0768" isInstrument="0"
+              fileTime="0" infoUpdateTime="0" numInputs="2" numOutputs="2"
+              isShell="0"/>
+    </InsertEffect>
+  </AudioInserts>
+</AudioFxLane>

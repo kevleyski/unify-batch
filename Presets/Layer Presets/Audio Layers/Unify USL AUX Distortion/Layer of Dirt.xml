@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<AudioFxLane title="Layer of Dirt" mixLevel="0.14301398396492" panPos="0.5"
+             muteState="1">
+  <AudioInserts>
+    <InsertEffect stateInformation="236.CMlaKA....fQ3IzZ....AzFYgMD...P.....A...........................................................................................................................................................................CMlaKA....fQ3MzZ....AzFYgMD...P.....FPTYmIWXjUF...........................vOLwby9HpFy+iIl16O.B..+.H..3C5dFE"
+                  currentProgram="0" isBypassed="0">
+      <PLUGIN name="mdaDegrade" descriptiveName="mda Degrade" format="VST"
+              category="Effect" manufacturer="mda" version="1.0.0.0" file="/Users/shane/Documents/PlugInGuru/Unify/VST/mda/mdaDegrade.vst"
+              uid="6d646143" isInstrument="0" fileTime="16c7ca61e52" infoUpdateTime="16cb5945c20"
+              numInputs="2" numOutputs="2" isShell="0"/>
+    </InsertEffect>
+    <InsertEffect stateInformation="700.CMlaKA....fQ3IzZ....AzFYgwF...P.....H...........................................................................................................................................................................CMlaKA....fQ3MzZ....AzFYgwF...P.....CTTb0EFafvza0QlakM2bfLzatQ2a0I2b......vOyPiM+DhmQ4yryLyPi41R.....XDdCsF...P.sQVXrA...D....v.EEWcgwFHL8Vcj4VYyMGHC8laz8VcxMG......7yLyLyO....9L6LyLzXtsD.....Fg2PqA...DPajEFa....A....LPQwUWXrABSuUGYtU1byAxPu4FcuUmbyA......+LyLy7C...fOyNyLCMlaKA....fQ3MzZ....AzFYgwF...P.....CTTb0EFafvza0QlakM2bfLzatQ2a0I2b......vOyLyL+....3yryLyPi41R.....XDdCsF...P.sQVXrA...D....v.EEWcgwFHL8Vcj4VYyMGHC8laz8VcxMG......7yLyLyO....9L6LyLzXtsD.....Fg2PqA...DPajEFa....A....LPQwUWXrABSuUGYtU1byAxPu4FcuUmbyA......+LyLy7C...fOyNyLCMlaKA....fQ3MzZ....AzFYgwF...P.....CTTb0EFafvza0QlakM2bfLzatQ2a0I2b......vOyLyL+....3yryLyPi41R.....XDdCsF...P.sQVXrA...D....v.EEWcgwFHL8Vcj4VYyMGHC8laz8VcxMG......7yLyLyO....9L6Ly."
+                  currentProgram="0" isBypassed="0">
+      <PLUGIN name="mdaLoudness" descriptiveName="mda Loudness" format="VST"
+              category="Effect" manufacturer="mda" version="1.0.0.0" file="/Users/shane/Documents/PlugInGuru/Unify/VST/mda/mdaLoudness.vst"
+              uid="6d64616c" isInstrument="0" fileTime="16c7ca61e8c" infoUpdateTime="16cb5945982"
+              numInputs="2" numOutputs="2" isShell="0"/>
+    </InsertEffect>
+  </AudioInserts>
+</AudioFxLane>

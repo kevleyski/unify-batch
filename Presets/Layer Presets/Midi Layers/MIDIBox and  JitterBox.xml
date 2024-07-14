@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<MidiLane title="MIDIBox and  JitterBox" lokey="0" hikey="127" lovel="0"
+          hivel="127" keyOffset="0" midiChannel="0" midiConvChannel="0"
+          midiSourceIndex="-1" latchEnabled="0">
+  <MidiVelCurve>
+    <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+  </MidiVelCurve>
+  <MidiInserts>
+    <InsertEffect stateInformation="915.VMjLgn3....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOMkDQIIza3ABaoIlbgIWdNEVak0iHh.RaoQVZFkFakAUXzgVOhHhO7.WXxEVay4COPEjTA0DHoQVOhHVXxMza04Fch.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HxXiEiL2HBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHkg2XrUGYkIUXtcVYh.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HhYx8VaBElbh.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HxZkkmSuQWYh.hcgwVck0iH1.iKvHxK9vCTAIUPMARZj0iHqUVdTIWXtMGbuMWYh.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HBau8FbM8FYkIBH1EFa0UVOhDiKvHxK9vCTAIUPMARZj0iHsEFdOUGcvUGcN8FckIBH1EFa0UVOhDiL23BLh7hO7.UPRETSfjFY8HRao41S0QGb0QmSuQWYh.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HBbgM2bCMjHfXWXrUWY8HBLt.iHu3COPEjTA0DHoQVOh.WXyMmSuQWYyIBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHvE1byAkPh.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HhbgQWZuQTYt8Vao4VXz8lbh.hcgwVck0iHw3BLh7hO7.UPRETSfjFY8HhbgQWZu4TcsUlbgQ2axIBH1EFa0UVOhDiKvHxK9vCTAIUPMARZj0iHyAWYkQVS0wFcoAGaoUlbh.hcgwVck0iHw.CLt.iHu3COPEjTA0DHoQVOhPmbgM1ZNUWahUlbh.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HBcxElayA2ayU1SlY1bkQmHfXWXrUWY8HBLt.iHu3COPEjTA0DHoQVOhXWYr81XoQWdOYlYyUFch.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8Hhckw1aikFc4M0XgwVYh.hcgwVck0iHw.CLt.iHu3COu.WXxEVay4CO1UFaCUmb1UlO7LUYm0VYtQGHlgWSo4VOh.iKvHBHlgWSggWOhDiKvHBHlkWSo4VOh.iKvHBHlkWSggWOhDiKvHBHiUmb1EFc0IWY8HBLt.iHu3COuXWYrMTcxYWY9vyKMkDQIIza34C."
+                  currentProgram="0" isBypassed="0">
+      <PLUGIN name="MIDIBox" format="Built-In" category="MidiEffects" manufacturer="Built-In"
+              version="1.0.42" file="MIDIBox:" uid="69b20aea" isInstrument="0"
+              fileTime="0" infoUpdateTime="0" numInputs="0" numOutputs="0"
+              isShell="0"/>
+    </InsertEffect>
+    <InsertEffect stateInformation="642.VMjLgjm....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOJkFczUlbB8Fd9vCTAIUPMARZj0iHhAWaBkFcyIBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHhAWaMEFdh.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HhXv0VSo4lHfXWXrUWY8HBLt.iHu3COPEjTA0DHoQVOhzVXo4lSuQWYh.hcgwVck0iH1.iKvHxK9vCTAIUPMARZj0iHsEVZt4zazUVQtElXrUlHfXWXrUWY8HBLt.iHu3COPEjTA0DHoQVOhzVX3ITYgQGQoYmHfXWXrUWY8HBMt.iHu3COPEjTA0DHoQVOhzVX38TczAWcz4zazUlHfXWXrUWY8HRLxbiKvHxK9vCTAIUPMARZj0iHsEFdTIWZmcVYx4zazUlHfXWXrUWY8HRLxbiKvHxK9vCTAIUPMARZj0iHsklaOUGcvUGcN8FckIBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHsklaTIWZmcVYx4zazUlHfXWXrUWY8HBLt.iHu3COPEjTA0DHoQVOhz1bMEFdh.hcgwVck0iHyTiKvDCL4HSNw.yM1XiMvHiHu3COPEjTA0DHoQVOhz1bMklah.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HBboQ2XnoTZzQWYxUjagIFakIBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHvkFciglRoQGckIGTkI2Xk4Fch.hcgwVck0iHw.CLt.iHu3COPEjTA0DHoQVOhHWXtcVYI4FYkgmHfXWXrUWY8HBLt.iHu3COunTZzQWYxIza34C."
+                  currentProgram="0" isBypassed="0">
+      <PLUGIN name="JitterBox" format="Built-In" category="MidiEffects" manufacturer="Built-In"
+              version="1.0.42" file="JitterBox:" uid="3b2c9d1f" isInstrument="0"
+              fileTime="0" infoUpdateTime="0" numInputs="0" numOutputs="0"
+              isShell="0"/>
+    </InsertEffect>
+  </MidiInserts>
+</MidiLane>

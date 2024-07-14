@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<AudioFxLane title="EmVerb Short Hall" mixLevel="1.0" panPos="0.5" muteState="1">
+  <AudioInserts>
+    <InsertEffect stateInformation="395.VMjLgHX....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOE0lUkImX9vCTAIUPMARZj0iHhElajcWZjQGZh.hcgwVck0iHw3BLh7hO7.UPRETSfjFY8HBYg0Fbo41Yh.hcgwVck0iHv3hL4jSN4jSN3HSLwfiMvXiMh7hO7.UPRETSfjFY8HBYkMVX4IBH1EFa0UVOh.iKzPSN4jSN4fCNvbSNvbSLh7hO7.UPRETSfjFY8HBYk41boQWdh.hcgwVck0iHv3BN0jSN4jSN0PyMv.CM2HxK9vCTAIUPMARZj0iHjIWdWUFcMkFdh.hcgwVck0iHw3BLh7hO7.UPRETSfjFY8HRYgIGa4wTXzUVSogmHfXWXrUWY8HBLtTiHu3COPEjTA0DHoQVOh.mbkQVYrEVdh.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8Hhbu8VaSkldkIBH1EFa0UVOh.iKybSN4jSN4jSMxLSL1HCNzHxK9vyKE0lUkImX9.."
+                  currentProgram="0">
+      <PLUGIN name="EmVerb" format="Built-In" category="Effect" manufacturer="Built-In"
+              version="0.16.4" file="EmVerb:" uid="7be70607" isInstrument="0"
+              fileTime="0" infoUpdateTime="0" numInputs="2" numOutputs="2"
+              isShell="0"/>
+    </InsertEffect>
+  </AudioInserts>
+</AudioFxLane>

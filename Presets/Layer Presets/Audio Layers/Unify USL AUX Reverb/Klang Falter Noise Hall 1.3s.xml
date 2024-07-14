@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<AudioFxLane title="Klang Falter Noise Hall 1.3s" mixLevel="0.07498937845230103"
+             panPos="0.5" muteState="1">
+  <AudioInserts>
+    <InsertEffect stateInformation="935.CMlaKA....fQBMDZ....AfDSKYD.A.......A.............................................................................................................................................................................v.GX0PxDh+B...77CdswFH1Ulbyk1at0iHw3BLh.RYtM1ajklam0iHUQkQsfiH+3CH7LzatY2arUGco8laf.Ga0cVZtYUYxMWZu4VOhDiKv3BLh.xckQ2St0iHwHBH2UFcDU1XoIVYrMWOh.iKvHBHjIWdO4VOhDiHfPlb4QTYiklXkw1b8HRKw.CLt.iHfDVcz81QgklaO4VOhDiHfTVbL81cTkGbk0iHCUGch.RYwwza2MTczYjbkEWOh.iKvHBHkEGSuc2TnUFalYjbkEWOhHCLt.iHfTVbL81cSgVYrYFQkMVZhUFay0iHv3BLh.RYwgTZmgFU4AWY8HxP0QmHfTVbHk1YnMTczYjbkEWOhHCLv.CLt.iHfTVbHk1YnMEZkwlYFIWYw0iHx.CLv.iKvHBHkEGRocFZSgVYrYFQkMVZhUFay0iHv3BLh.RZxITYmkla8HBLt.iHfjlbE4FY8HRLt.iHfLGcxUFcigVOhDiKvHBHvIWYjUFagkWSy0iHv3BLh.RXzQWXisFSk41YzgVOh.iKvHBHgQGcgM1ZSgVXvUVOh.iKvHBHjU1Xgk2TnEFbk0iHv3BLh.xbzUlbk81UoQFcn0iHw3BLh.hbkYWYxMWY8HBLh3COI0Fb0w1bkIUYyA2atMWYfjlavUGc8HBLh.xa0QGb0QWOh.iHfXVZrUVOhTkaoYVdfLEcg4FYgIGYfvTZhIWXxk2KI0Fb0w1bkAhTkMGbu41bkM2KA0lXoYUYxI1Kw3xLf3zaooWYffTZz4xcgYmHfTmaoYVdPEFcn0iHwHBHlkFakMDZg4lakwVOh.iHu3COI0Fb0w1bkIUYyA2atMWYfjlavUGc8HRLh.xa0QGb0QWOhDiHfXVZrUVOhTkaoYVdfLEcg4FYgIGYfvTZhIWXxk2KI0Fb0w1bkAhTkMGbu41bkM2KA0lXoYUYxI1Kw3xLf3zaooWYffTZz4xcgYmHfTmaoYVdPEFcn0iHwHBHlkFakMDZg4lakwVOhDiHu3COuLzatY2arUGco8la9.."
+                  currentProgram="0">
+      <PLUGIN name="KlangFalter" format="VST" category="Effect" manufacturer="HiFi-LoFi"
+              version="1.0.0.0" file="/Users/shane/Documents/PlugInGuru/Unify/VST/KlangFalter.vst"
+              uid="484c4b46" isInstrument="0" fileTime="16d37b3b820" infoUpdateTime="16d37b4e175"
+              numInputs="2" numOutputs="2" isShell="0"/>
+    </InsertEffect>
+  </AudioInserts>
+</AudioFxLane>

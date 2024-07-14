@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<AudioFxLane title="AUX - Concert Hall KlangVerb" mixLevel="0.4216965138912201"
+             panPos="0.5" muteState="1">
+  <AudioInserts>
+    <InsertEffect stateInformation="831.CMlaKA....fQBMDZ....AfDSKYD.A.......A.............................................................................................................................................................................f.eZ0PxDhkB...77CdswFH1Ulbyk1at0iHw3BLh.RYtM1ajklam0iHUQkQsfiH+3CH7LzatY2arUGco8laf.Ga0cVZtYUYxMWZu4VOhDiKv3BLh.xckQ2St0iHwHBH2UFcDU1XoIVYrMWOh.iKvHBHjIWdO4VOhDiHfPlb4QTYiklXkw1b8HRKw.CLt.iHfDVcz81QgklaO4VOhDiHfTVbL81cTkGbk0iHCUGch.RYwwza2MTczYjbkEWOh.iKvHBHkEGSuc2TnUFalYjbkEWOhHCLt.iHfTVbL81cSgVYrYFQkMVZhUFay0iHv3BLh.RYwgTZmgFU4AWY8HxP0QmHfTVbHk1YnMTczYjbkEWOhHCLv.CLt.iHfTVbHk1YnMEZkwlYFIWYw0iHx.CLv.iKvHBHkEGRocFZSgVYrYFQkMVZhUFay0iHv3BLh.RZxITYmkla8HBLt.iHfjlbE4FY8HRLt.iHfLGcxUFcigVOhDiKvHBHvIWYjUFagkWSy0iHv3BLh.RXzQWXisFSk41YzgVOh.iKvHBHgQGcgM1ZSgVXvUVOh.iKvHBHjU1Xgk2TnEFbk0iHv3BLh.xbzUlbk81UoQFcn0iHw3BLh.hbkYWYxMWY8HBLh3COI0Fb0w1bkIUYyA2atMWYfjlavUGc8HBLh.xa0QGb0QWOh.iHfXVZrUVOhDTahklUkImXuLiKv.xPu41XkIGcffTXrwlK2Elch.hYowVYCgVXt4VYr0iHvHxK9vSRsAWcrMWYRU1bv8layUFHo4Fb0QWOhDiHf7VczAWcz0iHwHBHlkFak0iHA0lXoYUYxI1Ky3BLfLzatMVYxQGHHEFar4xcgYmHfXVZrU1PnElatUFa8HRLh7hO77xPu4lcuwVczk1at4C."
+                  currentProgram="0">
+      <PLUGIN name="KlangFalter" format="VST" category="Effect" manufacturer="HiFi-LoFi"
+              version="1.0.0.0" file="/Users/johnlehmkuhl/Documents/PlugInGuru/Unify/VST/KlangFalter.vst"
+              uid="484c4b46" isInstrument="0" fileTime="16d37b3b820" infoUpdateTime="16d37b4e175"
+              numInputs="2" numOutputs="2" isShell="0"/>
+    </InsertEffect>
+  </AudioInserts>
+</AudioFxLane>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<AudioFxLane title="EmVerb Heavily Kompressed Hall" mixLevel="1.0" panPos="0.5"
+             muteState="1">
+  <AudioInserts>
+    <InsertEffect stateInformation="413.VMjLgPY....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOE0lUkImX9vCTAIUPMARZj0iHhElajcWZjQGZh.hcgwVck0iHw3BLh7hO7.UPRETSfjFY8HBYg0Fbo41Yh.hcgwVck0iHv3xL3jSN4jSN3TiM4PCN3TyLh7hO7.UPRETSfjFY8HBYkMVX4IBH1EFa0UVOh.iK4bSN4jSN4TSNzXCN3PSL1HxK9vCTAIUPMARZj0iHjUlaykFc4IBH1EFa0UVOh.iK3DCLv.CLv.iLyfCMwfSM3HxK9vCTAIUPMARZj0iHjIWdWUFcMkFdh.hcgwVck0iHw3BLh7hO7.UPRETSfjFY8HRYgIGa4wTXzUVSogmHfXWXrUWY8HBLtbCL4jSN4jyM3TCMxLiL2jiHu3COPEjTA0DHoQVOh.mbkQVYrEVdh.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8Hhbu8VaSkldkIBH1EFa0UVOh.iK1fCLv.CLv.yMwTiL0TyMzHxK9vyKE0lUkImX9.."
+                  currentProgram="0">
+      <PLUGIN name="EmVerb" format="Built-In" category="Effect" manufacturer="Built-In"
+              version="0.16.3" file="EmVerb:" uid="7be70607" isInstrument="0"
+              fileTime="0" infoUpdateTime="0" numInputs="2" numOutputs="2"
+              isShell="0"/>
+    </InsertEffect>
+    <InsertEffect stateInformation="274.VMjLgjP....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOE4lYuI2XkImO7.UPRETSfjFY8HRXzQWXislHfXWXrUWY8HhLy3RLv.CLv.yL3DCM1jyMyHxK9vCTAIUPMARZj0iHmEVZtIBH1EFa0UVOhjiK0HxK9vCTAIUPMARZj0iHxEFco8lHfXWXrUWY8HxMt.SN4jSN4jCLzXyLxTiM3HxK9vCTAIUPMARZj0iHxUFakE1bkIBH1EFa0UVOhLCLy3BN4jSN4LCN4XCM3PCMh7hO7.UPRETSfjFY8HBcnIWYyg1arQlHfXWXrUWY8HRKzLiK0HxK9vyKE4lYuI2XkImO.."
+                  currentProgram="0">
+      <PLUGIN name="Enforcer" format="Built-In" category="Effect" manufacturer="Built-In"
+              version="0.18.2" file="Enforcer:" uid="6efe60f0" isInstrument="0"
+              fileTime="0" infoUpdateTime="0" numInputs="2" numOutputs="2"
+              isShell="0"/>
+    </InsertEffect>
+  </AudioInserts>
+</AudioFxLane>

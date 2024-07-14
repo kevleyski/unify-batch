@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pluginSelections>
+  <PluginSelector descriptiveName="Abbey Road One" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="BBC Symphony Orchestra" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Hammers" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="LABS" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Originals - Cimbalom" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Originals - Cinematic Frozen Strings" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Originals - Cinematic Pads" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Originals - Cinematic Percussion" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Originals - Epic Brass and Woodwinds" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Originals - Epic Strings" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Originals - Felt Piano" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Originals - Intimate Strings" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Originals - Media Toolkit" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Originals - Mrs Mills Piano" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Symphonic Motions" pluginFormatName="VST"/>
+</pluginSelections>

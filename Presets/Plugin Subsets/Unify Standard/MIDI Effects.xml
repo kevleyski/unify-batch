@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<categorizedPluginSelections>
+    <pluginSelections category="Arpeggiators">
+      <PluginSelector descriptiveName="MIDIBox" pluginFormatName="Built-In"/>
+      <PluginSelector descriptiveName="BlueARP" pluginFormatName="VST"/>
+    </pluginSelections>
+
+    <pluginSelections category="Chorders">
+      <PluginSelector descriptiveName="Ripchord Player" pluginFormatName="Built-In"/>
+    </pluginSelections>
+
+    <pluginSelections category="Creative">
+      <PluginSelector descriptiveName="PolyBox" pluginFormatName="Built-In"/>
+      <PluginSelector descriptiveName="JitterBox" pluginFormatName="Built-In"/>
+      <PluginSelector descriptiveName="TriggerBox" pluginFormatName="Built-In"/>
+      <PluginSelector descriptiveName="MOrgan Perc" pluginFormatName="VST3"/>
+    </pluginSelections>
+
+    <pluginSelections category="Utility">
+      <PluginSelector descriptiveName="ComboBox" pluginFormatName="Built-In"/>
+      <PluginSelector descriptiveName="MIDI Monitor" pluginFormatName="Built-In"/>
+      <PluginSelector descriptiveName="MIDI Filter" pluginFormatName="Built-In"/>
+    </pluginSelections>
+</categorizedPluginSelections>

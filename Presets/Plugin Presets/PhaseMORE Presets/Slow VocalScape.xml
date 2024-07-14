@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PhaseMORE presetName="Slow VocalScape">
+  <Parameters>
+    <PARAM id="depth" value="66.5"/>
+    <PARAM id="feedback" value="81.5"/>
+    <PARAM id="frequency" value="4365.0830078125"/>
+    <PARAM id="lfoRate" value="0.03182022273540497"/>
+    <PARAM id="lfoShape" value="0.5"/>
+    <PARAM id="mix" value="50.0"/>
+    <PARAM id="numStages" value="10.0"/>
+    <PARAM id="resonance" value="0.2145617008209229"/>
+  </Parameters>
+</PhaseMORE>

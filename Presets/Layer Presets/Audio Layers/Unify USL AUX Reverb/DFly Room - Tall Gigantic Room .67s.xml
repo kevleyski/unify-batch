@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<AudioFxLane title="Dragofly Room - Tall Gigantic Room" mixLevel="0.3162278831005096"
+             panPos="0.5" muteState="1">
+  <AudioInserts>
+    <InsertEffect stateInformation="947.CMlaKA....fQBMDZ....APjYR0F.CH......Y.............................................................................................................................................................................v.SX0PxDhBC...77CdswFH1Ulbyk1at0iHw3BLh.RYtM1ajklam0iHUQkQsfiH+3CH7Pjbgc1atYFa4I0au0lO7.UPRETSfjFY8HhXu81bzYjbkEmHfXWXrUWY8HBN0TiK2XSM1HSMh7hO7.UPRETSfjFY8HBYkMVX4IBH1EFa0UVOh.iK1bCN4XCL4DSNyfCLwfCNh7hO7.UPRETSfjFY8HBYoYlY0MWYh.hcgwVck0iHw.CLt.iHu3COPEjTA0DHoQVOhPlb4wTY1UFah.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HRYgIGa4QTXsAmHfXWXrUWY8HRL1.CLv3BLh7hO7.UPRETSfjFY8HRYgIGa4wTY1UFah.hcgwVck0iHx.iKzfiL3.SNvXiM2biLzXiHu3COPEjTA0DHoQVOhTVXxwVdSUlajIBH1EFa0UVOhDSNtjSN4jSN3.SNxXSMwLyMh7hO7.UPRETSfjFY8HBZocFZCUGch.hcgwVck0iHwXCLv.iKvHxK9vCTAIUPMARZj0iHrEFckQTXsAmHfXWXrUWY8HRL1.CLv3BLh7hO7.UPRETSfjFY8HBagQWYLUlckwlHfXWXrUWY8HRLv.iKvHxK9vCTAIUPMARZj0iHr81cB81ayQmHfXWXrUWY8HxM33hLvDSM1.SN2PSLxDCL4HxK9vCTAIUPMARZj0iHr81cCUGch.hcgwVck0iHyjSNtTSL0XiL0HxK9vCTAIUPMARZj0iHvIWYjUFagkmHfXWXrUWY8HhLw3xLwbSL4.SL2.iL3fCL4HxK9vCTAIUPMARZj0iHykldkIBH1EFa0UVOhHyLtLSL0bSMvDiLx.yMvLSLh7hO7.UPRETSfjFY8Hxbvklah.hcgwVck0iHv3RN3jCL1HCM3fCL2jCL2DiHu3COPEjTA0DHoQVOhbWXtQVYxIBH1EFa0UVOhPyLtbSM1HCM3PyMzDiLw.SNh7hO7.UPRETSfjFY8HxcoQFcnIBH1EFa0UVOhDyLv3BLh7hO77BQxE1Yu4lYrkmTu8Va9.."
+                  currentProgram="0" isBypassed="0">
+      <PLUGIN name="Dragonfly Room" format="VST" category="Effect" manufacturer="PlugInGuru"
+              version="3.2.0.0" file="/Applications/PlugInGuru/Unify/VST/Dragonfly Room.vst"
+              uid="4466526d" isInstrument="0" fileTime="171c79e2a9a" infoUpdateTime="171c7a7dd99"
+              numInputs="2" numOutputs="2" isShell="0"/>
+    </InsertEffect>
+  </AudioInserts>
+</AudioFxLane>

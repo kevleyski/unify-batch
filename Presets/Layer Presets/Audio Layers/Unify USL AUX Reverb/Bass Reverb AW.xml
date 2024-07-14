@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<AudioFxLane title="Bass Reverb" mixLevel="0.9440608620643616" panPos="0.5"
+             muteState="1">
+  <AudioInserts>
+    <InsertEffect stateInformation="183.VMjLg3J....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOWEFckImUkImX9vCTAIUPMARZj0iHjIWdWUFcMkFdh.hcgwVck0iHw.CLt.iHu3COPEjTA0DHoQVOhXVYkQlXgM1Zh.hcgwVck0iHyPiKvHxK9vCTAIUPMARZj0iHlkFazUlbFIWYwIBH1EFa0UVOhDSM1.yLt.iHu3COubUXzUlbVUlbh4C."
+                  currentProgram="0">
+      <PLUGIN name="WaterVerb" format="Built-In" category="Effect" manufacturer="Built-In"
+              version="0.16.3" file="WaterVerb:" uid="6aaf22b6" isInstrument="0"
+              fileTime="0" infoUpdateTime="0" numInputs="2" numOutputs="2"
+              isShell="0"/>
+    </InsertEffect>
+    <InsertEffect stateInformation="700.CMlaKA....fQ3IzZ....AzFYgwF...P.....HTlai8FYo41Y8HRUTYTK3HxO9.BOWEFckImUkImX9vCTAIUPMARZj0iHjIWdWUFcMkFdh.hcgwVck0iHw.CLt.iHu3COPEjTA0DHoQVOhXVYkQlXgM1Zh.hcgwVck0iHyPiKvHxK9vCTAIUPMARZj0iHlkFazUlbFIWYwIBH1EFaCMlaKA....fQ3MzZ....AzFYgwF...P.....CTTb0EFafvza0QlakM2bfLzatQ2a0I2b......vOEk8P+bwHd4yryLyPi41R.....XDdCsF...P.sQVXrA...D....v.EEWcgwFHL8Vcj4VYyMGHC8laz8VcxMG......7yLyLyO....9L6LyLzXtsD.....Fg2PqA...DPajEFa....A....LPQwUWXrABSuUGYtU1byAxPu4FcuUmbyA......+LyLy7C...fOyNyLCMlaKA....fQ3MzZ....AzFYgwF...P.....CTTb0EFafvza0QlakM2bfLzatQ2a0I2b......vOyLyL+....3yryLyPi41R.....XDdCsF...P.sQVXrA...D....v.EEWcgwFHL8Vcj4VYyMGHC8laz8VcxMG......7yLyLyO....9L6LyLzXtsD.....Fg2PqA...DPajEFa....A....LPQwUWXrABSuUGYtU1byAxPu4FcuUmbyA......+LyLy7C...fOyNyLCMlaKA....fQ3MzZ....AzFYgwF...P.....CTTb0EFafvza0QlakM2bfLzatQ2a0I2b......vOyLyL+....3yryLyPi41R.....XDdCsF...P.sQVXrA...D....v.EEWcgwFHL8Vcj4VYyMGHC8laz8VcxMG......7yLyLyO....9L6Ly."
+                  currentProgram="0">
+      <PLUGIN name="mdaLoudness" descriptiveName="mda Loudness" format="VST"
+              category="Effect" manufacturer="mda" version="1.0.0.0" file="/Users/shane/Documents/PlugInGuru/Unify/VST/mda/mdaLoudness.vst"
+              uid="6d64616c" isInstrument="0" fileTime="16c7ca61e8c" infoUpdateTime="16cb5945982"
+              numInputs="2" numOutputs="2" isShell="0"/>
+    </InsertEffect>
+  </AudioInserts>
+</AudioFxLane>

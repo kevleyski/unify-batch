@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Layer layerTitle="INIT" mixLevel="1.0" panPos="0.5" muteState="1" lokey="0"
+       hikey="127" lovel="0" hivel="127" keyOffset="0" midiChannel="0"
+       midiSourceIndex="-1" latchEnabled="0" directSendLevel="1.0" fxSendLevel1="1.0"
+       fxSendLevel2="1.0" fxSendLevel3="1.0" fxSendLevel4="1.0">
+  <Instrument stateInformation="1662.VMjLgTmA...O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOGUmb0MUXsAGakIGHvElbg0lUkI2bo8la8HhLh.xayMVLLklXxElb44TXsUVOhTkaoYVdfLEcg4FYgIGYfvTZhIWXxkmHf71biEyTg0FbrUlQuwFYkIWOhHTPSkzPfbUPVUjQOIUSSIBHuM2XwLUXsAGakMUYz0iHOM0PszTPXARKfLUPWARSOQTULEjTh3COPEjTA0DHoQVOh.2arkGbn8la4IBH1EFa0UVOhXCMt.iHu3COPEjTA0DHoQVOhzVXyQWYxwTY1UFah.hcgwVck0iHw.CLt.iHu3COPEjTA0DHoQVOh.mXUA2Tk0VZh.hcgwVck0iHx3BLh7hO7.UPRETSfjFY8HBbhQjaSUVaoIBH1EFa0UVOhzhLt.iHu3COPEjTA0DHoQVOhDVavYUYrMUYtMmHfXWXrUWY8HxM03BLh7hO7.UPRETSfjFY8HhYowFckImUkw1Tk41bh.hcgwVck0iHw.CLt.iHu3COPEjTA0DHoQVOhvlYucUX1UlYuIWah.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HBal8lUgIWZgQWZu4lHfXWXrUWY8HBLt.iHu3COPEjTA0DHoQVOhvlYuIUXzUlHfXWXrUWY8HRMt.iHu3COPEjTA0DHoQVOhvlYuAUZzMFZDUFbzglHfXWXrUWY8HBLt.iHu3COPEjTA0DHoQVOhvlYuMTcz8lYlQTYvQGZh.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HRa2AUZzMFZDUFbzglHfXWXrUWY8HBLt.iHu3COPEjTA0DHoQVOhz1cCUGcuYlYDUFbzglHfXWXrUWY8HBLt.iHu3COPEjTA0DHoQVOhz1cLY1aPkFcigFQkAGcnIBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHscGSl81P0Q2alYFQkAGcnIBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHuM2Xw.UZzMFZAw1YuIBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHuM2XwLEZoYFch.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HxayMVLPkFciglHfXWXrUWY8HBLt.iHu3COPEjTA0DHoQVOh71biEyPuElbyUlHfXWXrUWY8HBLt.iHu3COPEjTA0DHoQVOh71biECQkQWctUlHfXWXrUWY8HBLt.iHu3COPEjTA0DHoQVOhLWXsAGakMEcgIGch.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8Hxbg0FbrU1TzElbzYUXxIBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHlkFazUlbTkGbkIBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHlkFazUlbSQWXmU1bh.hcgwVck0iHw3BLh7hO7.UPRETSfjFY8HhYowFckI2Qgklah.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HhYowFckI2P0Q2alYlHfXWXrUWY8HhLv.CLv3BLh7hO7.UPRETSfjFY8HhYowFckImUkw1P0Q2alYlHfXWXrUWY8HBLt.iHu3COPEjTA0DHoQVOhXVZrQWYxIUYyIBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHlkFazUlbE4lcA0Fch.hcgwVck0iHx.CLv.iKvHxK9vCTAIUPMARZj0iHlkFazUlbKUVdTI2Zh.hcgwVck0iH1.iKvHxK9vCTAIUPMARZj0iHg0FbAQGcgM1Zh.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HRXsAGQkMVX4IBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHg0FbSU2bzEVZtIBH1EFa0UVOhDCLv3BLh7hO7.UPRETSfjFY8HRXsAmTkwVYgMWYh.hcgwVck0iHv3BLz.CLv.CLwbyMyHyL3DCNxHxK9vCTAIUPMARZj0iHlwFcAQGcgM1Zh.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HhYrQGQkMVX4IBH1EFa0UVOh.iK3PSM4LyMwLiL3LSMyfCNxHxK9vCTAIUPMARZj0iHlwFcSU2bzEVZtIBH1EFa0UVOhLiK4TyLwHSMh7hO7.UPRETSfjFY8HhYrQmTkwVYgMWYh.hcgwVck0iH43BLh7hO77xQ0IWcSEVavwVYx4C."
+              currentProgram="0">
+    <PLUGIN name="Guru Sampler" descriptiveName="_unify Guru Sampler" format="Built-In"
+            category="Synth" manufacturer="Built-In" version="0.14.6" file="Guru Sampler:"
+            uid="894b1e99" isInstrument="1" fileTime="0" infoUpdateTime="0"
+            numInputs="0" numOutputs="2" isShell="0"/>
+  </Instrument>
+  <MidiVelCurve>
+    <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+  </MidiVelCurve>
+  <MidiInserts/>
+  <AudioInserts/>
+</Layer>

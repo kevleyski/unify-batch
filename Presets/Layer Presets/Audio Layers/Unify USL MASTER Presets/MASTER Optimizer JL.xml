@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<AudioFxLane title="" mixLevel="1.0" panPos="0.5" muteState="1">
+  <AudioInserts>
+    <InsertEffect stateInformation="595.VMjLgnj....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOFwVY3UTT9vCTAIUPMARZj0iHnk1YnAUYgslQxUVbh.hcgwVck0iH1TCLv3BLv.CM3fiL3DiL0HxK9vCTAIUPMARZj0iHnk1YnAUYgs1Qgklah.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HBZocFZPUVXqEkHfXWXrUWY8HBLtXSN4jSN4jCN3.yM4.yMwHxK9vCTAIUPMARZj0iHnk1YnMEZkwlYFIWYwIBH1EFa0UVOhjSMv.iKvHxK9vCTAIUPMARZj0iHnk1YnMEZkwlYGEVZtIBH1EFa0UVOhDiKvHxK9vCTAIUPMARZj0iHnk1YnMEZkwlYQIBH1EFa0UVOh.iK1jSN4jSN4fCNvbSNvbSLh7hO7.UPRETSfjFY8HBaucGTkE1ZFIWYwIBH1EFa0UVOhDCL0.iKv.CLxPCMwPCL1HSMh7hO7.UPRETSfjFY8HBaucGTkE1ZGEVZtIBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHr81cPUVXqEkHfXWXrUWY8HBLtXSN4jSN4jCN3.yM4.yMwHxK9vCTAIUPMARZj0iHr81cSgVYrYlQxUVbh.hcgwVck0iHwDSMt.CLv.iLxfCN3DCNyXiHu3COPEjTA0DHoQVOhv1a2MEZkwlYGEVZtIBH1EFa0UVOhDiK0HxK9vCTAIUPMARZj0iHr81cSgVYrYVTh.hcgwVck0iHw3RMh7hO77hQrUFdEEkO.."
+                  currentProgram="0">
+      <PLUGIN name="FlexEQ" format="Built-In" category="Effect" manufacturer="Built-In"
+              version="0.15.0" file="FlexEQ:" uid="7d94da85" isInstrument="0"
+              fileTime="0" infoUpdateTime="0" numInputs="2" numOutputs="2"
+              isShell="0"/>
+    </InsertEffect>
+    <InsertEffect stateInformation="248.VMjLg7N....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOE4lYuI2XkImO7.UPRETSfjFY8HRXzQWXislHfXWXrUWY8HxLv3RMh7hO7.UPRETSfjFY8HxYgklah.hcgwVck0iHx3RMh7hO7.UPRETSfjFY8HhbgQWZuIBH1EFa0UVOhHiK4.CLv.CLvjSMyXyMzLiLh7hO7.UPRETSfjFY8HhbkwVYgMWYh.hcgwVck0iHw.CLt.iHu3COPEjTA0DHoQVOhPGZxU1bn8FajIBH1EFa0UVOhzhMtTiHu3COuTjal8lbiUlb9.."
+                  currentProgram="0">
+      <PLUGIN name="Enforcer" format="Built-In" category="Effect" manufacturer="Built-In"
+              version="0.15.0" file="Enforcer:" uid="6efe60f0" isInstrument="0"
+              fileTime="0" infoUpdateTime="0" numInputs="2" numOutputs="2"
+              isShell="0"/>
+    </InsertEffect>
+    <InsertEffect stateInformation="228.CMlaKA....fQ3IzZ....AvDYMgG...P.....ATlai8FYo41Y8HRUTYTK3HxO9.BOE4lYuI2XkImO7.UPRETSfjFY8HRXzQWXislHfXWXrUWY8HxLv3RMh7hO7.UPRETSfjFY8HxYgklah.hcgwVck0iHx3RMh7hO7.UPRETSfjFY8HhbgQWZuIBH1EFa0UVOhHiK4.CLv.CLvjSMCMlaKA....fQ3MzZ....AvDYMgG...P.....DPTYlEVcrQG.w.CLt.iHu3COPEjTA0DHoQVOhP2Oq0v8+3m0b..........."
+                  currentProgram="0">
+      <PLUGIN name="LoudMax" descriptiveName="LoudMax 64bit" format="VST" category="Effect"
+              manufacturer="Thomas Mundt" version="1.2.7.0" file="/Users/johnlehmkuhl/Documents/PlugInGuru/Unify/VST/LoudMax.vst"
+              uid="4c644d78" isInstrument="0" fileTime="169968a1690" infoUpdateTime="16cb5945d42"
+              numInputs="2" numOutputs="2" isShell="0"/>
+    </InsertEffect>
+  </AudioInserts>
+</AudioFxLane>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<UnifyMidiCCPreset>
+  <KnobCCAssignment index="0" ccNumber="-1"/>
+  <KnobCCAssignment index="1" ccNumber="-1"/>
+  <KnobCCAssignment index="2" ccNumber="-1"/>
+  <KnobCCAssignment index="3" ccNumber="-1"/>
+  <KnobCCAssignment index="4" ccNumber="-1"/>
+  <KnobCCAssignment index="5" ccNumber="-1"/>
+  <KnobCCAssignment index="6" ccNumber="-1"/>
+  <KnobCCAssignment index="7" ccNumber="-1"/>
+  <KnobCCAssignment index="8" ccNumber="-1"/>
+  <KnobCCAssignment index="9" ccNumber="-1"/>
+  <KnobCCAssignment index="10" ccNumber="-1"/>
+  <KnobCCAssignment index="11" ccNumber="-1"/>
+  <KnobCCAssignment index="12" ccNumber="-1"/>
+  <KnobCCAssignment index="13" ccNumber="-1"/>
+  <KnobCCAssignment index="14" ccNumber="-1"/>
+  <KnobCCAssignment index="15" ccNumber="-1"/>
+  <KnobCCAssignment index="16" ccNumber="-1"/>
+  <KnobCCAssignment index="17" ccNumber="-1"/>
+  <KnobCCAssignment index="18" ccNumber="-1"/>
+  <KnobCCAssignment index="19" ccNumber="-1"/>
+  <KnobCCAssignment index="20" ccNumber="-1"/>
+  <KnobCCAssignment index="21" ccNumber="-1"/>
+  <KnobCCAssignment index="22" ccNumber="-1"/>
+  <KnobCCAssignment index="23" ccNumber="-1"/>
+  <KnobCCAssignment index="24" ccNumber="-1"/>
+  <KnobCCAssignment index="25" ccNumber="-1"/>
+  <KnobCCAssignment index="26" ccNumber="-1"/>
+  <KnobCCAssignment index="27" ccNumber="-1"/>
+  <KnobCCAssignment index="28" ccNumber="-1"/>
+  <KnobCCAssignment index="29" ccNumber="-1"/>
+  <KnobCCAssignment index="30" ccNumber="-1"/>
+  <KnobCCAssignment index="31" ccNumber="-1"/>
+</UnifyMidiCCPreset>

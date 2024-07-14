@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<AudioFxLane title="DFH - Percussive Hall" mixLevel="0.1778279393911362" panPos="0.5"
+             muteState="1">
+  <AudioInserts>
+    <InsertEffect stateInformation="964.CMlaKA....fQBMDZ....APjYHEF.CD......Y.............................................................................................................................................................................v.jX0PxDxFC...77CdswFH1Ulbyk1at0iHw3BLh.RYtM1ajklam0iHUQkQsfiH+3CH7Pjbgc1atYFa4gTXrwlO7.UPRETSfjFY8HBYkMVX4IBH1EFa0UVOhLiKv.yLyfCLvXCLwjSM4HyLh7hO7.UPRETSfjFY8HBYoYlY0MWYh.hcgwVck0iHw.CLt.iHu3COPEjTA0DHoQVOhPlb4wTY1UFah.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HRYgIGa4wTY1UFah.hcgwVck0iHxHiKzHCLyDiL3fSLzXSN2LiHu3COPEjTA0DHoQVOhTVXxwVdSUlajIBH1EFa0UVOhHCLt.iHu3COPEjTA0DHoQVOhfVZmg1Px81byIBH1EFa0UVOhTiLz.iKyDiL0HxK9vCTAIUPMARZj0iHnk1YnMTczIBH1EFa0UVOhDSL2bSNtfCMzbiL1TiMxTiHu3COPEjTA0DHoQVOhfVZmgVS0wFch.hcgwVck0iHv3xMvjCNxfSLyfyL0DCMz.CMh7hO7.UPRETSfjFY8HBagQWYLUlckwlHfXWXrUWY8HRLv.iKvHxK9vCTAIUPMARZj0iHr81cCI2ayMmHfXWXrUWY8HxLxfiKz.iMxTiHu3COPEjTA0DHoQVOhv1a2MTczIBH1EFa0UVOhDCL43BLwTiMwbyL2.iMvTSMh7hO7.UPRETSfjFY8HBaucWS0wFch.hcgwVck0iHw3xLvHiLzjSNvfCMzbiL1XiHu3COPEjTA0DHoQVOhz1ajUGagQWZu4lHfXWXrUWY8HxLv3BLv.CLvDSNvbyLzfiMyHxK9vCTAIUPMARZj0iHvIWYjUFagkmHfXWXrUWY8HRLw3BLh7hO7.UPRETSfjFY8HxbooWYh.hcgwVck0iHwfiKyfiM2DCN2TiHu3COPEjTA0DHoQVOhLGbo4lHfXWXrUWY8HBLt.iHu3COPEjTA0DHoQVOhbWXtQVYxIBH1EFa0UVOhPCLt.iHu3COPEjTA0DHoQVOhbWZjQGZh.hcgwVck0iHw.CLt.iHu3COuPjbgc1atYFa4gTXrwlO.."
+                  currentProgram="0" isBypassed="0">
+      <PLUGIN name="Dragonfly Hall" format="VST" category="Effect" manufacturer="PlugInGuru"
+              version="3.1.0.0" file="/Applications/PlugInGuru/Unify/VST/Dragonfly Hall.vst"
+              uid="44664861" isInstrument="0" fileTime="171c7a664de" infoUpdateTime="171c7a7dcc2"
+              numInputs="2" numOutputs="2" isShell="0"/>
+    </InsertEffect>
+  </AudioInserts>
+</AudioFxLane>

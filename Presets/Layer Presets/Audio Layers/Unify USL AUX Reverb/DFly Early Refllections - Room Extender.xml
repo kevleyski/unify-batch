@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<AudioFxLane title="Dragonfly Early Refllections - Room Extender" mixLevel="0.3981071710586548"
+             panPos="0.5" muteState="1">
+  <AudioInserts>
+    <InsertEffect stateInformation="508.CMlaKA....fQBMDZ....APjYEIE.CH......H.............................................................................................................................................................................P.bY0PxDxTA...77CdswFH1Ulbyk1at0iHw3BLh.RYtM1ajklam0iHUQkQsfiH+3CH7Pjbgc1atYFa4UjT9vCTAIUPMARZj0iHjIWdLUlckwlHfXWXrUWY8HhLt.CM1fyM0HxK9vCTAIUPMARZj0iHnk1YnMTczIBH1EFa0UVOhDCM0HSLtTiMxTiHu3COPEjTA0DHoQVOhv1a2MTczIBH1EFa0UVOhTCLt.CLv.CLyfSLzXSN2HyMh7hO7.UPRETSfjFY8HBbx81YI4FYkgmHfXWXrUWY8HRMt.iHu3COPEjTA0DHoQVOhLWZ5UlHfXWXrUWY8HxLy3xM3PyL2PiLybCL1.SM0HxK9vCTAIUPMARZj0iH2UFcLUlckwlHfXWXrUWY8HRLv.iKvHxK9vCTAIUPMARZj0iH2kFYzglHfXWXrUWY8HRL0.iKvHxK9vyKDIWXm8lalwVdEIkO.."
+                  currentProgram="0" isBypassed="0">
+      <PLUGIN name="Dragonfly ER" format="VST" category="Effect" manufacturer="PlugInGuru"
+              version="3.2.0.0" file="/Applications/PlugInGuru/Unify/VST/Dragonfly ER.vst"
+              uid="44664552" isInstrument="0" fileTime="171c7a1d89b" infoUpdateTime="171c7a7dc9e"
+              numInputs="2" numOutputs="2" isShell="0"/>
+    </InsertEffect>
+  </AudioInserts>
+</AudioFxLane>

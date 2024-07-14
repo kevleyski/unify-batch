@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<curve>
+  <Segment fxMin="0.0" fxMax="0.2506887018680573" fyMin="0.5017920732498169"
+           fyMax="1.0" curvature="1.950000047683716"/>
+  <Segment fxMin="0.2506887018680573" fxMax="0.5013774037361145" fyMin="1.0"
+           fyMax="0.4982078671455383" curvature="-1.950000047683716"/>
+  <Segment fxMin="0.5013774037361145" fxMax="0.7520661354064941" fyMin="0.4982078671455383"
+           fyMax="0.0" curvature="2.149999856948853"/>
+  <Segment fxMin="0.7520661354064941" fxMax="1.0" fyMin="0.0" fyMax="0.5017920732498169"
+           curvature="-2.149999856948853"/>
+</curve>

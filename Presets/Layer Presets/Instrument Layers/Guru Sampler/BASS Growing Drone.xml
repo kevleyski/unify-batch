@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Layer layerTitle="BASS Growing Drone" mixLevel="0.8413954973220825"
+       panPos="0.5" muteState="1" lokey="0" hikey="127" lovel="0" hivel="127"
+       keyOffset="0" midiChannel="0" midiSourceIndex="-1" latchEnabled="0"
+       directSendLevel="1.0" fxSendLevel1="1.0" fxSendLevel2="1.0" fxSendLevel3="1.0"
+       fxSendLevel4="1.0">
+  <Instrument stateInformation="1944.VMjLg73A...O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOGUmb0MUXsAGakIGHvElbg0lUkI2bo8la8HhLh.xayMVLLklXxElb44TXsUVOhTkaoYVdfLEcg4FYgIGYfvTZhIWXxkmHf71biEyTg0FbrUlQuwFYkIWOhHTPSkzPfbUPVUjQOIUSSIBHuM2XwLUXsAGakMUYz0iHOM0PszTPXARKfLUPWARUNkzTO4DH3fmH9vCTAIUPMARZj0iHv8Fa4AGZu4Vdh.hcgwVck0iH1PiKvHxK9vCTAIUPMARZj0iHsE1bzUlbLUlckwlHfXWXrUWY8HRLv.iKvHxK9vCTAIUPMARZj0iHvIVUvMUYsklHfXWXrUWY8HhLt.iHu3COPEjTA0DHoQVOh.mXD41Tk0VZh.hcgwVck0iHsHiKvHxK9vCTAIUPMARZj0iHvIFSgc1TkMlHfXWXrUWY8HBLt.CL4jSN4jSN4byM1PCNxTCNxHxK9vCTAIUPMARZj0iHmwVZjU1TkMFTkI2SiQWX1UlHfXWXrUWY8HBLt.SM4TiMwTCNvPSL4TCMvPSLh7hO7.UPRETSfjFY8HRXsAmUkw1Tk41bh.hcgwVck0iH3DiK3DCL4LSM4bCMwHSLvjiHu3COPEjTA0DHoQVOhXVZrQWYxYUYrMUYtMmHfXWXrUWY8HRNv3BLh7hO7.UPRETSfjFY8HBal81UgYWYl8lbsIBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHrY1aVElboEFco8lah.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HBal8lTgQWYh.hcgwVck0iH03BLh7hO7.UPRETSfjFY8HBal8FToQ2XnQTYvQGZh.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HBal81P0Q2alYFQkAGcnIBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHscGToQ2XnQTYvQGZh.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HRa2MTcz8lYlQTYvQGZh.hcgwVck0iH1.iKz.iMxTiHu3COPEjTA0DHoQVOhz1cLY1aPkFcigFQkAGcnIBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHscGSl81P0Q2alYFQkAGcnIBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHuM2XwX0aoMVYM8FYkIBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHuM2Xw.UZzMFZAw1YuIBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHuM2XwLEZoYFch.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HxayMVLPkFciglHfXWXrUWY8HRKwHiKvHxK9vCTAIUPMARZj0iHuM2XwLzagI2bkIBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHuM2XwPTYzUmakIBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHyEVavwVYSQWXxQmHfXWXrUWY8HBLt.iHu3COPEjTA0DHoQVOhLWXsAGakMEcgIGcVElbh.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HhYowFckIGU4AWYh.hcgwVck0iHw3BLh7hO7.UPRETSfjFY8HhYowFckI2TzE1YkMmHfXWXrUWY8HhLt.iHu3COPEjTA0DHoQVOhXVZrQWYxcTXo4lHfXWXrUWY8HBLt.iHu3COPEjTA0DHoQVOhXVZrQWYxMTcz8lYlIBH1EFa0UVOhXiMtXCL2jSLvDSM1HSMh7hO7.UPRETSfjFY8HhYowFckImUkw1P0Q2alYlHfXWXrUWY8HBLt.iHu3COPEjTA0DHoQVOhXVZrQWYxIUYyIBH1EFa0UVOhXiKyjCL4LyM3.SMwbSM2fSLh7hO7.UPRETSfjFY8HhYowFckIWQtYWPsQmHfXWXrUWY8HxM4DCMt.iMxTiHu3COPEjTA0DHoQVOhXVZrQWYxsTY4QkbqIBH1EFa0UVOhXCLt.iHu3COPEjTA0DHoQVOhDVavEDczE1XqIBH1EFa0UVOh.iKwfiL1.SN3bSLvHSN3TyL3HxK9vCTAIUPMARZj0iHg0FbDU1XgkmHfXWXrUWY8HBLtLSLwDiLvjCN1jyL3PyM1XiHu3COPEjTA0DHoQVOhDVavMUcyQWXo4lHfXWXrUWY8HRN13BL0jyL2jSM2biMyXyMxHxK9vCTAIUPMARZj0iHg0FbRUFakE1bkIBH1EFa0UVOhTiKxfiM4XiL4fSM4jiLzLiLh7hO7.UPRETSfjFY8HhYrQWPzQWXislHfXWXrUWY8HRMtLSNzDSMxXCMwHSN1LCN2HxK9vCTAIUPMARZj0iHlwFcDU1XgkmHfXWXrUWY8HRL03RN4.iMzbyLwTSN2jiHu3COPEjTA0DHoQVOhXFazMUcyQWXo4lHfXWXrUWY8HRL23RN4HSL3bSMh7hO7.UPRETSfjFY8HhYrQmTkwVYgMWYh.hcgwVck0iHwjiK3PCNwTyM3fiL1jCLzLiHu3COPEjTA0DHoQVOhz1cLE1YSU1Xh7hO77xQ0IWcSEVavwVYx4C."
+              currentProgram="0">
+    <PLUGIN name="Guru Sampler" format="Built-In" category="Synth" manufacturer="Built-In"
+            version="0.16.3" file="Guru Sampler:" uid="894b1e99" isInstrument="1"
+            fileTime="0" infoUpdateTime="0" numInputs="0" numOutputs="2"
+            isShell="0"/>
+  </Instrument>
+  <MidiVelCurve>
+    <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+  </MidiVelCurve>
+  <MidiInserts/>
+  <AudioInserts>
+    <InsertEffect stateInformation="700.CMlaKA....fQ3IzZ....AzFYgwF...P.....HTlai8FYo41Y8HRUTYTK3HxO9.BOGUmb0MUXsAGakIGHvElbg0lUkI2bo8la8HhLh.xayMVLLklXxElb44TXsUVOhTkaoYVdfLEcg4FYgIGYfvTZhIWXxkmHf71biEyTg0FbrUlQuwFYkIWOhHTPSkzPfbUPVUjQOIUSSIBHuM2XCMlaKA....fQ3MzZ....AzFYgwF...P.....CTTb0EFafvza0QlakM2bfLzatQ2a0I2b..GZu41Oxzdd+....3yryLyPi41R.....XDdCsF...P.sQVXrA...D....v.EEWcgwFHL8Vcj4VYyMGHC8laz8VcxMG.j0iHv8yLyLyO....9L6LyLzXtsD.....Fg2PqA...DPajEFa....A....LPQwUWXrABSuUGYtU1byAxPu4FcuUmbyAPZj0iH+LyLy7C...fOyNyLCMlaKA....fQ3MzZ....AzFYgwF...P.....CTTb0EFafvza0QlakM2bfLzatQ2a0I2b.PWX1U1OyLyL+....3yryLyPi41R.....XDdCsF...P.sQVXrA...D....v.EEWcgwFHL8Vcj4VYyMGHC8laz8VcxMG.3DCL47yLyLyO....9L6LyLzXtsD.....Fg2PqA...DPajEFa....A....LPQwUWXrABSuUGYtU1byAxPu4FcuUmbyA.al81U+LyLy7C...fOyNyLCMlaKA....fQ3MzZ....AzFYgwF...P.....CTTb0EFafvza0QlakM2bfLzatQ2a0I2b.DTSfj1OyLyL+....3yryLyPi41R.....XDdCsF...P.sQVXrA...D....v.EEWcgwFHL8Vcj4VYyMGHC8laz8VcxMG.7.UPR8yLyLyO....9L6Ly."
+                  currentProgram="0" isBypassed="0">
+      <PLUGIN name="mdaLoudness" descriptiveName="mda Loudness" format="VST"
+              category="Effect" manufacturer="mda" version="1.0.0.0" file="/Applications/PlugInGuru/Unify/VST/mda/mdaLoudness.vst"
+              uid="6d64616c" isInstrument="0" fileTime="16c7ca61e8c" infoUpdateTime="16cb5945982"
+              numInputs="2" numOutputs="2" isShell="0"/>
+    </InsertEffect>
+  </AudioInserts>
+</Layer>

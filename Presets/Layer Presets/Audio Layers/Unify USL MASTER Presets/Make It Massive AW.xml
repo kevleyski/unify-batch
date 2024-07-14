@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<AudioFxLane title="" mixLevel="1.0" panPos="0.5" muteState="1">
+  <AudioInserts>
+    <InsertEffect stateInformation="414.VMjLgTY....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOE0lUkImX9vCTAIUPMARZj0iHhElajcWZjQGZh.hcgwVck0iHv3hLxjSN4jSN3jiL2DSL1LSNh7hO7.UPRETSfjFY8HBYg0Fbo41Yh.hcgwVck0iHv3RN3jSN4jSNzjSNyHCL4fCMh7hO7.UPRETSfjFY8HBYkMVX4IBH1EFa0UVOh.iKzPSN4jSN4fCNvbSNvbSLh7hO7.UPRETSfjFY8HBYk41boQWdh.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HBYxk2UkQWSogmHfXWXrUWY8HBLt.CM4jSN4jSN2.SL4biM2biMh7hO7.UPRETSfjFY8HRYgIGa4wTXzUVSogmHfXWXrUWY8HRLt.iHu3COPEjTA0DHoQVOh.mbkQVYrEVdh.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8Hhbu8VaSkldkIBH1EFa0UVOh.iKvfSN4jSN4jiMwHSM1jCNvjiHu3COuTTaVUlbh4C."
+                  currentProgram="0">
+      <PLUGIN name="EmVerb" format="Built-In" category="Effect" manufacturer="Built-In"
+              version="0.21.4" file="EmVerb:" uid="7be70607" isInstrument="0"
+              fileTime="0" infoUpdateTime="0" numInputs="2" numOutputs="2"
+              isShell="0"/>
+    </InsertEffect>
+    <InsertEffect stateInformation="260.VMjLgrO....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOE4lYuI2XkImO7.UPRETSfjFY8HRXzQWXislHfXWXrUWY8HBMtLCLv.CLvDSNvbyLzfiMyHxK9vCTAIUPMARZj0iHmEVZtIBH1EFa0UVOhHiK0HxK9vCTAIUPMARZj0iHxEFco8lHfXWXrUWY8HRMtTiHu3COPEjTA0DHoQVOhHWYrUVXyUlHfXWXrUWY8HhL3XiK1.CLv.iMw.yL0DSM1HxK9vCTAIUPMARZj0iHzglbkMGZuwFYh.hcgwVck0iHsDCLt.iHu3COuTjal8lbiUlb9.."
+                  currentProgram="0">
+      <PLUGIN name="Enforcer" format="Built-In" category="Effect" manufacturer="Built-In"
+              version="1.0.1" file="Enforcer:" uid="6efe60f0" isInstrument="0"
+              fileTime="0" infoUpdateTime="0" numInputs="2" numOutputs="2"
+              isShell="0"/>
+    </InsertEffect>
+    <InsertEffect stateInformation="228.CMlaKA....fQ3IzZ....AvDYMgG...P.....ATlai8FYo41Y8HRUTYTK3HxO9.BOE4lYuI2XkImO7.UPRETSfjFY8HRXzQWXislHfXWXrUWY8HBMtLCLv.CLvDSNvbyLzfiMyHxK9vCTAIUPMARZj0iHmEVZtIBH1EFa0UVOhHiK0HxK9vCTAIUPMARZj0iHxEFco8lHfXWXrUWYCMlaKA....fQ3MzZ....AvDYMgG...P.....DPTYlEVcrQG.3XiK1.CLv.iMw.yL0DSM1HxK9vyOJkWA+.H.......vO.B.."
+                  currentProgram="0">
+      <PLUGIN name="LoudMax" descriptiveName="LoudMax 64bit" format="VST" category="Effect"
+              manufacturer="Thomas Mundt" version="1.2.7.0" file="/Users/AW/Documents/Unify/VST/LoudMax.vst"
+              uid="4c644d78" isInstrument="0" fileTime="169968a1690" infoUpdateTime="16cb5945d42"
+              numInputs="2" numOutputs="2" isShell="0"/>
+    </InsertEffect>
+  </AudioInserts>
+</AudioFxLane>

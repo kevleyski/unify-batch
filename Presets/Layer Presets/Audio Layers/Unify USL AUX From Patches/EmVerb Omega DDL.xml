@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<AudioFxLane title="EmVerb/Omega DDL" mixLevel="0.1496235877275467" panPos="0.5"
+             muteState="1">
+  <AudioInserts>
+    <InsertEffect stateInformation="384.VMjLgbW....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOE0lUkImX9vCTAIUPMARZj0iHhElajcWZjQGZh.hcgwVck0iHw3BLh7hO7.UPRETSfjFY8HBYg0Fbo41Yh.hcgwVck0iHv3RMh7hO7.UPRETSfjFY8HBYkMVX4IBH1EFa0UVOh.iK3bCLv.CLv.CM2XCNybSL1HxK9vCTAIUPMARZj0iHjUlaykFc4IBH1EFa0UVOh.iK2TiHu3COPEjTA0DHoQVOhPlb4cUYz0TZ3IBH1EFa0UVOh.iKxDSN4jSN4jCN3.yM4.yMwHxK9vCTAIUPMARZj0iHkElbrkGSgQWYMkFdh.hcgwVck0iHv3RMh7hO7.UPRETSfjFY8HBbxUFYkwVX4IBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHx81asMUZ5UlHfXWXrUWY8HBLtbSN4jSN4jSMxLSL1HCNzHiHu3COuTTaVUlbh4C."
+                  currentProgram="0">
+      <PLUGIN name="EmVerb" format="Built-In" category="Effect" manufacturer="Built-In"
+              version="0.17.3" file="EmVerb:" uid="7be70607" isInstrument="0"
+              fileTime="0" infoUpdateTime="0" numInputs="2" numOutputs="2"
+              isShell="0"/>
+    </InsertEffect>
+    <InsertEffect stateInformation="945.VMjLgf5....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOO0VYmEFQkwVX44COPEjTA0DHoQVOhHFbsMUdtMlHfXWXrUWY8HRLt.iHu3COPEjTA0DHoQVOhLFZuIWcyYTYkQlXgM1Zh.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HxXn8lb0MWSuQFQkAGcnIBH1EFa0UVOhHCLt.iHu3COPEjTA0DHoQVOhLFZuIWcy0zajYjbkEmHfXWXrUWY8HRLt.iHu3COPEjTA0DHoQVOhLFZuIWcy0zajUlHfXWXrUWY8HBLt.iHu3COPEjTA0DHoQVOhLFZuIWcycUYz0TZ3IBH1EFa0UVOhTCLt.iHu3COPEjTA0DHoQVOhPVYrEVdTkVakwjHfXWXrUWY8HBLtXCNzHSLvTyL3fiMzDyL0biHu3COPEjTA0DHoQVOhPVYrEVdTkVakIkHfXWXrUWY8HBLtXCNzHSLvTyL3fiMzDyL0biHu3COPEjTA0DHoQVOhPVZyQGQxklckIBH1EFa0UVOh.iK0DSNyDiL0.CL4TyL1bCMyHxK9vCTAIUPMARZj0iHjk1bzcTXo4lHfXWXrUWY8HRKw.iK0byLwHCM3fSM0TSNvfiHu3COPEjTA0DHoQVOhPVZyQ2TzIWYtcFcnIBH1EFa0UVOh.iKzHSNvLSLxTiL3XSLvHiL4HxK9vCTAIUPMARZj0iHjk1bzQUdvUlHfXWXrUWY8HxLt.iHu3COPEjTA0DHoQVOhPlboYFcA01a04Fch.hcgwVck0iHv3RNv.CLvDSMxTCN2fSNvXiLh7hO7.UPRETSfjFY8HBYxk2UkQWSogmHfXWXrUWY8HRLv.iKvHxK9vCTAIUPMARZj0iHlIFSkYFch.hcgwVck0iHxfiK0HxK9vCTAIUPMARZj0iHlIVSuQVYh.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HhYhIUZmgFch.hcgwVck0iHyHiK0HxK9vCTAIUPMARZj0iHlkFazUlbFIWYwIBH1EFa0UVOhPiM4fiKzfiL4DCLwTiMxTiHu3COPEjTA0DHoQVOhXVZrQWYxcTXo4lHfXWXrUWY8HBLt.iHu3COPEjTA0DHoQVOhXVZrQWYxEkHfXWXrUWY8HRLtPiL3fyLwLyL3fCNxPCM1HxK9vCTAIUPMARZj0iHlkFazUlbTkGbkIBH1EFa0UVOh.iKvHxK9vyKO0VYmEFQkwVX44C."
+                  currentProgram="0">
+      <PLUGIN name="Omega Delay" format="Built-In" category="Effect" manufacturer="Built-In"
+              version="0.17.3" file="Omega Delay:" uid="86367dc4" isInstrument="0"
+              fileTime="0" infoUpdateTime="0" numInputs="2" numOutputs="2"
+              isShell="0"/>
+    </InsertEffect>
+  </AudioInserts>
+</AudioFxLane>

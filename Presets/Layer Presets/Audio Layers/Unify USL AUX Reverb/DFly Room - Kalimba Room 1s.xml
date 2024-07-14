@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<AudioFxLane title="Dragonfly Reverb Room - Kalimba Room" mixLevel="0.4216965138912201"
+             panPos="0.5" muteState="1">
+  <AudioInserts>
+    <InsertEffect stateInformation="947.CMlaKA....fQBMDZ....APjYR0F.CH......Y.............................................................................................................................................................................v.SX0PxDhBC...77CdswFH1Ulbyk1at0iHw3BLh.RYtM1ajklam0iHUQkQsfiH+3CH7Pjbgc1atYFa4I0au0lO7.UPRETSfjFY8HhXu81bzYjbkEmHfXWXrUWY8HBN43BM3PyL2TiHu3COPEjTA0DHoQVOhPVYiEVdh.hcgwVck0iHv3BMz.SM3PyMzfSN3LyL3LiLh7hO7.UPRETSfjFY8HBYoYlY0MWYh.hcgwVck0iHzjiKybCLy.yM4HiLyXyLxfiHu3COPEjTA0DHoQVOhPlb4wTY1UFah.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HRYgIGa4QTXsAmHfXWXrUWY8HRL1.CLv3BLh7hO7.UPRETSfjFY8HRYgIGa4wTY1UFah.hcgwVck0iH43RN4jSN4jCLzXyLxTiM3PiHu3COPEjTA0DHoQVOhTVXxwVdSUlajIBH1EFa0UVOhDSNtjSN4jSN3.SNxXSMwLyMh7hO7.UPRETSfjFY8HBZocFZCUGch.hcgwVck0iH0XiL43RLz.iMxTiHu3COPEjTA0DHoQVOhvVXzUFQg0Fbh.hcgwVck0iHwXCLv.iKvHxK9vCTAIUPMARZj0iHrEFckwTY1UFah.hcgwVck0iHw.CLt.iHu3COPEjTA0DHoQVOhv1a2IzauMGch.hcgwVck0iHy.iK1XyMwfCN1PCMz.SNwfiHu3COPEjTA0DHoQVOhv1a2MTczIBH1EFa0UVOhDiM13RLxTiHu3COPEjTA0DHoQVOh.mbkQVYrEVdh.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HxbooWYh.hcgwVck0iH43BLw.iMxLSNyDCN3PyM1XiHu3COPEjTA0DHoQVOhLGbo4lHfXWXrUWY8HBLtXSMxXSM1HSM2DSMxTSM2PiHu3COPEjTA0DHoQVOhbWXtQVYxIBH1EFa0UVOhLSNtjSN4jSN1DCN0LCLxbyLh7hO7.UPRETSfjFY8HxcoQFcnIBH1EFa0UVOhDCLv3BLh7hO77BQxE1Yu4lYrkmTu8Va9.."
+                  currentProgram="0" isBypassed="0">
+      <PLUGIN name="Dragonfly Room" format="VST" category="Effect" manufacturer="PlugInGuru"
+              version="3.1.0.0" file="/Applications/PlugInGuru/Unify/VST/Dragonfly Room.vst"
+              uid="4466526d" isInstrument="0" fileTime="171c79e2a9a" infoUpdateTime="171c7a7dd99"
+              numInputs="2" numOutputs="2" isShell="0"/>
+    </InsertEffect>
+  </AudioInserts>
+</AudioFxLane>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PhaseMORE presetName="Fast Phased Tremolo">
+  <Parameters>
+    <PARAM id="depth" value="16.0"/>
+    <PARAM id="feedback" value="52.5"/>
+    <PARAM id="frequency" value="2631.34765625"/>
+    <PARAM id="lfoRate" value="5.162060737609863"/>
+    <PARAM id="lfoShape" value="0.5"/>
+    <PARAM id="numStages" value="10.0"/>
+    <PARAM id="resonance" value="0.5483796000480652"/>
+    <PARAM id="mix" value="32.0"/>
+  </Parameters>
+</PhaseMORE>

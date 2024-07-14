@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<AudioFxLane title="Omega HPF PingPong" mixLevel="0.6683439016342163" panPos="0.5"
+             muteState="1">
+  <AudioInserts>
+    <InsertEffect stateInformation="947.VMjLgn5....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOO0VYmEFQkwVX44COPEjTA0DHoQVOhHFbsMUdtMlHfXWXrUWY8HRLt.iHu3COPEjTA0DHoQVOhLFZuIWcyYTYkQlXgM1Zh.hcgwVck0iHzXiKvHxK9vCTAIUPMARZj0iHig1axU2bM8FYDUFbzglHfXWXrUWY8HhLv3BLh7hO7.UPRETSfjFY8HxXn8lb0MWSuQlQxUVbh.hcgwVck0iHv3hM0HSM2DSNwXSM3.iLv.iLh7hO7.UPRETSfjFY8HxXn8lb0MWSuQVYh.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HxXn8lb0M2UkQWSogmHfXWXrUWY8HxL23BLh7hO7.UPRETSfjFY8HBYkwVX4QUZsUFSh.hcgwVck0iHv3hM3PiLw.SMyfCN1PSLyTyMh7hO7.UPRETSfjFY8HBYkwVX4QUZsUlTh.hcgwVck0iHv3hMxPCM1.SMwfyL1.SLybSNh7hO7.UPRETSfjFY8HBYoMGcDIWZ1UlHfXWXrUWY8HBLtLiM3TSNybSMxLCNzDCN0fiHu3COPEjTA0DHoQVOhPVZyQ2Qgklah.hcgwVck0iHsDSMtDiM2fSLxLCM2PSLxDSLh7hO7.UPRETSfjFY8HBYoMGcSQmbk41YzglHfXWXrUWY8HBLtPCMzPSMyDiLvHyLwXiL3PiHu3COPEjTA0DHoQVOhPVZyQGU4AWYh.hcgwVck0iHx3BLh7hO7.UPRETSfjFY8HBYxklYzETauUmazIBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHjIWdWUFcMkFdh.hcgwVck0iHw.CLt.iHu3COPEjTA0DHoQVOhXlXLUlYzIBH1EFa0UVOhHCMt.iHu3COPEjTA0DHoQVOhXlXM8FYkIBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHlIlTocFZzIBH1EFa0UVOhHyMtTiHu3COPEjTA0DHoQVOhXVZrQWYxYjbkEmHfXWXrUWY8HBMzPiKy.CNvDyL4DiMvDSM1HxK9vCTAIUPMARZj0iHlkFazUlbGEVZtIBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHlkFazUlbQIBH1EFa0UVOhDiK2HiL0HSMwDSN2fSLzjCMh7hO7.UPRETSfjFY8HhYowFckIGU4AWYh.hcgwVck0iHw3BLh7hO77xSsU1YgQTYrEVd9.."
+                  currentProgram="0">
+      <PLUGIN name="Omega Delay" format="Built-In" category="Effect" manufacturer="Built-In"
+              version="0.16.3" file="Omega Delay:" uid="86367dc4" isInstrument="0"
+              fileTime="0" infoUpdateTime="0" numInputs="2" numOutputs="2"
+              isShell="0"/>
+    </InsertEffect>
+    <InsertEffect stateInformation="282.VMjLgDQ....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BORU1bzIWZiQ2ax4COPEjTA0DHoQVOhPlb4cUYz0TZ3IBH1EFa0UVOhDCLv3BLh7hO7.UPRETSfjFY8HBZocFZPE1byYjbkEmHfXWXrUWY8HhLxjiKzfSMyXiM3HSLxfSNwHxK9vCTAIUPMARZj0iHnk1YnAUXyM2TzE1YkMmHfXWXrUWY8HRLt.iHu3COPEjTA0DHoQVOhv1a2AUXyMmQxUVbh.hcgwVck0iHx.CLv.iKvHxK9vCTAIUPMARZj0iHr81cPE1byMEcgcVYyIBH1EFa0UVOhDiKvHxK9vyKRU1bzIWZiQ2ax4C."
+                  currentProgram="0">
+      <PLUGIN name="Restrictor" format="Built-In" category="Effect" manufacturer="Built-In"
+              version="0.21.5" file="Restrictor:" uid="297ee5bf" isInstrument="0"
+              fileTime="0" infoUpdateTime="0" numInputs="2" numOutputs="2"
+              isShell="0"/>
+    </InsertEffect>
+  </AudioInserts>
+</AudioFxLane>

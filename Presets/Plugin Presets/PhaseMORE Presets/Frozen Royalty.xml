@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PhaseMORE presetName="Frozen Royalty">
+  <Parameters>
+    <PARAM id="depth" value="100.0"/>
+    <PARAM id="feedback" value="46.0"/>
+    <PARAM id="frequency" value="4663.01123046875"/>
+    <PARAM id="lfoRate" value="0.0"/>
+    <PARAM id="lfoShape" value="0.5"/>
+    <PARAM id="numStages" value="10.0"/>
+    <PARAM id="resonance" value="3.497713088989258"/>
+    <PARAM id="mix" value="100.0"/>
+  </Parameters>
+</PhaseMORE>

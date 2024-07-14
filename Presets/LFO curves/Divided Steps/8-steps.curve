@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<curve>
+<Segment fxMin="0.000000" fxMax="0.125000" fyMin="0.000000" fyMax="0.000000" curvature="0.000000"/>
+<Segment fxMin="0.125000" fxMax="0.125000" fyMin="0.000000" fyMax="0.152857" curvature="0.000000"/>
+<Segment fxMin="0.125000" fxMax="0.250000" fyMin="0.152857" fyMax="0.152857" curvature="0.000000"/>
+<Segment fxMin="0.250000" fxMax="0.250000" fyMin="0.152857" fyMax="0.305714" curvature="0.000000"/>
+<Segment fxMin="0.250000" fxMax="0.375000" fyMin="0.305714" fyMax="0.305714" curvature="0.000000"/>
+<Segment fxMin="0.375000" fxMax="0.375000" fyMin="0.305714" fyMax="0.458571" curvature="0.000000"/>
+<Segment fxMin="0.375000" fxMax="0.500000" fyMin="0.458571" fyMax="0.458571" curvature="0.000000"/>
+<Segment fxMin="0.500000" fxMax="0.500000" fyMin="0.458571" fyMax="0.611429" curvature="0.000000"/>
+<Segment fxMin="0.500000" fxMax="0.625000" fyMin="0.611429" fyMax="0.611429" curvature="0.000000"/>
+<Segment fxMin="0.625000" fxMax="0.625000" fyMin="0.611429" fyMax="0.764286" curvature="0.000000"/>
+<Segment fxMin="0.625000" fxMax="0.750000" fyMin="0.764286" fyMax="0.764286" curvature="0.000000"/>
+<Segment fxMin="0.750000" fxMax="0.750000" fyMin="0.764286" fyMax="0.917143" curvature="0.000000"/>
+<Segment fxMin="0.750000" fxMax="0.875000" fyMin="0.917143" fyMax="0.917143" curvature="0.000000"/>
+<Segment fxMin="0.875000" fxMax="0.875000" fyMin="0.917143" fyMax="1.000000" curvature="0.000000"/>
+<Segment fxMin="0.875000" fxMax="1.000000" fyMin="1.000000" fyMax="1.000000" curvature="0.000000"/>
+</curve>

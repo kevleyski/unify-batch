@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PhaseMORE presetName="Frozen Drums Wasteland">
+  <Parameters>
+    <PARAM id="depth" value="0.0"/>
+    <PARAM id="feedback" value="-69.5"/>
+    <PARAM id="frequency" value="556.9108276367188"/>
+    <PARAM id="lfoRate" value="0.0"/>
+    <PARAM id="lfoShape" value="0.5"/>
+    <PARAM id="numStages" value="9.0"/>
+    <PARAM id="resonance" value="0.5483796000480652"/>
+    <PARAM id="mix" value="100.0"/>
+  </Parameters>
+</PhaseMORE>
