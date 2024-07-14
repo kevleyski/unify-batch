@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pluginSelections>
+  <PluginSelector descriptiveName="BBC Symphony Orchestra" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Eric Whitacre Choir" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Eric Whitacre Choir Evo Grid" pluginFormatName="VST3"/>
+</pluginSelections>

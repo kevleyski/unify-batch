@@ -2,22 +2,13 @@
 
 <pluginSelections>
   <PluginSelector descriptiveName="Absynth 5" pluginFormatName="VST"/>
-  <PluginSelector descriptiveName="Ample Guitar M II Lite" pluginFormatName="VST"/>
-  <PluginSelector descriptiveName="Ample Percussion Cloudrum" pluginFormatName="VST"/>
-  <PluginSelector descriptiveName="ANA 2" pluginFormatName="VST"/>
   <PluginSelector descriptiveName="BBC Symphony Orchestra" pluginFormatName="VST"/>
   <PluginSelector descriptiveName="bx_oberhausen" pluginFormatName="VST"/>
-  <PluginSelector descriptiveName="DUNE 3" pluginFormatName="VST"/>
   <PluginSelector descriptiveName="FM8" pluginFormatName="VST"/>
   <PluginSelector descriptiveName="Hive" pluginFormatName="VST"/>
-  <PluginSelector descriptiveName="Keyscape" pluginFormatName="VST"/>
   <PluginSelector descriptiveName="Kontakt" pluginFormatName="VST"/>
   <PluginSelector descriptiveName="Massive" pluginFormatName="VST"/>
-  <PluginSelector descriptiveName="Microtonic" pluginFormatName="VST"/>
   <PluginSelector descriptiveName="Omnisphere" pluginFormatName="VST"/>
-  <PluginSelector descriptiveName="Phase Plant" pluginFormatName="VST"/>
   <PluginSelector descriptiveName="Serum" pluginFormatName="VST"/>
-  <PluginSelector descriptiveName="SubLab" pluginFormatName="VST"/>
-  <PluginSelector descriptiveName="Trilian" pluginFormatName="VST"/>
   <PluginSelector descriptiveName="Zebra2" pluginFormatName="VST"/>
 </pluginSelections>
