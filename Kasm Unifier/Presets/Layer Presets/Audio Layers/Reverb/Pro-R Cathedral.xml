@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<AudioFxLane title="Pro-R Cathedral" colour="ff0b3236" mixLevel="1.00000011920929"
+             panPos="0.5" muteState="1">
+  <AudioInserts>
+    <InsertEffect stateInformation="992.VMjLgb8....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9TiM33hQYoFTSUjKt3hKtflKt3hKFsjULshKt3hKtXVVrkEdO4hKt3xJt3hKt3hYrkEau8jKt3hKtvTdLk2MC4hKt3hKA4hK2DTPt3hKt3hKt3hKt3hKlQ1PA4hKt3hKt3hKt3hKt3hKtbSTmEGMC4hKt3hKt3hKt3hKt3hK4LjKt3xLO4TTP4TPmIUb2fSbiQkMx8jKt3hKtDjKt3RNC4hKt3hKt3hKt3hK1slTDQDTPoWZO4hKt3xJt3hKt3hKt3hKy7jKt3hKt3hKt3hKtnVUT0DTtH0LsciRuYTc2LjKt3hKt3hKtX1Jt3hKt3hKt3hKt3BcTQFQAEjaskjdo8DLy.ySt3hKlshKt3hK4LjKt3hKt3hKt3hKtgiXkQDQt3hKt3hKt3hKq3hKt3hKt3hKtLySt3hKt3hKt3hKtXVL4gSTP4hKt3hKt3hKtbyPt3hKt3hKt3hYq3hKt3RNC4hKtLySIEmbXETV5M2PFwzbuYUbO4hKt.kKA4hKtjyPt3hKt.kKt3hYq3hKt3RNC4hKtLySOgEbx3RPJoWXDomKNQTcO4hKtX1Jt3hKtjyPt3hKt.kKt3hYq3hKt3hKt3hKt3hK5gkaUETPt3hKtXVcN4jcO4hKtXlKA4hKtjyPt3hKt.kKt3hYq3hKt3hKt3hKt3hKy8lTv4RP04FN4LjLzXiLO4hKtX1Jt3hKtjyPt3hKt.kKt3hYq3hKt3hKt3hKt3hKZ8jLGETPt3hKt3hKt3hcO4hKt3hKt3hKtjyPt3hKt.kKt3hYq3hKt3hKt3hKt3hKZ8jLGETPt3hKt3hKt3hcO4hKt3hKt3hKtjyPt3hKt.kKt3hYq3hKt3xMC4hKtX2St3hKtrhKt3hK2LjKt3hcO4hKt3xJt3hKtbyPt3hK18jKt3hKq3hKt3hKPkGS4o2SMkGSSshKt3hK2LjKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKD4hKtLySt3hKt3BVpEkcIckKt3hKt3hKt3hKtvyKIMzasA2atUlaz4COIUDYoQ2Pu4Fcx8FarUlb9XyLtXTRqwjcM4hKt3hcB4hKt3xPEYzXtUkQYgWQFElYDk2JqrxJqDjKt3hKt3hKt3BTt3hKt3xPUICUVUjKt3hKt3hKt3hKFkEUYoVPt3hKt3hKt3xLOwyKIUDYoQ2Pu4Fcx8FarUlb9vyKVMEUy.Ea0cVZtMEcgQWY9.."
+                  currentProgram="0" isBypassed="0" allowMidiIn="1">
+      <PLUGIN name="Pro-R 2" format="VST3" category="Fx|Reverb" manufacturer="FabFilter"
+              version="2.0.3.0" file="/Library/Audio/Plug-Ins/VST3/FabFilter Pro-R 2.vst3"
+              uniqueId="93ab455f" isInstrument="0" fileTime="18d79d42210" infoUpdateTime="1903e61f1ea"
+              numInputs="2" numOutputs="2" isShell="0" hasARAExtension="0"
+              uid="dc93b2c8"/>
+    </InsertEffect>
+  </AudioInserts>
+</AudioFxLane>

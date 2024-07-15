@@ -1,0 +1,489 @@
+<UVI4>
+    <Engine Name="" Bypass="0" GlobalTune="440" Tempo="120" AutoPlay="1" DisplayName="Falcon Dark Knight" MeterNumerator="4" MeterDenominator="4" SyncToHost="0">
+        <Properties MultiPath="/Volumes/KJSL/workspace/github_kevleyski/unify-batch/Kasm Unifier/Assets/UVIWorkstation/Falcon Cityscapes 1.4.uviws"/>
+        <Synth Name="uvi" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" DisplayName="Master" OutputName="">
+            <Auxs>
+                <AuxEffect Name="Aux0" Bypass="0" Gain="1" Pan="0" PreInsert="1" DisplayName="Aux 1"/>
+                <AuxEffect Name="Aux1" Bypass="0" Gain="1" Pan="0" PreInsert="1" DisplayName="Aux 2"/>
+            </Auxs>
+            <Children>
+                <Part Name="Part 0" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" Mute="0" MidiMute="0" Solo="0" DisplayName="Part 1" CoarseTune="0" FineTune="0" TransposeOctaves="0" TransposeSemiTones="0" OutputName="" ExclusiveGroup="0" MidiInput="0" MidiChannel="0" LowKey="0" HighKey="127" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" RestrictVelocityRange="0" RestrictKeyRange="0" Streaming="1">
+                    <Connections>
+                        <SignalConnection Name="SignalConnection 1" Ratio="1" Source="@MIDI CC 11" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        <SignalConnection Name="SignalConnection 0" Ratio="1" Source="@MIDI CC 7" Destination="Gain" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        <SignalConnection Name="SignalConnection 0" Ratio="1" Source="@MIDI CC 10" Destination="Pan" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                    </Connections>
+                    <ControlSignalSources/>
+                    <BusRouters>
+                        <BusRouter Name="AuxSend0" Bypass="0" Gain="0" Destination="../../Aux0" PreFader="0" BusRouterVersion="1"/>
+                        <BusRouter Name="AuxSend1" Bypass="0" Gain="0" Destination="../../Aux1" PreFader="0" BusRouterVersion="1"/>
+                    </BusRouters>
+                    <Program Name="Program" Bypass="0" BypassInsertFX="0" Gain="1.5848932" Pan="0" DisplayName="Dark Knight 1.4" TransposeOctaves="0" TransposeSemiTones="0" OutputName="" Polyphony="16" NotePolyphony="0" ProgramPath="$Falcon Preset Tour.ufs/Presets/Dark Knight 1.4.uvip" LoopProgram="0" Streaming="1">
+                        <Mappers>
+                            <ControlSignalMapper Name="Mapper 0" Min="0" Max="1" Integer="0" Discrete="0" DisplayName="Mapper 0">0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.011429 0.017143 0.028571 0.040000 0.062857 0.097143 0.131429 0.171429 0.200000 0.222857 0.257143 0.291429 0.325714 0.337143 0.365714 0.400000 0.428571 0.462857 0.531429 0.565714 0.594286 0.622857 0.657143 0.708571 0.742857 0.765714 0.794286 0.817143 0.840000 0.862857 0.891429 0.914286 0.920000 0.937143 0.960000 0.965714 0.994286 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000</ControlSignalMapper>
+                            <ControlSignalMapper Name="Mapper 1" Min="0" Max="1" Integer="0" Discrete="0" DisplayName="Mapper 1">0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.091429 0.217143 0.314286 0.360000 0.411429 0.451429 0.491429 0.531429 0.571429 0.600000 0.622857 0.657143 0.685714 0.708571 0.720000 0.737143 0.754286 0.771429 0.788571 0.805714 0.822857 0.834286 0.851429 0.857143 0.874286 0.885714 0.891429 0.902857 0.914286 0.925714 0.937143 0.942857 0.954286 0.960000 0.965714 0.971429 0.977143 0.982857 0.988571 0.994286 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000</ControlSignalMapper>
+                        </Mappers>
+                        <Properties BackgroundImagePath="$Falcon Preset Tour.ufs/Resources/Images/ffs_bkg_1-4_hybrid.png" description="Preset credits: MoozE"/>
+                        <ControlSignalSources>
+                            <ConstantModulation Name="Macro 1" DisplayName="Comb Flutes Layer" Bypass="0" Bipolar="0" Style="1" Value="1">
+                                <Properties customPosition="1" x="315" y="353"/>
+                            </ConstantModulation>
+                            <ConstantModulation Name="Macro 2" DisplayName="Bass Layer" Bypass="0" Bipolar="0" Style="1" Value="1">
+                                <Properties customPosition="1" x="125" y="353"/>
+                            </ConstantModulation>
+                            <ConstantModulation Name="Macro 3" DisplayName="Sequence" Bypass="0" Bipolar="0" Style="1" Value="1">
+                                <Properties customPosition="1" x="505" y="353"/>
+                            </ConstantModulation>
+                        </ControlSignalSources>
+                        <Auxs>
+                            <AuxEffect Name="Aux0" Bypass="0" Gain="1" Pan="0" PreInsert="1" DisplayName="Aux 1"/>
+                            <AuxEffect Name="Aux1" Bypass="0" Gain="1" Pan="0" PreInsert="1" DisplayName="Aux 2"/>
+                            <AuxEffect Name="Aux2" Bypass="0" Gain="1" Pan="0" PreInsert="1" DisplayName="Aux 3"/>
+                            <AuxEffect Name="Aux3" Bypass="0" Gain="1" Pan="0" PreInsert="1" DisplayName="Aux 4"/>
+                        </Auxs>
+                        <Layers>
+                            <Layer Name="Layer 0" Bypass="0" BypassInsertFX="0" Gain="0.2164987" Pan="0" Mute="0" MidiMute="0" Solo="0" DisplayName="Layer 1" OutputName="" LowKey="0" HighKey="127" CustomPolyphony="6" PlayMode="0" PortamentoTime="0.029999999" PortamentoCurve="0" PortamentoMode="0" NumVoicesPerNote="1" VelocityCurve="0">
+                                <Properties Color="ff02b0ff"/>
+                                <ControlSignalSources/>
+                                <EventProcessors>
+                                    <Arpeggiator Name="EventProcessor0" Bypass="0" Mode="26" TriggerMode="1" OctaveMode="1" Octave="0" NumStrike="1" RepeatBottomNote="0" RepeatTopNote="0" Resolution="25" StepLength="0.99559999" ArpVelocityBlend="0.5" GrooveAmount="0" Hold="0" NumSteps="16" Step0State="1" Step1State="1" Step2State="1" Step3State="1" Step4State="1" Step5State="1" Step6State="1" Step7State="1" Step8State="1" Step9State="1" Step10State="1" Step11State="1" Step12State="1" Step13State="1" Step14State="1" Step15State="1" Step16State="1" Step17State="1" Step18State="1" Step19State="1" Step20State="1" Step21State="1" Step22State="1" Step23State="1" Step24State="1" Step25State="1" Step26State="1" Step27State="1" Step28State="1" Step29State="1" Step30State="1" Step31State="1" Step32State="1" Step33State="1" Step34State="1" Step35State="1" Step36State="1" Step37State="1" Step38State="1" Step39State="1" Step40State="1" Step41State="1" Step42State="1" Step43State="1" Step44State="1" Step45State="1" Step46State="1" Step47State="1" Step48State="1" Step49State="1" Step50State="1" Step51State="1" Step52State="1" Step53State="1" Step54State="1" Step55State="1" Step56State="1" Step57State="1" Step58State="1" Step59State="1" Step60State="1" Step61State="1" Step62State="1" Step63State="1" Step64State="1" Step65State="1" Step66State="1" Step67State="1" Step68State="1" Step69State="1" Step70State="1" Step71State="1" Step72State="1" Step73State="1" Step74State="1" Step75State="1" Step76State="1" Step77State="1" Step78State="1" Step79State="1" Step80State="1" Step81State="1" Step82State="1" Step83State="1" Step84State="1" Step85State="1" Step86State="1" Step87State="1" Step88State="1" Step89State="1" Step90State="1" Step91State="1" Step92State="1" Step93State="1" Step94State="1" Step95State="1" Step96State="1" Step97State="1" Step98State="1" Step99State="1" Step100State="1" Step101State="1" Step102State="1" Step103State="1" Step104State="1" Step105State="1" Step106State="1" Step107State="1" Step108State="1" Step109State="1" Step110State="1" Step111State="1" Step112State="1" Step113State="1" Step114State="1" Step115State="1" Step116State="1" Step117State="1" Step118State="1" Step119State="1" Step120State="1" Step121State="1" Step122State="1" Step123State="1" Step124State="1" Step125State="1" Step126State="1" Step127State="1" Step0Size="1" Step1Size="1" Step2Size="1" Step3Size="1" Step4Size="1" Step5Size="1" Step6Size="1" Step7Size="1" Step8Size="1" Step9Size="1" Step10Size="1" Step11Size="1" Step12Size="1" Step13Size="1" Step14Size="1" Step15Size="1" Step16Size="1" Step17Size="1" Step18Size="1" Step19Size="1" Step20Size="1" Step21Size="1" Step22Size="1" Step23Size="1" Step24Size="1" Step25Size="1" Step26Size="1" Step27Size="1" Step28Size="1" Step29Size="1" Step30Size="1" Step31Size="1" Step32Size="1" Step33Size="1" Step34Size="1" Step35Size="1" Step36Size="1" Step37Size="1" Step38Size="1" Step39Size="1" Step40Size="1" Step41Size="1" Step42Size="1" Step43Size="1" Step44Size="1" Step45Size="1" Step46Size="1" Step47Size="1" Step48Size="1" Step49Size="1" Step50Size="1" Step51Size="1" Step52Size="1" Step53Size="1" Step54Size="1" Step55Size="1" Step56Size="1" Step57Size="1" Step58Size="1" Step59Size="1" Step60Size="1" Step61Size="1" Step62Size="1" Step63Size="1" Step64Size="1" Step65Size="1" Step66Size="1" Step67Size="1" Step68Size="1" Step69Size="1" Step70Size="1" Step71Size="1" Step72Size="1" Step73Size="1" Step74Size="1" Step75Size="1" Step76Size="1" Step77Size="1" Step78Size="1" Step79Size="1" Step80Size="1" Step81Size="1" Step82Size="1" Step83Size="1" Step84Size="1" Step85Size="1" Step86Size="1" Step87Size="1" Step88Size="1" Step89Size="1" Step90Size="1" Step91Size="1" Step92Size="1" Step93Size="1" Step94Size="1" Step95Size="1" Step96Size="1" Step97Size="1" Step98Size="1" Step99Size="1" Step100Size="1" Step101Size="1" Step102Size="1" Step103Size="1" Step104Size="1" Step105Size="1" Step106Size="1" Step107Size="1" Step108Size="1" Step109Size="1" Step110Size="1" Step111Size="1" Step112Size="1" Step113Size="1" Step114Size="1" Step115Size="1" Step116Size="1" Step117Size="1" Step118Size="1" Step119Size="1" Step120Size="1" Step121Size="1" Step122Size="1" Step123Size="1" Step124Size="1" Step125Size="1" Step126Size="1" Step127Size="1" Step0Level="1" Step1Level="1" Step2Level="1" Step3Level="1" Step4Level="1" Step5Level="1" Step6Level="1" Step7Level="1" Step8Level="1" Step9Level="1" Step10Level="1" Step11Level="1" Step12Level="1" Step13Level="1" Step14Level="1" Step15Level="1" Step16Level="1" Step17Level="1" Step18Level="1" Step19Level="1" Step20Level="1" Step21Level="1" Step22Level="1" Step23Level="1" Step24Level="1" Step25Level="1" Step26Level="1" Step27Level="1" Step28Level="1" Step29Level="1" Step30Level="1" Step31Level="1" Step32Level="1" Step33Level="1" Step34Level="1" Step35Level="1" Step36Level="1" Step37Level="1" Step38Level="1" Step39Level="1" Step40Level="1" Step41Level="1" Step42Level="1" Step43Level="1" Step44Level="1" Step45Level="1" Step46Level="1" Step47Level="1" Step48Level="1" Step49Level="1" Step50Level="1" Step51Level="1" Step52Level="1" Step53Level="1" Step54Level="1" Step55Level="1" Step56Level="1" Step57Level="1" Step58Level="1" Step59Level="1" Step60Level="1" Step61Level="1" Step62Level="1" Step63Level="1" Step64Level="1" Step65Level="1" Step66Level="1" Step67Level="1" Step68Level="1" Step69Level="1" Step70Level="1" Step71Level="1" Step72Level="1" Step73Level="1" Step74Level="1" Step75Level="1" Step76Level="1" Step77Level="1" Step78Level="1" Step79Level="1" Step80Level="1" Step81Level="1" Step82Level="1" Step83Level="1" Step84Level="1" Step85Level="1" Step86Level="1" Step87Level="1" Step88Level="1" Step89Level="1" Step90Level="1" Step91Level="1" Step92Level="1" Step93Level="1" Step94Level="1" Step95Level="1" Step96Level="1" Step97Level="1" Step98Level="1" Step99Level="1" Step100Level="1" Step101Level="1" Step102Level="1" Step103Level="1" Step104Level="1" Step105Level="1" Step106Level="1" Step107Level="1" Step108Level="1" Step109Level="1" Step110Level="1" Step111Level="1" Step112Level="1" Step113Level="1" Step114Level="1" Step115Level="1" Step116Level="1" Step117Level="1" Step118Level="1" Step119Level="1" Step120Level="1" Step121Level="1" Step122Level="1" Step123Level="1" Step124Level="1" Step125Level="1" Step126Level="1" Step127Level="1" Step0Offset="0" Step1Offset="0" Step2Offset="0" Step3Offset="0" Step4Offset="0" Step5Offset="0" Step6Offset="0" Step7Offset="0" Step8Offset="0" Step9Offset="0" Step10Offset="0" Step11Offset="0" Step12Offset="0" Step13Offset="0" Step14Offset="0" Step15Offset="0" Step16Offset="0" Step17Offset="0" Step18Offset="0" Step19Offset="0" Step20Offset="0" Step21Offset="0" Step22Offset="0" Step23Offset="0" Step24Offset="0" Step25Offset="0" Step26Offset="0" Step27Offset="0" Step28Offset="0" Step29Offset="0" Step30Offset="0" Step31Offset="0" Step32Offset="0" Step33Offset="0" Step34Offset="0" Step35Offset="0" Step36Offset="0" Step37Offset="0" Step38Offset="0" Step39Offset="0" Step40Offset="0" Step41Offset="0" Step42Offset="0" Step43Offset="0" Step44Offset="0" Step45Offset="0" Step46Offset="0" Step47Offset="0" Step48Offset="0" Step49Offset="0" Step50Offset="0" Step51Offset="0" Step52Offset="0" Step53Offset="0" Step54Offset="0" Step55Offset="0" Step56Offset="0" Step57Offset="0" Step58Offset="0" Step59Offset="0" Step60Offset="0" Step61Offset="0" Step62Offset="0" Step63Offset="0" Step64Offset="0" Step65Offset="0" Step66Offset="0" Step67Offset="0" Step68Offset="0" Step69Offset="0" Step70Offset="0" Step71Offset="0" Step72Offset="0" Step73Offset="0" Step74Offset="0" Step75Offset="0" Step76Offset="0" Step77Offset="0" Step78Offset="0" Step79Offset="0" Step80Offset="0" Step81Offset="0" Step82Offset="0" Step83Offset="0" Step84Offset="0" Step85Offset="0" Step86Offset="0" Step87Offset="0" Step88Offset="0" Step89Offset="0" Step90Offset="0" Step91Offset="0" Step92Offset="0" Step93Offset="0" Step94Offset="0" Step95Offset="0" Step96Offset="0" Step97Offset="0" Step98Offset="0" Step99Offset="0" Step100Offset="0" Step101Offset="0" Step102Offset="0" Step103Offset="0" Step104Offset="0" Step105Offset="0" Step106Offset="0" Step107Offset="0" Step108Offset="0" Step109Offset="0" Step110Offset="0" Step111Offset="0" Step112Offset="0" Step113Offset="0" Step114Offset="0" Step115Offset="0" Step116Offset="0" Step117Offset="0" Step118Offset="0" Step119Offset="0" Step120Offset="0" Step121Offset="0" Step122Offset="0" Step123Offset="0" Step124Offset="0" Step125Offset="0" Step126Offset="0" Step127Offset="0" Step0CC="0" Step1CC="0" Step2CC="0" Step3CC="0" Step4CC="0" Step5CC="0" Step6CC="0" Step7CC="0" Step8CC="0" Step9CC="0" Step10CC="0" Step11CC="0" Step12CC="0" Step13CC="0" Step14CC="0" Step15CC="0" Step16CC="0" Step17CC="0" Step18CC="0" Step19CC="0" Step20CC="0" Step21CC="0" Step22CC="0" Step23CC="0" Step24CC="0" Step25CC="0" Step26CC="0" Step27CC="0" Step28CC="0" Step29CC="0" Step30CC="0" Step31CC="0" Step32CC="0" Step33CC="0" Step34CC="0" Step35CC="0" Step36CC="0" Step37CC="0" Step38CC="0" Step39CC="0" Step40CC="0" Step41CC="0" Step42CC="0" Step43CC="0" Step44CC="0" Step45CC="0" Step46CC="0" Step47CC="0" Step48CC="0" Step49CC="0" Step50CC="0" Step51CC="0" Step52CC="0" Step53CC="0" Step54CC="0" Step55CC="0" Step56CC="0" Step57CC="0" Step58CC="0" Step59CC="0" Step60CC="0" Step61CC="0" Step62CC="0" Step63CC="0" Step64CC="0" Step65CC="0" Step66CC="0" Step67CC="0" Step68CC="0" Step69CC="0" Step70CC="0" Step71CC="0" Step72CC="0" Step73CC="0" Step74CC="0" Step75CC="0" Step76CC="0" Step77CC="0" Step78CC="0" Step79CC="0" Step80CC="0" Step81CC="0" Step82CC="0" Step83CC="0" Step84CC="0" Step85CC="0" Step86CC="0" Step87CC="0" Step88CC="0" Step89CC="0" Step90CC="0" Step91CC="0" Step92CC="0" Step93CC="0" Step94CC="0" Step95CC="0" Step96CC="0" Step97CC="0" Step98CC="0" Step99CC="0" Step100CC="0" Step101CC="0" Step102CC="0" Step103CC="0" Step104CC="0" Step105CC="0" Step106CC="0" Step107CC="0" Step108CC="0" Step109CC="0" Step110CC="0" Step111CC="0" Step112CC="0" Step113CC="0" Step114CC="0" Step115CC="0" Step116CC="0" Step117CC="0" Step118CC="0" Step119CC="0" Step120CC="0" Step121CC="0" Step122CC="0" Step123CC="0" Step124CC="0" Step125CC="0" Step126CC="0" Step127CC="0" StepCCId="-1" ArpeggiatorVersion="2"/>
+                                </EventProcessors>
+                                <Inserts>
+                                    <ParametricEQ Name="InsertFX4" Bypass="0" Freq1="70.280785" Q1="0.69999999" Gain1="0" Enable1="1" Freq2="10" Q2="12" Gain2="-30" Enable2="1" Freq3="307.90845" Q3="0.98319995" Gain3="-3.332674" Enable3="1" Freq4="523.69977" Q4="1.3136001" Gain4="-2.9999981" Enable4="1" Freq5="1870" Q5="0.69999999" Gain5="0" Enable5="0" Freq6="4834.9795" Q6="1.6912001" Gain6="1.9073486e-06" Enable6="0" Freq7="10029.353" Q7="12" Gain7="0" Enable7="0" Freq8="10453.516" Q8="0.69999999" Gain8="0" Enable8="1"/>
+                                    <BrickwallFilter Name="InsertFX5" Bypass="0" Type="1" Slope="2" SoftBypass="0" Freq="104.96149"/>
+                                    <SVF Name="InsertFX0" Bypass="0" Freq="9484.8408" Q="0" KeyTracking="0" FilterMode="0" DriveMode="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="-0.37931034" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="0.65517241" Source="@MIDI CC 1" Destination="Q" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                        </Connections>
+                                    </SVF>
+                                    <Maximizer Name="InsertFX3" Bypass="0" Threshold="-4" Attack="0" Lookahead="8" Release="10" Ceiling="-0.1" Knee="0" ReleaseBlend="0.1" SlewRate="20"/>
+                                    <SparkVerb Name="InsertFX6" Bypass="0" ModDepth="4.4226332" ModRate="1" Diffusion="0.61799997" DiffusionStart="5" Width="1" RoomSize="29.782642" DecayTime="3.301347" DecayLow="0.5" DecayHigh="0.30000001" FreqLow="126.45618" FreqHigh="10260.801" Shape="0" Mix="0.5" Quality="4" Mode="1" HiCut="0" LowCut="1" Rolloff="10890.053" DiffusionOnOff="0" PreDelay="0" MixMode="0" SparkVerbVersion="1">
+                                        <Properties PresetPath=""/>
+                                    </SparkVerb>
+                                    <Maximizer Name="InsertFX1" Bypass="0" Threshold="-8" Attack="0" Lookahead="2" Release="6.4268765" Ceiling="-0.1" Knee="0" ReleaseBlend="0.1" SlewRate="20"/>
+                                </Inserts>
+                                <BusRouters>
+                                    <BusRouter Name="AuxSend0" Bypass="0" Gain="0" Destination="../../Aux0" PreFader="0" BusRouterVersion="1"/>
+                                    <BusRouter Name="AuxSend1" Bypass="0" Gain="0" Destination="../../Aux1" PreFader="0" BusRouterVersion="1"/>
+                                    <BusRouter Name="AuxSend2" Bypass="0" Gain="0" Destination="../../Aux2" PreFader="0" BusRouterVersion="1"/>
+                                    <BusRouter Name="AuxSend3" Bypass="0" Gain="0" Destination="../../Aux3" PreFader="0" BusRouterVersion="1"/>
+                                </BusRouters>
+                                <Keygroups>
+                                    <Keygroup Name="Keygroup 0" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" DisplayName="209_FluteArp1.wav" OutputName="" ExclusiveGroup="0" LowKey="0" HighKey="127" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                                        <Connections>
+                                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Amp. Env" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="0.86206895" Source="@Random" Destination="Pan" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                        </Connections>
+                                        <ControlSignalSources>
+                                            <DAHDSR Name="Amp. Env" DisplayName="Amp. Env" Bypass="0" DelayTime="0" AttackTime="0.16406941" AttackCurve="-0.56244898" HoldTime="0" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.66237515" ReleaseCurve="-0.44464865" VelocityAmount="0" VelocitySens="0" Retrigger="1" NoteOffRetrigger="0"/>
+                                            <LFO Name="LFO 1" DisplayName="LFO 1" Bypass="0" SyncToHost="1" DelayTime="0" RiseTime="0" Freq="0.25" Depth="0.51200002" Phase="0" WaveFormType="6" Retrigger="3" Bipolar="0" Smooth="0.0065399655"/>
+                                        </ControlSignalSources>
+                                        <Inserts>
+                                            <Drive Name="InsertFX0" Bypass="0" DriveAmount="0.31200001" Mode="1" Oversampling="2"/>
+                                            <ParametricEQ Name="InsertFX1" Bypass="0" Freq1="30" Q1="0.69999999" Gain1="0" Enable1="0" Freq2="25.787209" Q2="12" Gain2="-3.3267326" Enable2="1" Freq3="117.60203" Q3="1.5024002" Gain3="-7.3999996" Enable3="1" Freq4="169.55684" Q4="0.79440004" Gain4="-5.2673264" Enable4="1" Freq5="743.93866" Q5="0.93599999" Gain5="-9.3306942" Enable5="1" Freq6="1641.4812" Q6="1.1720001" Gain6="-4.7445545" Enable6="1" Freq7="20000" Q7="12" Gain7="-30" Enable7="1" Freq8="8196.5176" Q8="0.69999999" Gain8="0" Enable8="1"/>
+                                            <CombFilter Name="InsertFX2" Bypass="0" Mode="0" Freq="182.24271" Q="0.80000007" KeyTracking="0">
+                                                <Connections>
+                                                    <SignalConnection Name="SignalConnection 0" Ratio="0.5" Source="@VoiceParam LinearKeyFollow" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                                    <SignalConnection Name="SignalConnection 1" Ratio="0.0099999998" Source="@Random" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                                    <SignalConnection Name="SignalConnection 2" Ratio="0.13793103" Source="$Keygroup/LFO 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                                </Connections>
+                                            </CombFilter>
+                                            <ParametricEQ Name="InsertFX4" Bypass="0" Freq1="30" Q1="0.69999999" Gain1="0" Enable1="0" Freq2="70" Q2="12" Gain2="0" Enable2="0" Freq3="180" Q3="0.69999999" Gain3="0" Enable3="0" Freq4="520" Q4="0.69999999" Gain4="0" Enable4="0" Freq5="2555.4219" Q5="2.2576001" Gain5="-0.19999886" Enable5="1" Freq6="4824.9575" Q6="2.9184" Gain6="-0.19999886" Enable6="1" Freq7="7400" Q7="12" Gain7="0" Enable7="0" Freq8="16000" Q8="0.69999999" Gain8="0" Enable8="0">
+                                                <Connections>
+                                                    <SignalConnection Name="SignalConnection 0" Ratio="-0.51724136" Source="@VoiceParam LinearKeyFollow" Destination="Gain5" Mapper="Mapper 1" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                                    <SignalConnection Name="SignalConnection 0" Ratio="-0.51724136" Source="@VoiceParam LinearKeyFollow" Destination="Gain6" Mapper="Mapper 0" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                                </Connections>
+                                            </ParametricEQ>
+                                            <WaveShaper Name="InsertFX3" Bypass="0" InputGain="0" OutputGain="-4" Amount="0.41999999" Knee="3.3599997" Mix="1" PreFreq="20000" PostFreq="20" Oversampling="0" Mode="8"/>
+                                        </Inserts>
+                                        <BusRouters>
+                                            <BusRouter Name="AuxSend0" Bypass="0" Gain="0" Destination="../../../Aux0" PreFader="0" BusRouterVersion="1"/>
+                                            <BusRouter Name="AuxSend1" Bypass="0" Gain="0" Destination="../../../Aux1" PreFader="0" BusRouterVersion="1"/>
+                                            <BusRouter Name="AuxSend2" Bypass="0" Gain="0" Destination="../../../Aux2" PreFader="0" BusRouterVersion="1"/>
+                                            <BusRouter Name="AuxSend3" Bypass="0" Gain="0" Destination="../../../Aux3" PreFader="0" BusRouterVersion="1"/>
+                                        </BusRouters>
+                                        <Oscillators>
+                                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="58" DisplayName="Oscillator 1" SamplePath="$Falcon Preset Tour.ufs/Resources/Samples/209_FluteArp1.wav" SampleStart="0" InterpolationMode="2" AllowStreaming="1" Reverse="0" SamplePurged="0">
+                                                <Connections>
+                                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 1" Destination="Bypass" Mapper="" ConnectionMode="1" Bypass="0" Inverted="1" Offset="0" SignalConnectionVersion="1"/>
+                                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                                    <SignalConnection Name="SignalConnection 0" Ratio="0.89655173" Source="@UnipolarRandom" Destination="SampleStart" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                                </Connections>
+                                                <PlaybackOptions Start="0" Stop="121655" PlayDirection="0" PlayRelease="1">
+                                                    <Loop Start="506" End="121148" Type="1"/>
+                                                </PlaybackOptions>
+                                            </SamplePlayer>
+                                        </Oscillators>
+                                    </Keygroup>
+                                </Keygroups>
+                            </Layer>
+                            <Layer Name="Layer 1" Bypass="0" BypassInsertFX="0" Gain="0.79432821" Pan="0" Mute="0" MidiMute="0" Solo="0" DisplayName="Layer 2" OutputName="" LowKey="0" HighKey="127" CustomPolyphony="12" PlayMode="0" PortamentoTime="0.029999999" PortamentoCurve="0" PortamentoMode="0" NumVoicesPerNote="4" VelocityCurve="0">
+                                <Properties Color="ffa398e8"/>
+                                <ControlSignalSources/>
+                                <EventProcessors>
+                                    <ScriptProcessor Name="EventProcessor0" Bypass="0" NumSteps="16" Resolution="4" Gate="1" Groove="0" pitchOffset1="0" link1="0" pitchOffset2="0" link2="1" pitchOffset3="0" link3="1" pitchOffset4="0" link4="1" pitchOffset5="3" link5="0" pitchOffset6="0" link6="1" pitchOffset7="5" link7="0" pitchOffset8="0" link8="1" pitchOffset9="0" link9="0" pitchOffset10="0" link10="1" pitchOffset11="0" link11="1" pitchOffset12="0" link12="1" pitchOffset13="3" link13="0" pitchOffset14="0" link14="1" pitchOffset15="-2" link15="0" pitchOffset16="0" link16="1" Record="0" API_version="16">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 3" Destination="Bypass" Mapper="" ConnectionMode="1" Bypass="0" Inverted="1" Offset="0" SignalConnectionVersion="1"/>
+                                        </Connections>
+                                        <Properties OriginalProgramPath="$Falcon Preset Tour.ufs/Presets/Dark Knight 1.4.uvip" PresetPath="$Resource/resource/FactoryPresets/EventProcessor/Script Processor/Sequencing/Step Line.lua" ScriptPath="$Resource/resource/FactoryPresets/EventProcessor/Script Processor/Sequencing/Step Line.lua"/>
+                                        <script><![CDATA[local numCC = 2
+
+-- numSteps
+local PhraserNumSteps = Knob{"NumSteps", 16, 1, 16, true, tooltip = "Phraser num steps", displayName = "Num Steps"}
+PhraserNumSteps.changed = function(self)
+	clearPosition()
+end
+	
+-- resolution
+local PhraserResolutions = {2., 1.5, 4./3., 1., 0.75, 2./3., 0.5, 0.375, 1./3., 0.25, 0.1875, 0.5/3., 0.125}
+local resolutionNames = {"1/2", "1/4d", "1/2t", "1/4", "1/8d", "1/4t", "1/8", "1/16d", "1/8t", "1/16", "1/32d", "1/16t", "1/32"}
+
+local PhraserResolution = Menu{"Resolution", resolutionNames, selected=10, tooltip = "Phraser resolution"}
+
+-- gate
+local PhraserGate = Knob{"Gate", 1, 0.001, 1, tooltip = "Phraser gate"}
+
+-- groove
+local PhraserGroove = Knob{"Groove", 0, 0, 0.5, tooltip = "Phraser groove"}
+		
+-- sequence
+positions = {}
+linked = {}
+pitchOffsets = {}
+ccTables = {}
+
+
+-- Step Panel
+local stepPanel = Panel()
+
+-- Pitch table
+local pitchTable = stepPanel:Table{"pitchTable", 16, 0, -48, 48, true, bounds={5, 30, 600, 130}}
+
+stepPanel.width = 610
+stepPanel.height = 210
+stepPanel.x = (720 - stepPanel.width) / 2
+stepPanel.y = stepPanel.y + 10
+local PhraserSteps = stepPanel:Table{"PhraserSteps", 16, 127, 0, 127, true, bounds={5, 30, 600, 130}}
+local stepWidth = PhraserSteps.width / 16
+for i=1, 16 do
+	local posWidth = 20
+	local pos = stepPanel:OnOffButton{"pos"..i, false, bounds={(i-1)*stepWidth + (stepWidth-posWidth)/2 + 5, 5, posWidth, 20}, tooltip = "", displayName = " ", persistent = false, enabled = false}
+	positions[i] = pos
+	
+	local pitchWidth = 30
+	local pitchOffset = stepPanel:NumBox{"pitchOffset"..i, 0, -48, 48, true, bounds={(i-1)*stepWidth+ (stepWidth-pitchWidth)/2 + 5, PhraserSteps.y + PhraserSteps.height + 5, pitchWidth, 15}, showLabel = false, tooltip = "Pitch offset"}
+	pitchOffset.changed = function(self)
+		pitchTable:setValue(i, self.value, false)
+	end
+	
+	pitchOffsets[i] = pitchOffset
+	
+	local linkWidth = 30
+	local link = stepPanel:OnOffButton{"link"..i, false, bounds={(i-1)*stepWidth+ (stepWidth-linkWidth)/2 + 5, PhraserSteps.y + PhraserSteps.height + 25, linkWidth, 20}, tooltip = "linked", displayName = "link"}
+		
+	linked[i] = link
+end
+
+pitchTable.changed = function(self, index)
+	pitchOffsets[index]:setValue(pitchTable:getValue(index), false)
+end
+
+-- CC table
+for i=1, numCC do
+	local ccTable = stepPanel:Table{"ccTable" .. i, 16, 0, 0, 127, true, bounds={5, 30, 600, 130}}
+	ccTables[i] = ccTable
+end
+
+local recordOrigin = nil
+
+-- record
+PhraserRecord = OnOffButton{"Record", false, tooltip = "Phraser record"}
+PhraserRecord.changed = function(self)
+	if self.value then
+		recordOrigin = nil
+		lastRecordedIndex = 1
+	else
+		for i = lastRecordedIndex, 16 do
+			pitchOffsets[i].value = 0
+			PhraserSteps:setValue(i, 0)
+		end
+		for i = 1, 16 do
+			linked[i].value = false
+		end
+	end
+end
+		
+-- skip
+local PhraserSkip = Button{"Skip", false, tooltip = "Phraser skip next step"}
+PhraserSkip.changed = function(self)
+	if PhraserRecord.value then
+		pitchOffsets[lastRecordedIndex].value = 0
+		PhraserSteps:setValue(lastRecordedIndex, 0)
+		lastRecordedIndex = lastRecordedIndex + 1
+		if lastRecordedIndex == 17 then
+			PhraserRecord:setValue(false, true)
+		end
+	end
+end
+
+function randomizePattern()
+	PhraserNumSteps.value = math.floor(math.random(1, 16) + .5)
+	for i = 1, PhraserNumSteps.value do
+		pitchOffsets[i].value = math.floor(math.random(-12, 12) + .5)
+		PhraserSteps:setValue(i, math.floor(math.random(0, 127) + .5))
+		linked[i].value = false
+	end
+	for i = PhraserNumSteps.value+1, 16 do
+		pitchOffsets[i].value = 0
+		PhraserSteps:setValue(i, 0)
+		linked[i].value = false
+	end
+end
+
+-- Random
+local PhraserRandom = Button{"Random", false, tooltip = "Phraser random steps"}
+PhraserRandom.changed = function(self)
+	randomizePattern()
+end
+
+-- seq selection button
+local PhraserSeqDisplayItems = {"Vel", "Ptch", "CC1", "CC2"}
+local PhraserSeqDisplay = Menu{"SeqDisplay", PhraserSeqDisplayItems, showLabel = false, persistent = false, bounds = {5, stepPanel.y + stepPanel.height/2-10, 45, 20}} 
+PhraserSeqDisplay.changed = function(self)
+	if self.value == 1 then
+		PhraserSteps.visible = true
+		pitchTable.visible = false
+		for i=1, numCC do
+			ccTables[i].visible = false
+		end
+	elseif self.value == 2 then
+		PhraserSteps.visible = false
+		pitchTable.visible = true
+		for i=1, numCC do
+			ccTables[i].visible = false
+		end
+	else
+		PhraserSteps.visible = false
+		pitchTable.visible = false
+		for i=1, numCC do
+			if i == self.value-2 then
+				ccTables[i].visible = true
+			else
+				ccTables[i].visible = false
+			end
+		end
+	end
+end
+PhraserSeqDisplay:changed()
+
+function clearPosition()
+	for i = 1, 16 do
+		positions[i].value = false
+	end
+end
+
+local arpId = 0
+local heldNotes = {}
+
+function grooveDelay(beatPos, grooveAmount)
+	local semi = beatPos*4 -- convert to 16th pos
+	local x  = math.fmod(semi, 2.0)
+	if x<1 then
+		return 0.25 * grooveAmount * x
+	else
+		return 0.25 * grooveAmount * (2-x)
+	end
+end
+
+function arpeg(arpId_)
+	local index = 0
+	local theoricalPosInBeat = 0 -- non grooved beat pos
+	local beatTime = 0
+	while arpId_ == arpId do
+		local e = heldNotes[#heldNotes] 
+		local p = PhraserResolutions[PhraserResolution.value]
+		local numSteps = PhraserNumSteps.value
+		local stepSize = 1
+		for i=1, 16 do -- check for linked
+			local pos = (index + i) % numSteps
+			if linked[pos+1].value == true then
+				stepSize = stepSize + 1
+			else
+				break
+			end
+		end
+						
+		local e_ = {}
+		e_.note = e.note + pitchOffsets[index+1].value
+		e_.velocity = PhraserSteps:getValue(index+1)
+		
+		local nextTheoricalPosInBeat = theoricalPosInBeat + p
+		local beatDelay = grooveDelay(nextTheoricalPosInBeat, PhraserGroove.value)		
+		
+		if linked[index+1].value == false then
+			for i=1, numCC do
+				controlChange(i, ccTables[i]:getValue(index+1))
+			end
+		end
+		
+		if e_.velocity ~= 0 and linked[index+1].value == false then
+			PlayNote(e_, beat2ms(PhraserGate.value*p*stepSize+beatDelay))
+		end
+		
+		positions[(index - 1 + numSteps) % numSteps + 1].value = false
+		positions[(index % numSteps)+1].value = true
+		
+		index = (index+1) % numSteps
+		local timeToWait = nextTheoricalPosInBeat + beatDelay - beatTime 
+		waitBeat(timeToWait)
+		theoricalPosInBeat = nextTheoricalPosInBeat
+		beatTime = beatTime + timeToWait
+	end
+end
+
+function onNote(e)   
+	table.insert(heldNotes, e)
+	if PhraserRecord.value == true then
+		if recordOrigin == nil then
+			recordOrigin = e.note
+		end
+		pitchOffsets[lastRecordedIndex].value = e.note - recordOrigin
+		PhraserSteps:setValue(lastRecordedIndex, e.velocity)
+		PhraserNumSteps:setValue(lastRecordedIndex, true)
+		lastRecordedIndex = lastRecordedIndex + 1
+		if lastRecordedIndex == 17 then
+			PhraserRecord:setValue(false, true)
+		end
+		PlayNote(e, -1)
+	else
+		if #heldNotes == 1 then
+			arpeg(arpId)
+		end
+	end
+end
+
+function PlayNote(e, duration)
+	playNote(e.note, e.velocity, duration)
+end
+
+function onRelease(e)
+  for i,v in ipairs(heldNotes) do
+    if v.note == e.note then
+      table.remove(heldNotes, i)
+      if #heldNotes == 0 then 
+      	clearPosition()
+		arpId = arpId + 1
+      end
+      break
+    end
+  end
+end
+
+setSize(720, 300)]]></script>
+                                        <ScriptData pitchTable="0 0 0 0 3 0 5 0 0 0 0 0 3 0 -2 0" PhraserSteps="127 127 127 127 127 127 127 127 127 127 127 127 127 127 127 127" ccTable1="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" ccTable2="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+                                    </ScriptProcessor>
+                                </EventProcessors>
+                                <Inserts>
+                                    <WhiteChorus Name="InsertFX0" Bypass="0" Speed="0.54954088" Depth="40" Edge="0.72000003" Tone="6390.5942" Crossover="330.50922" LowGain="0" Mix="0.324" Trim="0" NumVoices="2" Mode="1"/>
+                                    <Maximizer Name="InsertFX1" Bypass="0" Threshold="0" Attack="0" Lookahead="4" Release="46.989403" Ceiling="-0.1" Knee="0" ReleaseBlend="0.1" SlewRate="20"/>
+                                    <SparkVerb Name="InsertFX2" Bypass="0" ModDepth="4" ModRate="1" Diffusion="0.61799997" DiffusionStart="5" Width="1" RoomSize="20" DecayTime="1" DecayLow="1" DecayHigh="1" FreqLow="111.15782" FreqHigh="12000" Shape="0" Mix="0.5" Quality="3" Mode="1" HiCut="0" LowCut="1" Rolloff="10304.573" DiffusionOnOff="0" PreDelay="0" MixMode="1" SparkVerbVersion="1"/>
+                                </Inserts>
+                                <BusRouters>
+                                    <BusRouter Name="AuxSend0" Bypass="0" Gain="0" Destination="../../Aux0" PreFader="0" BusRouterVersion="1"/>
+                                    <BusRouter Name="AuxSend1" Bypass="0" Gain="0" Destination="../../Aux1" PreFader="0" BusRouterVersion="1"/>
+                                    <BusRouter Name="AuxSend2" Bypass="0" Gain="0" Destination="../../Aux2" PreFader="0" BusRouterVersion="1"/>
+                                    <BusRouter Name="AuxSend3" Bypass="0" Gain="0" Destination="../../Aux3" PreFader="0" BusRouterVersion="1"/>
+                                </BusRouters>
+                                <Keygroups>
+                                    <Keygroup Name="Keygroup 0" Bypass="0" BypassInsertFX="0" Gain="0.41042405" Pan="0" DisplayName="Keygroup 1" OutputName="" ExclusiveGroup="0" LowKey="0" HighKey="127" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                                        <Connections>
+                                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Amp. Env" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="@Unison" Destination="Pan" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                        </Connections>
+                                        <ControlSignalSources>
+                                            <AnalogADSR Name="Amp. Env" DisplayName="Amp. Env" Bypass="0" AttackTime="0.15792136" DecayTime="0.050000001" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="0.20231104" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0"/>
+                                        </ControlSignalSources>
+                                        <Inserts>
+                                            <BrickwallFilter Name="InsertFX4" Bypass="0" Type="1" Slope="1" SoftBypass="0" Freq="31.991161"/>
+                                            <Exciter Name="InsertFX3" Bypass="0" InputGain="0" Amount="7.5" Mix="100" Mode="0" OutputGain="0" Oversampling="0"/>
+                                            <SVF Name="InsertFX1" Bypass="0" Freq="550.00006" Q="0" KeyTracking="0" FilterMode="0" DriveMode="0">
+                                                <Connections>
+                                                    <SignalConnection Name="SignalConnection 0" Ratio="0.51724136" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                                </Connections>
+                                            </SVF>
+                                            <MoogFilter Name="InsertFX2" Bypass="0" Freq="4375.5225" Q="0" KeyTracking="0">
+                                                <Connections>
+                                                    <SignalConnection Name="SignalConnection 0" Ratio="-0.51724136" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                                </Connections>
+                                            </MoogFilter>
+                                            <WaveShaper Name="InsertFX5" Bypass="0" InputGain="0" OutputGain="0" Amount="0.039999999" Knee="0" Mix="1" PreFreq="20000" PostFreq="20" Oversampling="2" Mode="0">
+                                                <Connections>
+                                                    <SignalConnection Name="SignalConnection 0" Ratio="0.13793103" Source="@MIDI CC 1" Destination="Amount" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                                </Connections>
+                                            </WaveShaper>
+                                        </Inserts>
+                                        <BusRouters>
+                                            <BusRouter Name="AuxSend0" Bypass="0" Gain="0" Destination="../../../Aux0" PreFader="0" BusRouterVersion="1"/>
+                                            <BusRouter Name="AuxSend1" Bypass="0" Gain="0" Destination="../../../Aux1" PreFader="0" BusRouterVersion="1"/>
+                                            <BusRouter Name="AuxSend2" Bypass="0" Gain="0" Destination="../../../Aux2" PreFader="0" BusRouterVersion="1"/>
+                                            <BusRouter Name="AuxSend3" Bypass="0" Gain="0" Destination="../../../Aux3" PreFader="0" BusRouterVersion="1"/>
+                                        </BusRouters>
+                                        <Oscillators>
+                                            <MinBlepGeneratorStack Name="Oscillator" Bypass="0" Waveform1="1" Pwm1="0.5" InvPhase1="0" FreeRunning1="0" StartPhase1="0" Bypass1="0" Octave1="0" CoarseTune1="0" FineTune1="-5" SyncMode1="0" Gain1="0.66666669" Pan1="0" Pitch1="0" Waveform2="1" Pwm2="0.5" InvPhase2="0" FreeRunning2="0" StartPhase2="0" Bypass2="0" Octave2="-1" CoarseTune2="0" FineTune2="3" SyncMode2="0" Gain2="0.68333334" Pan2="0" Pitch2="0" Waveform3="3" Pwm3="0.5" InvPhase3="0" FreeRunning3="0" StartPhase3="0" Bypass3="0" Octave3="-2" CoarseTune3="0" FineTune3="0" SyncMode3="0" Gain3="1" Pan3="0" Pitch3="0" Waveform4="2" Pwm4="0.5" InvPhase4="0" FreeRunning4="0" StartPhase4="0" Bypass4="0" Octave4="-2" CoarseTune4="0" FineTune4="0" SyncMode4="0" Gain4="0.16666667" Pan4="0" Pitch4="0" Waveform5="3" Pwm5="0.5" InvPhase5="0" FreeRunning5="0" StartPhase5="0" Bypass5="0" Octave5="-1" CoarseTune5="0" FineTune5="0" SyncMode5="0" Gain5="0.68333334" Pan5="0" Pitch5="0" Waveform6="1" Pwm6="0.38240001" InvPhase6="0" FreeRunning6="0" StartPhase6="0" Bypass6="0" Octave6="-1" CoarseTune6="0" FineTune6="-5" SyncMode6="0" Gain6="0.31666666" Pan6="0" Pitch6="0" Waveform7="4" Pwm7="0.5" InvPhase7="0" FreeRunning7="0" StartPhase7="0" Bypass7="1" Octave7="0" CoarseTune7="0" FineTune7="0" SyncMode7="0" Gain7="1" Pan7="0" Pitch7="0" Waveform8="4" Pwm8="0.5" InvPhase8="0" FreeRunning8="0" StartPhase8="0" Bypass8="1" Octave8="0" CoarseTune8="0" FineTune8="0" SyncMode8="0" Gain8="1" Pan8="0" Pitch8="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="-12" NoteTracking="1" BaseNote="60" DisplayName="Oscillator 1">
+                                                <Connections>
+                                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 2" Destination="Bypass" Mapper="" ConnectionMode="1" Bypass="0" Inverted="1" Offset="0" SignalConnectionVersion="1"/>
+                                                    <SignalConnection Name="SignalConnection 0" Ratio="0.14" Source="@Unison" Destination="Pitch1" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                                    <SignalConnection Name="SignalConnection 0" Ratio="0.1" Source="@Unison" Destination="Pitch2" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                                    <SignalConnection Name="SignalConnection 0" Ratio="0.10311335" Source="@Unison" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0"/>
+                                                </Connections>
+                                            </MinBlepGeneratorStack>
+                                        </Oscillators>
+                                    </Keygroup>
+                                </Keygroups>
+                            </Layer>
+                        </Layers>
+                    </Program>
+                </Part>
+                <Part Name="Part 1" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" Mute="0" MidiMute="0" Solo="0" DisplayName="Part 2" CoarseTune="0" FineTune="0" TransposeOctaves="0" TransposeSemiTones="0" OutputName="" ExclusiveGroup="0" MidiInput="0" MidiChannel="1" LowKey="0" HighKey="127" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" RestrictVelocityRange="0" RestrictKeyRange="0" Streaming="1">
+                    <Connections>
+                        <SignalConnection Name="SignalConnection 1" Ratio="1" Source="@MIDI CC 11" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        <SignalConnection Name="SignalConnection 0" Ratio="1" Source="@MIDI CC 7" Destination="Gain" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        <SignalConnection Name="SignalConnection 0" Ratio="1" Source="@MIDI CC 10" Destination="Pan" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                    </Connections>
+                    <ControlSignalSources/>
+                    <BusRouters>
+                        <BusRouter Name="AuxSend0" Bypass="0" Gain="0" Destination="../../Aux0" PreFader="0" BusRouterVersion="1"/>
+                        <BusRouter Name="AuxSend1" Bypass="0" Gain="0" Destination="../../Aux1" PreFader="0" BusRouterVersion="1"/>
+                    </BusRouters>
+                </Part>
+                <Part Name="Part 2" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" Mute="0" MidiMute="0" Solo="0" DisplayName="Part 3" CoarseTune="0" FineTune="0" TransposeOctaves="0" TransposeSemiTones="0" OutputName="" ExclusiveGroup="0" MidiInput="0" MidiChannel="2" LowKey="0" HighKey="127" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" RestrictVelocityRange="0" RestrictKeyRange="0" Streaming="1">
+                    <Connections>
+                        <SignalConnection Name="SignalConnection 1" Ratio="1" Source="@MIDI CC 11" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        <SignalConnection Name="SignalConnection 0" Ratio="1" Source="@MIDI CC 7" Destination="Gain" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        <SignalConnection Name="SignalConnection 0" Ratio="1" Source="@MIDI CC 10" Destination="Pan" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                    </Connections>
+                    <ControlSignalSources/>
+                    <BusRouters>
+                        <BusRouter Name="AuxSend0" Bypass="0" Gain="0" Destination="../../Aux0" PreFader="0" BusRouterVersion="1"/>
+                        <BusRouter Name="AuxSend1" Bypass="0" Gain="0" Destination="../../Aux1" PreFader="0" BusRouterVersion="1"/>
+                    </BusRouters>
+                </Part>
+                <Part Name="Part 3" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" Mute="0" MidiMute="0" Solo="0" DisplayName="Part 4" CoarseTune="0" FineTune="0" TransposeOctaves="0" TransposeSemiTones="0" OutputName="" ExclusiveGroup="0" MidiInput="0" MidiChannel="3" LowKey="0" HighKey="127" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" RestrictVelocityRange="0" RestrictKeyRange="0" Streaming="1">
+                    <Connections>
+                        <SignalConnection Name="SignalConnection 1" Ratio="1" Source="@MIDI CC 11" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        <SignalConnection Name="SignalConnection 0" Ratio="1" Source="@MIDI CC 7" Destination="Gain" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        <SignalConnection Name="SignalConnection 0" Ratio="1" Source="@MIDI CC 10" Destination="Pan" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                    </Connections>
+                    <ControlSignalSources/>
+                    <BusRouters>
+                        <BusRouter Name="AuxSend0" Bypass="0" Gain="0" Destination="../../Aux0" PreFader="0" BusRouterVersion="1"/>
+                        <BusRouter Name="AuxSend1" Bypass="0" Gain="0" Destination="../../Aux1" PreFader="0" BusRouterVersion="1"/>
+                    </BusRouters>
+                </Part>
+            </Children>
+        </Synth>
+    </Engine>
+    <NeededFS Source="/Library/Application Support/UVISoundBanks/Falcon Preset Tour.ufs"/>
+</UVI4>

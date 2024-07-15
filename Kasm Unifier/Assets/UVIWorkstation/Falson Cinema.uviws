@@ -1,0 +1,187 @@
+<UVI4>
+    <Engine Name="" Bypass="0" GlobalTune="440" Tempo="120" AutoPlay="1" DisplayName="Falson Cinema 1.4" MeterNumerator="4" MeterDenominator="4" SyncToHost="0">
+        <Properties MultiPath="/Volumes/KJSL/workspace/github_kevleyski/unify-batch/Kasm Unifier/Assets/UVIWorkstation/Falcon A Steet Light.uviws"/>
+        <Synth Name="uvi" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" DisplayName="Master" OutputName="">
+            <Auxs>
+                <AuxEffect Name="Aux0" Bypass="0" Gain="1" Pan="0" PreInsert="1" DisplayName="Aux 1"/>
+                <AuxEffect Name="Aux1" Bypass="0" Gain="1" Pan="0" PreInsert="1" DisplayName="Aux 2"/>
+            </Auxs>
+            <Children>
+                <Part Name="Part 0" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" Mute="0" MidiMute="0" Solo="0" DisplayName="Part 1" CoarseTune="0" FineTune="0" TransposeOctaves="0" TransposeSemiTones="0" OutputName="" ExclusiveGroup="0" MidiInput="0" MidiChannel="0" LowKey="0" HighKey="127" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" RestrictVelocityRange="0" RestrictKeyRange="0" Streaming="1">
+                    <Connections>
+                        <SignalConnection Name="SignalConnection 1" Ratio="1" Source="@MIDI CC 11" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        <SignalConnection Name="SignalConnection 0" Ratio="1" Source="@MIDI CC 7" Destination="Gain" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        <SignalConnection Name="SignalConnection 0" Ratio="1" Source="@MIDI CC 10" Destination="Pan" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                    </Connections>
+                    <ControlSignalSources/>
+                    <BusRouters>
+                        <BusRouter Name="AuxSend0" Bypass="0" Gain="0" Destination="../../Aux0" PreFader="0" BusRouterVersion="1"/>
+                        <BusRouter Name="AuxSend1" Bypass="0" Gain="0" Destination="../../Aux1" PreFader="0" BusRouterVersion="1"/>
+                    </BusRouters>
+                    <Program Name="Program" Bypass="0" BypassInsertFX="0" Gain="1.7782795" Pan="0" DisplayName="Cinema 1.4" TransposeOctaves="0" TransposeSemiTones="0" OutputName="" Polyphony="32" NotePolyphony="0" ProgramPath="$Falcon Preset Tour.ufs/Presets/Cinema 1.4.uvip" LoopProgram="0" Streaming="1">
+                        <Mappers>
+                            <ControlSignalMapper Name="Mapper 1" Min="0" Max="1" Integer="0" Discrete="0" DisplayName="Mapper 1">0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.017143 0.028571 0.040000 0.051429 0.062857 0.074286 0.080000 0.091429 0.102857 0.108571 0.120000 0.131429 0.142857 0.154286 0.165714 0.171429 0.182857 0.194286 0.205714 0.217143 0.228571 0.240000 0.245714 0.257143 0.268571 0.274286 0.285714 0.297143 0.308571 0.320000 0.331429 0.337143 0.348571 0.360000 0.371429 0.382857 0.394286 0.400000 0.411429 0.422857 0.434286 0.440000 0.451429 0.462857 0.474286 0.485714 0.497143 0.502857 0.514286 0.525714 0.537143 0.548571 0.554286 0.565714 0.577143 0.588571 0.600000 0.605714 0.617143 0.628571 0.640000 0.651429 0.662857 0.668571 0.680000 0.691429 0.702857 0.714286 0.720000 0.731429 0.742857 0.754286 0.765714 0.771429 0.782857 0.794286 0.805714 0.817143 0.828571 0.834286 0.845714 0.857143 0.868571 0.874286 0.885714 0.897143 0.908571 0.920000 0.931429 0.937143 0.948571 0.960000 0.971429 0.982857 0.994286 1.000000</ControlSignalMapper>
+                            <ControlSignalMapper Name="Mapper 0" Min="0" Max="1" Integer="0" Discrete="0" DisplayName="Mapper 0">0.000000 0.011429 0.028571 0.045714 0.062857 0.080000 0.091429 0.108571 0.125714 0.137143 0.154286 0.171429 0.188571 0.205714 0.222857 0.234286 0.251429 0.268571 0.285714 0.302857 0.320000 0.337143 0.348571 0.365714 0.382857 0.394286 0.411429 0.428571 0.445714 0.462857 0.480000 0.491429 0.508571 0.525714 0.542857 0.560000 0.577143 0.594286 0.605714 0.622857 0.640000 0.651429 0.668571 0.685714 0.702857 0.720000 0.737143 0.748571 0.765714 0.782857 0.800000 0.817143 0.834286 0.851429 0.862857 0.880000 0.897143 0.908571 0.925714 0.942857 0.960000 0.977143 0.988571 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000</ControlSignalMapper>
+                        </Mappers>
+                        <Properties BackgroundImagePath="$Falcon Preset Tour.ufs/Resources/Images/ffs_bkg_1-4_hybrid.png" description="Preset credits: MoozE"/>
+                        <ControlSignalSources>
+                            <ConstantModulation Name="Macro 1" DisplayName="Saturation" Bypass="0" Bipolar="0" Style="0" Value="0">
+                                <Properties customPosition="1" x="90" y="353"/>
+                            </ConstantModulation>
+                            <ConstantModulation Name="Macro 2" DisplayName="Thorus" Bypass="0" Bipolar="0" Style="0" Value="0">
+                                <Properties customPosition="1" x="240" y="353"/>
+                            </ConstantModulation>
+                            <ConstantModulation Name="Macro 3" DisplayName="Additional Reverb" Bypass="0" Bipolar="0" Style="0" Value="0">
+                                <Properties customPosition="1" x="390" y="353"/>
+                            </ConstantModulation>
+                            <ConstantModulation Name="Macro 4" DisplayName="Redux" Bypass="0" Bipolar="0" Style="0" Value="0">
+                                <Properties customPosition="1" x="540" y="353"/>
+                            </ConstantModulation>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Maximizer Name="InsertFX0" Bypass="0" Threshold="0" Attack="0" Lookahead="2" Release="10" Ceiling="-0.1" Knee="0" ReleaseBlend="0.1" SlewRate="20"/>
+                        </Inserts>
+                        <Auxs>
+                            <AuxEffect Name="Aux0" Bypass="0" Gain="1" Pan="0" PreInsert="1" DisplayName="Aux 1"/>
+                            <AuxEffect Name="Aux1" Bypass="0" Gain="1" Pan="0" PreInsert="1" DisplayName="Aux 2"/>
+                            <AuxEffect Name="Aux2" Bypass="0" Gain="1" Pan="0" PreInsert="1" DisplayName="Aux 3"/>
+                            <AuxEffect Name="Aux3" Bypass="0" Gain="1" Pan="0" PreInsert="1" DisplayName="Aux 4"/>
+                        </Auxs>
+                        <Layers>
+                            <Layer Name="Layer 0" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" Mute="0" MidiMute="0" Solo="0" DisplayName="Layer 1" OutputName="" LowKey="0" HighKey="127" CustomPolyphony="0" PlayMode="0" PortamentoTime="0.029999999" PortamentoCurve="0" PortamentoMode="0" NumVoicesPerNote="1" VelocityCurve="0">
+                                <Properties Color="ff02b0ff"/>
+                                <ControlSignalSources>
+                                    <LFO Name="LFO 1" DisplayName="LFO 1" Bypass="0" SyncToHost="1" DelayTime="0" RiseTime="0" Freq="2" Depth="1" Phase="0" WaveFormType="6" Retrigger="2" Bipolar="0" Smooth="0.024647212">
+                                        <Properties PresetPath=""/>
+                                    </LFO>
+                                </ControlSignalSources>
+                                <Inserts>
+                                    <Redux Name="InsertFX6" Bypass="0" Frequency="44100" Bits="12" Jitter="0" Type="0" QuantizeLaw="0" Dither="1" FilterFreq="6998.9028" FilterRes="1.3877788e-17" FilterMode="0" FilterPosition="2" Antialiasing="1" Mix="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="-0.20689656" Source="$Layer/LFO 1" Destination="Frequency" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 4" Destination="Mix" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                                        </Connections>
+                                        <Properties PresetPath=""/>
+                                    </Redux>
+                                    <BrickwallFilter Name="InsertFX3" Bypass="0" Type="1" Slope="1" SoftBypass="0" Freq="20"/>
+                                    <ThreeBandLimiter Name="InsertFX0" Bypass="1" LowMidFreq="132.41589" MidHighFreq="1840.899" Threshold0="0" Margin0="0" Release0="100" Mix0="1" Threshold1="0" Margin1="0" Release1="100" Mix1="1" Threshold2="0" Margin2="0" Release2="100" Mix2="1"/>
+                                    <ParametricEQ Name="InsertFX1" Bypass="0" Freq1="20.829165" Q1="0.69999999" Gain1="0" Enable1="1" Freq2="70" Q2="12" Gain2="0" Enable2="0" Freq3="118.73374" Q3="1.8328001" Gain3="-4.1999989" Enable3="1" Freq4="209.87376" Q4="1.4552001" Gain4="-4.7999992" Enable4="1" Freq5="463.42184" Q5="1.5024002" Gain5="-5" Enable5="1" Freq6="4212.9805" Q6="0.69999999" Gain6="10.930694" Enable6="1" Freq7="7400" Q7="12" Gain7="0" Enable7="0" Freq8="10140.474" Q8="0.69999999" Gain8="0" Enable8="1"/>
+                                    <Maximizer Name="InsertFX2" Bypass="1" Threshold="0" Attack="0" Lookahead="2" Release="10" Ceiling="-0.1" Knee="0" ReleaseBlend="0.1" SlewRate="20"/>
+                                    <WhiteChorus Name="InsertFX4" Bypass="0" Speed="0.1" Depth="40" Edge="0.21600008" Tone="2616.8354" Crossover="295.95435" LowGain="0.40000001" Mix="0" Trim="0" NumVoices="2" Mode="1">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="0.5" Source="$Program/Macro 2" Destination="Mix" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                                        </Connections>
+                                    </WhiteChorus>
+                                    <SampledReverb Name="InsertFX5" Bypass="0" Dry="1" Wet="0" Time="1" DampingLow="0.88" DampingHigh="-0.40659344" PreDelay="0" Width="0.824" SamplePath="$Falcon Preset Tour.ufs/Resources/IR/03 KSP Long Reverb.aif" NormalizePower="1" UseWindowAtOriginalSize="0" SampledReverbVersion="1">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="-0.5" Source="$Program/Macro 3" Destination="Dry" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 3" Destination="Wet" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                                        </Connections>
+                                        <Properties PresetPath=""/>
+                                    </SampledReverb>
+                                </Inserts>
+                                <BusRouters>
+                                    <BusRouter Name="AuxSend0" Bypass="0" Gain="0" Destination="../../Aux0" PreFader="0" BusRouterVersion="1"/>
+                                    <BusRouter Name="AuxSend1" Bypass="0" Gain="0" Destination="../../Aux1" PreFader="0" BusRouterVersion="1"/>
+                                    <BusRouter Name="AuxSend2" Bypass="0" Gain="0" Destination="../../Aux2" PreFader="0" BusRouterVersion="1"/>
+                                    <BusRouter Name="AuxSend3" Bypass="0" Gain="0" Destination="../../Aux3" PreFader="0" BusRouterVersion="1"/>
+                                </BusRouters>
+                                <Keygroups>
+                                    <Keygroup Name="Keygroup 0" Bypass="0" BypassInsertFX="0" Gain="1.9952623" Pan="0" DisplayName="GC01 amb.wav" OutputName="" ExclusiveGroup="0" LowKey="0" HighKey="127" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                                        <Connections>
+                                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                        </Connections>
+                                        <ControlSignalSources>
+                                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="0" AttackTime="1.1372846" DecayTime="0.050000001" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="0.84177244" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0"/>
+                                            <StepEnvelope Name="Step Envelope 1" DisplayName="Step Env 1" Bypass="0" SyncToHost="1" NumSteps="8" Freq="0.0625" Retrigger="2" Bipolar="0" InterpolationMode="0" Smooth="0.0039999993" Levels="0.357143 0.000000 0.085714 0.000000 0.300000 0.000000 0.142857 0.000000"/>
+                                        </ControlSignalSources>
+                                        <Inserts>
+                                            <XpanderFilter Name="InsertFX0" Bypass="0" Freq="2488.8579" Q="0" KeyTracking="0" Mode="3" DistortionType="2" Drive="0" Fat="1" Algorithm="0" Oversampling="1"/>
+                                            <WaveShaper Name="InsertFX1" Bypass="0" InputGain="0" OutputGain="0" Amount="0" Knee="3.0799999" Mix="0" PreFreq="20000" PostFreq="20" Oversampling="0" Mode="8">
+                                                <Connections>
+                                                    <SignalConnection Name="SignalConnection 0" Ratio="-0.10344828" Source="$Program/Macro 1" Destination="OutputGain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                                    <SignalConnection Name="SignalConnection 0" Ratio="-0.050000001" Source="$Program/Macro 1" Destination="Knee" Mapper="Mapper 1" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 1" Destination="Mix" Mapper="Mapper 0" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                                                </Connections>
+                                            </WaveShaper>
+                                        </Inserts>
+                                        <BusRouters>
+                                            <BusRouter Name="AuxSend0" Bypass="0" Gain="0" Destination="../../../Aux0" PreFader="0" BusRouterVersion="1"/>
+                                            <BusRouter Name="AuxSend1" Bypass="0" Gain="0" Destination="../../../Aux1" PreFader="0" BusRouterVersion="1"/>
+                                            <BusRouter Name="AuxSend2" Bypass="0" Gain="0" Destination="../../../Aux2" PreFader="0" BusRouterVersion="1"/>
+                                            <BusRouter Name="AuxSend3" Bypass="0" Gain="0" Destination="../../../Aux3" PreFader="0" BusRouterVersion="1"/>
+                                        </BusRouters>
+                                        <Oscillators>
+                                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="64" DisplayName="Oscillator 1" SamplePath="$Falcon Preset Tour.ufs/Resources/Samples/GC01 amb.wav" SampleStart="0" InterpolationMode="2" AllowStreaming="0" Reverse="0" SamplePurged="0">
+                                                <Connections>
+                                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                                    <SignalConnection Name="SignalConnection 0" Ratio="-11.999998" Source="$Keygroup/Step Envelope 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0">
+                                                        <Connections>
+                                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="@MIDI CC 1" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                                        </Connections>
+                                                    </SignalConnection>
+                                                </Connections>
+                                                <PlaybackOptions Start="0" Stop="421376" PlayDirection="0" PlayRelease="1">
+                                                    <Loop Start="29137" End="421376" Type="0">
+                                                        <CrossFade X="0.5" Y="0.66659998893737793" Length="29137"/>
+                                                    </Loop>
+                                                </PlaybackOptions>
+                                            </SamplePlayer>
+                                            <SamplePlayer Name="Oscillator 2" Bypass="0" CoarseTune="-12" FineTune="-9" Gain="0.33887997" Pitch="0" NoteTracking="1" BaseNote="64" DisplayName="Oscillator 2" SamplePath="$Falcon Preset Tour.ufs/Resources/Samples/GC02 amb2.wav" SampleStart="0" InterpolationMode="2" AllowStreaming="0" Reverse="0" SamplePurged="0">
+                                                <Connections>
+                                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                                    <SignalConnection Name="SignalConnection 0" Ratio="11.999998" Source="$Keygroup/Step Envelope 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0">
+                                                        <Connections>
+                                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="@MIDI CC 1" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                                        </Connections>
+                                                    </SignalConnection>
+                                                </Connections>
+                                            </SamplePlayer>
+                                        </Oscillators>
+                                    </Keygroup>
+                                </Keygroups>
+                            </Layer>
+                        </Layers>
+                    </Program>
+                </Part>
+                <Part Name="Part 1" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" Mute="0" MidiMute="0" Solo="0" DisplayName="Part 2" CoarseTune="0" FineTune="0" TransposeOctaves="0" TransposeSemiTones="0" OutputName="" ExclusiveGroup="0" MidiInput="0" MidiChannel="1" LowKey="0" HighKey="127" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" RestrictVelocityRange="0" RestrictKeyRange="0" Streaming="1">
+                    <Connections>
+                        <SignalConnection Name="SignalConnection 1" Ratio="1" Source="@MIDI CC 11" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        <SignalConnection Name="SignalConnection 0" Ratio="1" Source="@MIDI CC 7" Destination="Gain" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        <SignalConnection Name="SignalConnection 0" Ratio="1" Source="@MIDI CC 10" Destination="Pan" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                    </Connections>
+                    <ControlSignalSources/>
+                    <BusRouters>
+                        <BusRouter Name="AuxSend0" Bypass="0" Gain="0" Destination="../../Aux0" PreFader="0" BusRouterVersion="1"/>
+                        <BusRouter Name="AuxSend1" Bypass="0" Gain="0" Destination="../../Aux1" PreFader="0" BusRouterVersion="1"/>
+                    </BusRouters>
+                </Part>
+                <Part Name="Part 2" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" Mute="0" MidiMute="0" Solo="0" DisplayName="Part 3" CoarseTune="0" FineTune="0" TransposeOctaves="0" TransposeSemiTones="0" OutputName="" ExclusiveGroup="0" MidiInput="0" MidiChannel="2" LowKey="0" HighKey="127" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" RestrictVelocityRange="0" RestrictKeyRange="0" Streaming="1">
+                    <Connections>
+                        <SignalConnection Name="SignalConnection 1" Ratio="1" Source="@MIDI CC 11" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        <SignalConnection Name="SignalConnection 0" Ratio="1" Source="@MIDI CC 7" Destination="Gain" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        <SignalConnection Name="SignalConnection 0" Ratio="1" Source="@MIDI CC 10" Destination="Pan" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                    </Connections>
+                    <ControlSignalSources/>
+                    <BusRouters>
+                        <BusRouter Name="AuxSend0" Bypass="0" Gain="0" Destination="../../Aux0" PreFader="0" BusRouterVersion="1"/>
+                        <BusRouter Name="AuxSend1" Bypass="0" Gain="0" Destination="../../Aux1" PreFader="0" BusRouterVersion="1"/>
+                    </BusRouters>
+                </Part>
+                <Part Name="Part 3" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" Mute="0" MidiMute="0" Solo="0" DisplayName="Part 4" CoarseTune="0" FineTune="0" TransposeOctaves="0" TransposeSemiTones="0" OutputName="" ExclusiveGroup="0" MidiInput="0" MidiChannel="3" LowKey="0" HighKey="127" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" RestrictVelocityRange="0" RestrictKeyRange="0" Streaming="1">
+                    <Connections>
+                        <SignalConnection Name="SignalConnection 1" Ratio="1" Source="@MIDI CC 11" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        <SignalConnection Name="SignalConnection 0" Ratio="1" Source="@MIDI CC 7" Destination="Gain" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                        <SignalConnection Name="SignalConnection 0" Ratio="1" Source="@MIDI CC 10" Destination="Pan" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0" SignalConnectionVersion="1"/>
+                    </Connections>
+                    <ControlSignalSources/>
+                    <BusRouters>
+                        <BusRouter Name="AuxSend0" Bypass="0" Gain="0" Destination="../../Aux0" PreFader="0" BusRouterVersion="1"/>
+                        <BusRouter Name="AuxSend1" Bypass="0" Gain="0" Destination="../../Aux1" PreFader="0" BusRouterVersion="1"/>
+                    </BusRouters>
+                </Part>
+            </Children>
+        </Synth>
+    </Engine>
+    <NeededFS Source="/Library/Application Support/UVISoundBanks/Falcon Preset Tour.ufs"/>
+</UVI4>
