@@ -2,13 +2,12 @@
 
 <pluginSelections>
   <PluginSelector descriptiveName="Absynth 5" pluginFormatName="VST"/>
-  <PluginSelector descriptiveName="Battery 4" pluginFormatName="VST"/>
-  <PluginSelector descriptiveName="FM8" pluginFormatName="VST"/>
-  <PluginSelector descriptiveName="Komplete Kontrol" pluginFormatName="VST"/>
-  <PluginSelector descriptiveName="Kontakt" pluginFormatName="VST"/>
-  <PluginSelector descriptiveName="Kontakt 5" pluginFormatName="AudioUnit"/>
-  <PluginSelector descriptiveName="Maschine 2" pluginFormatName="VST"/>
-  <PluginSelector descriptiveName="Massive" pluginFormatName="VST"/>
-  <PluginSelector descriptiveName="Reaktor 6" pluginFormatName="VST"/>
-  <PluginSelector descriptiveName="Reaktor5" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Battery 4" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="FM8" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Komplete Kontrol" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Kontakt" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Kontakt 7" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Massive" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Massive X" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Reaktor 6" pluginFormatName="VST3"/>
 </pluginSelections>

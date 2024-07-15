@@ -1,3 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<pluginSelections/>
+<pluginSelections>
+  <PluginSelector descriptiveName="Dublin (Semi-modular)" pluginFormatName="AudioUnit"/>
+  <PluginSelector descriptiveName="KORG MS-20 V" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Memphis (MS-20)" pluginFormatName="AudioUnit"/>
+  <PluginSelector descriptiveName="miRack" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="miRack 16ch" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Modular" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Modular V3" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="MS-20" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Reason Rack Plugin" pluginFormatName="VST3"/>
+</pluginSelections>

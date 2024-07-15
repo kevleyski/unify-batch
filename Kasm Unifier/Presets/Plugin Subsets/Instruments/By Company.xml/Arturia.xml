@@ -1,32 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <pluginSelections>
-  <PluginSelector descriptiveName="Analog Lab 4" pluginFormatName="VST"/>
-  <PluginSelector descriptiveName="ARP 2600 V3" pluginFormatName="VST"/>
-  <PluginSelector descriptiveName="B-3 V" pluginFormatName="VST"/>
-  <PluginSelector descriptiveName="B-3 V2" pluginFormatName="VST"/>
-  <PluginSelector descriptiveName="Buchla Easel V" pluginFormatName="VST"/>
-  <PluginSelector descriptiveName="Clavinet V" pluginFormatName="VST"/>
-  <PluginSelector descriptiveName="CMI V" pluginFormatName="VST"/>
-  <PluginSelector descriptiveName="CS-80 V3" pluginFormatName="VST"/>
-  <PluginSelector descriptiveName="CZ V" pluginFormatName="VST"/>
-  <PluginSelector descriptiveName="DX7 V" pluginFormatName="VST"/>
-  <PluginSelector descriptiveName="Farfisa V" pluginFormatName="VST"/>
-  <PluginSelector descriptiveName="Jup-8 V3" pluginFormatName="VST"/>
-  <PluginSelector descriptiveName="Matrix-12 V2" pluginFormatName="VST"/>
-  <PluginSelector descriptiveName="Mellotron V" pluginFormatName="VST"/>
-  <PluginSelector descriptiveName="Mini V3" pluginFormatName="VST"/>
-  <PluginSelector descriptiveName="Modular V3" pluginFormatName="VST"/>
-  <PluginSelector descriptiveName="OB-Xa V" pluginFormatName="VST"/>
-  <PluginSelector descriptiveName="Piano V2" pluginFormatName="VST"/>
-  <PluginSelector descriptiveName="Pigments" pluginFormatName="VST"/>
-  <PluginSelector descriptiveName="Prophet V3" pluginFormatName="VST"/>
-  <PluginSelector descriptiveName="SEM V2" pluginFormatName="VST"/>
-  <PluginSelector descriptiveName="Solina V2" pluginFormatName="VST"/>
-  <PluginSelector descriptiveName="Spark Dubstep" pluginFormatName="VST"/>
-  <PluginSelector descriptiveName="Stage-73 V" pluginFormatName="VST"/>
-  <PluginSelector descriptiveName="Synclavier V" pluginFormatName="VST"/>
-  <PluginSelector descriptiveName="Synthi V" pluginFormatName="VST"/>
-  <PluginSelector descriptiveName="VOX Continental V2" pluginFormatName="VST"/>
-  <PluginSelector descriptiveName="Wurli V2" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Acid V" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Analog Lab V" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="ARP 2600 V3" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Augmented BRASS" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Augmented GRAND PIANO" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Augmented STRINGS" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Augmented VOICES" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Augmented WOODWINDS" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="B-3 V2" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Buchla Easel V" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Clavinet V" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="CMI V" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="CP-70 V" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="CS-80 V4" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="CZ V" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="DX7 V" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Emulator II V" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Farfisa V" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Jun-6 V" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Jup-8 V4" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="KORG MS-20 V" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Matrix-12 V2" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Mellotron V" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Mini V4" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="MiniFreak V" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Modular V3" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="OP-Xa V" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Piano V3" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Pigments" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Prophet-5 V" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Prophet-VS V" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="SEM V2" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Solina V2" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="SQ80 V" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Stage-73 V2" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Synclavier V" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Synthi V" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Vocoder V" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="VOX Continental V2" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Wurli V3" pluginFormatName="VST3"/>
 </pluginSelections>

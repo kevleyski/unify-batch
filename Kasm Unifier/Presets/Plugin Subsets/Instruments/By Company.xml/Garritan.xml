@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pluginSelections>
+  <PluginSelector descriptiveName="ARIA Player" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="ARIA Player (Multi)" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="CFX Concert Grand" pluginFormatName="VST"/>
+</pluginSelections>

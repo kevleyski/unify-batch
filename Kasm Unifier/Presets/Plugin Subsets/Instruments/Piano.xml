@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <pluginSelections>
+  <PluginSelector descriptiveName="ARIA Player" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="ARIA Player (Multi)" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Augmented GRAND PIANO" pluginFormatName="VST3"/>
   <PluginSelector descriptiveName="CFX Concert Grand" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Kontakt 7" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="mda ePiano" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="mda Piano" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Montreal (E.Piano)" pluginFormatName="AudioUnit"/>
   <PluginSelector descriptiveName="Originals - Mrs Mills Piano" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Piano V3" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Salzburg (Piano)" pluginFormatName="AudioUnit"/>
   <PluginSelector descriptiveName="Vienna Synchron Pianos" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Vienna Synchron Pianos Surround" pluginFormatName="VST3"/>
 </pluginSelections>

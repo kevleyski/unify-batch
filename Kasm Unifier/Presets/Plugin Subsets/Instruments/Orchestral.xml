@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <pluginSelections>
+  <PluginSelector descriptiveName="Analog Lab V" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Augmented BRASS" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Augmented STRINGS" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Augmented WOODWINDS" pluginFormatName="VST3"/>
   <PluginSelector descriptiveName="BBC Symphony Orchestra" pluginFormatName="VST3"/>
   <PluginSelector descriptiveName="Eric Whitacre Choir" pluginFormatName="VST3"/>
   <PluginSelector descriptiveName="Eric Whitacre Choir Evo Grid" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Kontakt 7" pluginFormatName="VST3"/>
 </pluginSelections>

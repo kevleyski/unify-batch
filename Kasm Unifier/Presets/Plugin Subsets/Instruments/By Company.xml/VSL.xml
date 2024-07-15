@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pluginSelections>
+  <PluginSelector descriptiveName="Vienna Organ Player" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Vienna Organ Player Surround" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Vienna Synchron Pianos" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Vienna Synchron Pianos Surround" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Vienna Synchron Player" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Vienna Synchron Player Surround" pluginFormatName="VST3"/>
+</pluginSelections>
