@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pluginSelections>
+  <PluginSelector descriptiveName="Chorus DIMENSION-D" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Chorus JUN-6" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Delay ETERNITY" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Delay MEMORY-BRIGADE" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Delay TAPE-201" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Rev PLATE-140" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Tape MELLO-FI" pluginFormatName="VST"/>
+</pluginSelections>

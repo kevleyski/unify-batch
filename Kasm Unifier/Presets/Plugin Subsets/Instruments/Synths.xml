@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pluginSelections>
+  <PluginSelector descriptiveName="Diva" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Omnisphere" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Surge XT" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Sylenth1" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Synth1" pluginFormatName="AudioUnit"/>
+  <PluginSelector descriptiveName="Vital" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="VOX Continental V2" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Zebra2" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="ZebraHZ" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Zebralette3" pluginFormatName="VST3"/>
+</pluginSelections>

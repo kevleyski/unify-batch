@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pluginSelections>
+  <PluginSelector descriptiveName="CA2600 FX" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="PS-20 FX" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Stardust 201 Tape Echo" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Voltage Modular FX" pluginFormatName="VST"/>
+</pluginSelections>

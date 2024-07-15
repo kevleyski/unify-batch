@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PhaseMORE presetName="Super Slow Planetary Orbiter">
+  <Parameters>
+    <PARAM id="depth" value="60.5"/>
+    <PARAM id="feedback" value="-88.0"/>
+    <PARAM id="frequency" value="1380.774536132812"/>
+    <PARAM id="lfoRate" value="0.03204401955008507"/>
+    <PARAM id="lfoShape" value="0.4947311282157898"/>
+    <PARAM id="numStages" value="5.0"/>
+    <PARAM id="resonance" value="0.199999988079071"/>
+    <PARAM id="mix"/>
+  </Parameters>
+</PhaseMORE>

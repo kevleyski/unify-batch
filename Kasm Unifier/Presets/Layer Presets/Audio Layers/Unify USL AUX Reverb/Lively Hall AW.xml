@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<AudioFxLane title="Ambience, delay and reverb" mixLevel="0.7079457640647888"
+             panPos="0.5" muteState="1">
+  <AudioInserts>
+    <InsertEffect stateInformation="228.CMlaKA....fQ3IzZ....AzFYgED...P.....A...........................................................................................................................................................................CMlaKA....fQ3MzZ....AzFYgED...P.....DLUagwFafLEbgMVYfDTahkVYtMVY..........fOZdAk+LyLy7yO0T9O...."
+                  currentProgram="0">
+      <PLUGIN name="mdaAmbience" descriptiveName="_mda Ambience" format="VST"
+              category="Effect" manufacturer="mda" version="1.0.0.0" file="/Users/johnlehmkuhl/Documents/PlugInGuru/Unify/VST/mda/mdaAmbience.vst"
+              uid="6d646141" isInstrument="0" fileTime="16c7ca61e44" infoUpdateTime="16cb5945d08"
+              numInputs="2" numOutputs="2" isShell="0"/>
+    </InsertEffect>
+    <InsertEffect stateInformation="428.VMjLgLZ....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOE0lUkImX9vCTAIUPMARZj0iHhElajcWZjQGZh.hcgwVck0iHw3BLh7hO7.UPRETSfjFY8HBYg0Fbo41Yh.hcgwVck0iHv3BL4jSN4jSN4PCLyjSMyTSMxHxK9vCTAIUPMARZj0iHjU1XgkmHfXWXrUWY8HBLtDyM4jSN4jSNxHSMwLSN1HiHu3COPEjTA0DHoQVOhPVYtMWZzkmHfXWXrUWY8HBLtfSN4jSN4jyM1DSM3DCMxDiHu3COPEjTA0DHoQVOhPlb4cUYz0TZ3IBH1EFa0UVOhDiKvHxK9vCTAIUPMARZj0iHkElbrkGSgQWYMkFdh.hcgwVck0iHv3xL4jSN4jSN2XSL0fSLzHSLh7hO7.UPRETSfjFY8HBbxUFYkwVX4IBH1EFa0UVOh.iKzPSN4jSN4fCNvbSNvbSLh7hO7.UPRETSfjFY8Hhbu8VaSkldkIBH1EFa0UVOh.iK3PSN4jSN4XCMxLyMxDyLwHxK9vyKE0lUkImX9.."
+                  currentProgram="0">
+      <PLUGIN name="EmVerb" format="Built-In" category="Effect" manufacturer="Built-In"
+              version="0.15.0" file="EmVerb:" uid="7be70607" isInstrument="0"
+              fileTime="0" infoUpdateTime="0" numInputs="2" numOutputs="2"
+              isShell="0"/>
+    </InsertEffect>
+  </AudioInserts>
+</AudioFxLane>

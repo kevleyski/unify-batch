@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<AudioFxLane title="WaterVerb Huge WaterHall" mixLevel="1.0" panPos="0.5"
+             muteState="1">
+  <AudioInserts>
+    <InsertEffect stateInformation="181.VMjLgvJ....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOWEFckImUkImX9vCTAIUPMARZj0iHjIWdWUFcMkFdh.hcgwVck0iHzfiKvHxK9vCTAIUPMARZj0iHlUVYjIVXislHfXWXrUWY8HRNz3RMh7hO7.UPRETSfjFY8HhYowFckImQxUVbh.hcgwVck0iH4DCLv3BLh7hO77xUgQWYxYUYxIlO.."
+                  currentProgram="0">
+      <PLUGIN name="WaterVerb" format="Built-In" category="Effect" manufacturer="Built-In"
+              version="0.19.1" file="WaterVerb:" uid="6aaf22b6" isInstrument="0"
+              fileTime="0" infoUpdateTime="0" numInputs="2" numOutputs="2"
+              isShell="0"/>
+    </InsertEffect>
+  </AudioInserts>
+</AudioFxLane>

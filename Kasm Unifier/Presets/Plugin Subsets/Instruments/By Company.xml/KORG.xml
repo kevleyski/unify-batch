@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pluginSelections>
+  <PluginSelector descriptiveName="Abu Dhabi" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="AKOrgan" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Alexandria" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Amsterdam" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="ARP ODYSSEY" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Berlin" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Bilbao" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Brussels" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Chiangmai" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Chicago" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Darwin" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Dublin" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Ebina" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Firenze" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Gladstone" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Glasgow" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Helsinki" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Kamata" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Kiev" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Kingston" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Lexington" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Lisbon" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="London" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="M1" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Madrid" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Marseille" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Memphis" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Miami" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Milpitas" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="MonoPoly" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Montpellier" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Montreal" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="MS-20" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Otorii" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Phoenix" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Polysix" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Pompei" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Recife" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Salzburg" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Stockholm" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Taipei" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Tokyo" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Vancouver" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Warszawa" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="WAVESTATION" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Wolfsburg" pluginFormatName="VST"/>
+</pluginSelections>

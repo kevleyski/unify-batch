@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pluginSelections>
+  <PluginSelector descriptiveName="CFX Concert Grand" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Originals - Mrs Mills Piano" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Vienna Synchron Pianos" pluginFormatName="VST3"/>
+</pluginSelections>

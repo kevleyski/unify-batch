@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pluginSelections>
+  <PluginSelector descriptiveName="UAD 4K Buss Compressor" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD 4K Channel Strip" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD ADA Flanger" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD ADA STD-1 Stereo Tapped Dela" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD AKG BX 20" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Ampeg B15N" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Ampeg SVT3Pro" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Ampeg SVTVR" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Ampeg SVTVR Classic" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Ampex ATR-102" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD AMS Neve DFC Channel Strip" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD AMS RMX16" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD AMS RMX16 Expanded" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Antares Auto-Tune Realtime" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD API 550A" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD API 560" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD API 2500" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD API Vision Channel Strip" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Auto-Tune Realtime Access" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Auto-Tune Realtime Advanced" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Avalon VT-737sp" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Bermuda Triangle" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Brigade Chorus" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD bx_digital V2" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD bx_digital V2 Mono" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD bx_digital V3" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD bx_digital V3 mix" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD bx_masterdesk" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD bx_masterdesk Classic" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD bx_refinement" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD bx_saturator V2" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD bx_subsynth" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD bx_tuner" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Cambridge" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Capitol Chambers" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Century Tube Channel Strip" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Chandler GAV19T" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Chandler Limited Curve Bende" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Chandler Limited Zener Limit" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Cooper Time Cube" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD CS-1" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Dangerous BAX EQ Master" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Dangerous BAX EQ Mix" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD dbx 160" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Diezel Herbert" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Diezel VH4" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD DreamVerb" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Dytronics Cyclosonic Panner" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Dytronics Tri-Stereo Chorus" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Eden WT800" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD elysia alpha master" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD elysia alpha mix" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD elysia mpressor" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Empirical Labs Distressor" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Empirical Labs FATSO Jr" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Empirical Labs FATSO Sr" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD EMT 140" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD EMT 250" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD ENGL E646 VS" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD ENGL E765 RT" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD ENGL Savage 120" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD EP-34 Tape Echo" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Eventide H910 Harmonizer" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Fairchild 660" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Fairchild 670" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Fairchild 670 Legacy" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Fender 55 Tweed Deluxe" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Friedman BE100" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Friedman Buxom Betty" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Friedman DS40" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Fuchs Overdrive Supreme 50" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Fuchs Train II" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Galaxy Tape Echo" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Gallien Krueger 800RB" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Harrison 32C" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Harrison 32C SE" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Helios Type 69" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Helios Type 69 Legacy" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Ibanez Tube Screamer TS808" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Korg SDD-3000" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Lexicon 224" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Lexicon 480L" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Little Labs IBP" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Little Labs VOG" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Maag EQ4" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Manley Massive Passive" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Manley Massive Passive MST" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Manley Variable Mu" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Manley VOXBOX" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Marshall Bluesbreaker 1962" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Marshall JMP 2203" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Marshall Plexi Classic" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Marshall Plexi Super Lead 19" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Marshall Silver Jubilee 2555" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD MDWEQ5-3B" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD MDWEQ5-5B" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Millennia NSEQ-2" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Moog Multimode Filter" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Moog Multimode Filter SE" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Moog Multimode Filter XL" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD MXR Flanger-Doubler" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Neve 88RS" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Neve 88RS Legacy" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Neve 1073" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Neve 1073 Legacy" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Neve 1073SE Legacy" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Neve 1081" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Neve 1081SE" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Neve 1084" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Neve 2254 E" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Neve 2254 E Dual" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Neve 31102" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Neve 31102SE" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Neve 33609 C" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Neve 33609SE" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Neve Preamp" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Ocean Way Mic Collection" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Ocean Way Mic Collection 180" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Ocean Way Studios" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD OTO Biscuit 8-bit Effects" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Oxford Dynamic EQ" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Oxford Envolution" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Oxford EQ" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Oxford Inflator" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Oxford Limiter" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Oxford SuprEsser DS" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Oxide Tape" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Precision Buss Compressor" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Precision Channel Strip" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Precision De-Esser" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Precision Delay Mod" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Precision Delay Mod L" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Precision Enhancer Hz" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Precision Enhancer kHz" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Precision Equalizer" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Precision K-Stereo" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Precision Limiter" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Precision Maximizer" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Precision Multiband" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Precision Reflection Engine" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Pultec EQP-1A" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Pultec EQP-1A Legacy" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Pultec HLF-3C" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Pultec MEQ-5" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Pultec-Pro Legacy" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Pure Plate" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Putnam Mic Collection" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Putnam Mic Collection 180" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Raw" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD RealVerb-Pro" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Roland CE-1" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Roland Dimension D" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Roland RE-201" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Shadow Hills Mastering Compr" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Softube Amp Room Half-Stack" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Softube Bass Amp Room" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Softube Bass Amp Room 8x10" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Softube Metal Amp Room" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Softube Vintage Amp Room" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Softube Vocoder" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Sound Machine Wood Works" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD SPL Transient Designer" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD SPL TwinTube" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD SPL Vitalizer MK2-T" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD SSL E Channel Strip" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD SSL E Channel Strip Legacy" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD SSL G Bus Compressor" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD SSL G Bus Compressor Legacy" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Studer A800" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Studio D Chorus" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Suhr PT100" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Suhr SE100" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Summit Audio TLA-100A" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Teletronix LA-2" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Teletronix LA-2A Gray" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Teletronix LA-2A Legacy" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Teletronix LA-2A Silver" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Teletronix LA-3A" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Thermionic Culture Vulture" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Tonelux Tilt" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Tonelux Tilt Live" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Townsend Labs Sphere" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Townsend Labs Sphere 180" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Trident A-Range" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD TS Overdrive" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Tube-Tech CL 1B" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Tube-Tech CL 1B mk II" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Tube-Tech ME 1B" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Tube-Tech PE 1C" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD UA 175-B" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD UA 176" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD UA 610-A" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD UA 610-B" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD UA 1176 Rev A" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD UA 1176AE" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD UA 1176LN Legacy" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD UA 1176LN Rev E" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD UA 1176SE Legacy" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD V76 Preamp" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Valley People Dyna-mite" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Vertigo VSC-2" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UAD Vertigo VSM-3" pluginFormatName="VST"/>
+</pluginSelections>

@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pluginSelections>
+  <PluginSelector descriptiveName="AAS Player" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Absynth 5" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Abu Dhabi" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="ACE" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Admiralizor" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="ADSR Sample Manager" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Alexandria" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="AlterEgo" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Ample Bass P Lite II" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Ample Guitar M II Lite" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Ample Percussion Cloudrum" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Amsterdam" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="ANA 2" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Analog Lab 4" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Analog Waveforms" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Andes-1" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="ArcSyn" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="ARP 2600 V3" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="ARP ODYSSEY" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="B-3 V" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="B-3 V2" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="B.I.T." pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Babylon" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Battery 4" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Bazille" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="BBC Symphony Orchestra" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Berlin" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Bilbao" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Blade" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Bliss" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Blue" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Blue2" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="BM-DOPE" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Bolt" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Brussels" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Buchla Easel V" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="bx_oberhausen" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Cataract" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Chiangmai" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Chicago" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Chromaphone 2" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Clavinet V" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="CMI V" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="CollaB3" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Concept" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Concerto" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Cream" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Crystal" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="CS-80 V3" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Curve2" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Cyclop" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Cypher2" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="CZ V" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Darwin" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Deputy" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Dexed" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Digits" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Discovery Pro" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Diva" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="DS Thorn" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Dublin" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="DUNE 2" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="DUNE 3" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Dust" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="DX7 V" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Ebina" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="EKS Pro" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Elastik 3" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="ElectraX" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Ephemere" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Equator" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="FabFilter One" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="FabFilter Twin 2" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Falcon" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Farfisa V" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Fathom" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="FB-3100" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="FB-3200" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="FB-3300" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Firenze" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="FM8" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Geist2" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Genetix" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Gladiator" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Gladstone" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Glasgow" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Go2" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Granite" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="HatefishRhyGenerator" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Helsinki" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Hexeract" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Hillman" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Hive" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Hull" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Hybrid" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Hydra Demo" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Icarus" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="imagiro piano" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="iZotope BreakTweaker" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="iZotope Iris 2" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Jup-8 V3" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Kamata" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Keyscape" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Kick 2" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Kiev" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Kingston" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Knif Audio Knifonium" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Komplete Kontrol" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Kontakt" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="LABS" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Lancinantes" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="LegacyCell" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Lexington" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Lisbon" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="London" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Loopcloud" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="M1" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Madrid" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Marseille" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Maschine 2" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Massive" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Matrix-12 V2" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="mda DX10" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="mda ePiano" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="mda JX10" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="mda Piano" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="MegaDrumMachines" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Mellotron V" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Memphis" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Miami" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Microtonic" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Microtonic Multi" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Milpitas" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Mini V3" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="ModulAir" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Modular" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Modular V3" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Momentum" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="MonoFury" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Monoment Bass" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="MonoPoly" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Montpellier" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Montreal" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="MPowerSynth" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="MPS" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="MS-20" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Nemesis" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Nerve" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="OB-Xa V" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="OB-Xd" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Omnisphere" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="OrchestralCompanionStrings" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Organteq 1" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Otorii" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Oxe FM Synth" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="PercX" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="PG-8X" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Phase Plant" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Phoenix" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Phonec_2" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Piano V2" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Pianoteq 6" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Pigments" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Polygon" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Polysix" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Pompei" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Predator" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Predator 2" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Prisma" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Prophet V3" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Punch" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Punch-BD" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Punch-BD Multi" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Punch2" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Punch2 Multi" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="PunchMulti" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Quad" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Qyooo" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Rapid" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="RAW" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="RAW-Kick" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Reaktor 6" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Reaktor5" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Recife" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Regroover Pro" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Repro-1" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Repro-5" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="RG" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Rhythmiq" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Salzburg" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Sawrizor" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Sektor Synth" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="SEM V2" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Serum" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="sforzando" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Solina V2" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="SOUND Canvas VA" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Spark Dubstep" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Spire-1.1" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="SSDSampler5" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Stage-73 V" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Stockholm" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Strobe2" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Strum GS-2" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="studiomux generator" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="StylusRMX" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="SubBoomBass" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="SubBoomBass2" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="SubLab" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Symptohm PE" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Synclavier V" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Synplant" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Synth1 VSTi" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Synthi V" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Taipei" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Thorn" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Ting" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Tokyo" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Trilian" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="TRITON" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Tunefish4" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="TX16Wx" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="TyrellN6" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Unfiltered Audio LION" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Unify" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Union" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="UVIWorkstation" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="VacuumPro" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Vancouver" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="VCV Bridge" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Vecto" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Virus TI" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Virus TI Snow" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Voltage Modular" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="VOX Continental V2" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="VPS Avenger" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Warszawa" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Waverazor" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="WAVESTATION" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Wolfsburg" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Wurli V2" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Zebra2" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="ZebraHZ" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Zebralette" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Zone" pluginFormatName="VST"/>
+</pluginSelections>

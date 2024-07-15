@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<MidiLane title="" lokey="0" hikey="127" lovel="0" hivel="127" keyOffset="0"
+          midiChannel="0" midiSourceIndex="-1" latchEnabled="0">
+  <MidiVelCurve>
+    <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+  </MidiVelCurve>
+  <MidiInserts/>
+</MidiLane>

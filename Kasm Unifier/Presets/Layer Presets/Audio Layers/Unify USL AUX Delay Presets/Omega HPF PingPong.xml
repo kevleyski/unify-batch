@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<AudioFxLane title="Omega HPF PingPong" mixLevel="1.0" panPos="0.5" muteState="1">
+  <AudioInserts>
+    <InsertEffect stateInformation="954.VMjLgD6....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOO0VYmEFQkwVX44COPEjTA0DHoQVOhHFbsMUdtMlHfXWXrUWY8HRLt.iHu3COPEjTA0DHoQVOhLFZuIWcyYTYkQlXgM1Zh.hcgwVck0iHzXiKvHxK9vCTAIUPMARZj0iHig1axU2bM8FYDUFbzglHfXWXrUWY8HhLv3BLh7hO7.UPRETSfjFY8HxXn8lb0MWSuQlQxUVbh.hcgwVck0iHv3hM0HSM2DSNwXSM3.iLv.iLh7hO7.UPRETSfjFY8HxXn8lb0MWSuQVYh.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HxXn8lb0M2UkQWSogmHfXWXrUWY8HxL23BLh7hO7.UPRETSfjFY8HBYkwVX4QUZsUFSh.hcgwVck0iHv3hM3PiLw.SMyfCN1PSLyTyMh7hO7.UPRETSfjFY8HBYkwVX4QUZsUlTh.hcgwVck0iHv3hMxPCM1.SMwfyL1.SLybSNh7hO7.UPRETSfjFY8HBYoMGcDIWZ1UlHfXWXrUWY8HBLtHSL0XyMwfiM2DyLxDCN1jiHu3COPEjTA0DHoQVOhPVZyQ2Qgklah.hcgwVck0iHsjiKxHCM1fiM1HiL1DSN1HSNh7hO7.UPRETSfjFY8HBYoMGcSQmbk41YzglHfXWXrUWY8HBLtHSLxfSNvXiL0HxK9vCTAIUPMARZj0iHjk1bzQUdvUlHfXWXrUWY8HBLt.iHu3COPEjTA0DHoQVOhPlboYFcA01a04Fch.hcgwVck0iHx3BMv.CLvDSMxTCN2fSNvXiHu3COPEjTA0DHoQVOhPlb4cUYz0TZ3IBH1EFa0UVOhDCLv3BLh7hO7.UPRETSfjFY8HhYhwTYlQmHfXWXrUWY8HhLz3BLh7hO7.UPRETSfjFY8HhYh0zajUlHfXWXrUWY8HBLt.iHu3COPEjTA0DHoQVOhXlXRk1YnQmHfXWXrUWY8HhL23RMh7hO7.UPRETSfjFY8HhYowFckImQxUVbh.hcgwVck0iHwDSM33xL2TiLzPSLz.iMxTiHu3COPEjTA0DHoQVOhXVZrQWYxcTXo4lHfXWXrUWY8HBLt.iHu3COPEjTA0DHoQVOhXVZrQWYxEkHfXWXrUWY8HRLtXSN4PCLyDiM1byMvjyL0HxK9vCTAIUPMARZj0iHlkFazUlbTkGbkIBH1EFa0UVOhDiKvHxK9vyKO0VYmEFQkwVX44C."
+                  currentProgram="0">
+      <PLUGIN name="Omega Delay" format="Built-In" category="Effect" manufacturer="Built-In"
+              version="0.16.3" file="Omega Delay:" uid="86367dc4" isInstrument="0"
+              fileTime="0" infoUpdateTime="0" numInputs="2" numOutputs="2"
+              isShell="0"/>
+    </InsertEffect>
+  </AudioInserts>
+</AudioFxLane>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PhaseMORE presetName="Frozen Pinched Nerve">
+  <Parameters>
+    <PARAM id="depth" value="65.5"/>
+    <PARAM id="feedback" value="75.5"/>
+    <PARAM id="frequency" value="2233.257568359375"/>
+    <PARAM id="lfoRate" value="0.0"/>
+    <PARAM id="lfoShape" value="0.5"/>
+    <PARAM id="numStages" value="9.0"/>
+    <PARAM id="resonance" value="0.2979619801044464"/>
+    <PARAM id="mix"/>
+  </Parameters>
+</PhaseMORE>

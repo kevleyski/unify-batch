@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pluginSelections>
+  <PluginSelector descriptiveName="Battery 4" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="BucketPops" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Gladstone (Drum)" pluginFormatName="AudioUnit"/>
+  <PluginSelector descriptiveName="London (Drum)" pluginFormatName="AudioUnit"/>
+  <PluginSelector descriptiveName="Recife (Drum)" pluginFormatName="AudioUnit"/>
+  <PluginSelector descriptiveName="Unfiltered Audio Battalion" pluginFormatName="VST3"/>
+</pluginSelections>

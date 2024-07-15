@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<AudioFxLane title="Dragonfly Natural Room" mixLevel="0.2818383574485779"
+             panPos="0.5" muteState="1">
+  <AudioInserts>
+    <InsertEffect stateInformation="934.CMlaKA....fQBMDZ....APjYR0F.CH......Y.............................................................................................................................................................................v.FX0PxDR+B...77CdswFH1Ulbyk1at0iHw3BLh.RYtM1ajklam0iHUQkQsfiH+3CH7Pjbgc1atYFa4I0au0lO7.UPRETSfjFY8HhXu81bzYjbkEmHfXWXrUWY8HhMv.iKvHxK9vCTAIUPMARZj0iHjU1XgkmHfXWXrUWY8HRLtDyM0TCLzXCNzPCM3HCMxHxK9vCTAIUPMARZj0iHjklYlU2bkIBH1EFa0UVOhTSNtjSN4jSN1DCN0LCLxbyLh7hO7.UPRETSfjFY8HBYxkGSkYWYrIBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHkElbrkGQg0Fbh.hcgwVck0iHwXCLv.iKvHxK9vCTAIUPMARZj0iHkElbrkGSkYWYrIBH1EFa0UVOhjiK4jSN4jSNvPiMyHSM1fCMh7hO7.UPRETSfjFY8HRYgIGa4MUYtQlHfXWXrUWY8HRL43RN4jSN4fCL4HiM0DyL2HxK9vCTAIUPMARZj0iHnk1YnMTczIBH1EFa0UVOhDiMv.CLt.iHu3COPEjTA0DHoQVOhvVXzUFQg0Fbh.hcgwVck0iHwXCLv.iKvHxK9vCTAIUPMARZj0iHrEFckwTY1UFah.hcgwVck0iHw.CLt.iHu3COPEjTA0DHoQVOhv1a2IzauMGch.hcgwVck0iHwjiK4jSN4jCNvjiL1TSLybiHu3COPEjTA0DHoQVOhv1a2MTczIBH1EFa0UVOhXCLt.iHu3COPEjTA0DHoQVOh.mbkQVYrEVdh.hcgwVck0iHz3BLh7hO7.UPRETSfjFY8HxbooWYh.hcgwVck0iH33BLyTiMxTCM0byM1LiM2HiHu3COPEjTA0DHoQVOhLGbo4lHfXWXrUWY8HBLtLSN4jSN4jyM1DSM3DCMxDiHu3COPEjTA0DHoQVOhbWXtQVYxIBH1EFa0UVOhLSNtjSN4jSN1DCN0LCLxbyLh7hO7.UPRETSfjFY8HxcoQFcnIBH1EFa0UVOhjCLt.iHu3COuPjbgc1atYFa4I0au0lO.."
+                  currentProgram="0" isBypassed="0">
+      <PLUGIN name="Dragonfly Room" format="VST" category="Effect" manufacturer="PlugInGuru"
+              version="3.2.0.0" file="/Applications/PlugInGuru/Unify/VST/Dragonfly Room.vst"
+              uid="4466526d" isInstrument="0" fileTime="171c79e2a9a" infoUpdateTime="171c7a7dd99"
+              numInputs="2" numOutputs="2" isShell="0"/>
+    </InsertEffect>
+  </AudioInserts>
+</AudioFxLane>

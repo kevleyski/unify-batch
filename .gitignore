@@ -5,9 +5,6 @@
 .DS_Store
 Builds/
 
-## JUCE library code
-JuceLibraryCode/
-
 ## Build generated
 build/
 DerivedData/

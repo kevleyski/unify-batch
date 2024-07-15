@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PhaseMORE presetName="Frozen and Phat">
+  <Parameters>
+    <PARAM id="depth" value="83.5"/>
+    <PARAM id="feedback" value="78.0"/>
+    <PARAM id="frequency" value="477.2449340820312"/>
+    <PARAM id="lfoRate" value="0.0"/>
+    <PARAM id="lfoShape" value="0.5"/>
+    <PARAM id="numStages" value="7.0"/>
+    <PARAM id="resonance" value="0.4417804777622223"/>
+    <PARAM id="mix"/>
+  </Parameters>
+</PhaseMORE>

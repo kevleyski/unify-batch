@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<AudioFxLane title="Silky Chorus DDL" mixLevel="1.0" panPos="0.5" muteState="1">
+  <AudioInserts>
+    <InsertEffect stateInformation="229.VMjLgvM....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOSkFaqk2Pn8lb0MmO7.UPRETSfjFY8HBYxk2UkQWSogmHfXWXrUWY8HRLv.iKvHxK9vCTAIUPMARZj0iHlUVYjIVXislHfXWXrUWY8HBLt.iHu3COPEjTA0DHoQVOhz1ajQTYvQGZh.hcgwVck0iHwTiKvHxK9vCTAIUPMARZj0iHs8FYFIWYwIBH1EFa0UVOh.iK2DCM1.SL1jSM0LyM0XyMwHxK9vyKSkFaqk2Pn8lb0MmO.."
+                  currentProgram="0">
+      <PLUGIN name="Silky Chorus" format="Built-In" category="Effect" manufacturer="Built-In"
+              version="0.17.4" file="Silky Chorus:" uid="c67418c2" isInstrument="0"
+              fileTime="0" infoUpdateTime="0" numInputs="2" numOutputs="2"
+              isShell="0"/>
+    </InsertEffect>
+    <InsertEffect stateInformation="912.VMjLgb3....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOO0VYmEFQkwVX44COPEjTA0DHoQVOhHFbsMUdtMlHfXWXrUWY8HRLt.iHu3COPEjTA0DHoQVOhLFZuIWcyYTYkQlXgM1Zh.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HxXn8lb0MWSuQFQkAGcnIBH1EFa0UVOhXiK0HxK9vCTAIUPMARZj0iHig1axU2bM8FYFIWYwIBH1EFa0UVOh.iK3jSNxjCNyXSN3fCMzjSLh7hO7.UPRETSfjFY8HxXn8lb0MWSuQVYh.hcgwVck0iHx3BLh7hO7.UPRETSfjFY8HxXn8lb0M2UkQWSogmHfXWXrUWY8HRLv.iKvHxK9vCTAIUPMARZj0iHjUFagkGUo0VYLIBH1EFa0UVOh.iK1fCMxDCL0LCN3XCMwLSM2HxK9vCTAIUPMARZj0iHjUFagkGUo0VYRIBH1EFa0UVOh.iK3PSL1PCNvPiLx.SL4jSM3HxK9vCTAIUPMARZj0iHjk1bzQjboYWYh.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HBYoMGcGEVZtIBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHjk1bzMEcxUlamQGZh.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HBYoMGcTkGbkIBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHjIWZlQWPs8VctQmHfXWXrUWY8HhLtjCLv.CLwTiL0fyM3jCL1HxK9vCTAIUPMARZj0iHjIWdWUFcMkFdh.hcgwVck0iHxDiK0HxK9vCTAIUPMARZj0iHlIFSkYFch.hcgwVck0iHx.iKvHxK9vCTAIUPMARZj0iHlIVSuQVYh.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HhYhIUZmgFch.hcgwVck0iHx.iKvHxK9vCTAIUPMARZj0iHlkFazUlbFIWYwIBH1EFa0UVOhjSN4jiK4jSNvHyLzLyM0HxK9vCTAIUPMARZj0iHlkFazUlbGEVZtIBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHlkFazUlbQIBH1EFa0UVOh.iK2.yMv.CLvDyMwXiMwLyM2HxK9vCTAIUPMARZj0iHlkFazUlbTkGbkIBH1EFa0UVOh.iKvHxK9vyKO0VYmEFQkwVX44C."
+                  currentProgram="0">
+      <PLUGIN name="Omega Delay" format="Built-In" category="Effect" manufacturer="Built-In"
+              version="0.17.4" file="Omega Delay:" uid="86367dc4" isInstrument="0"
+              fileTime="0" infoUpdateTime="0" numInputs="2" numOutputs="2"
+              isShell="0"/>
+    </InsertEffect>
+    <InsertEffect stateInformation="611.VMjLgnk....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOFwVY3UTT9vCTAIUPMARZj0iHnk1YnAUYgslQxUVbh.hcgwVck0iH0.CLv3BLh7hO7.UPRETSfjFY8HBZocFZPUVXqcTXo4lHfXWXrUWY8HBLt.iHu3COPEjTA0DHoQVOhfVZmgFTkE1ZQIBH1EFa0UVOh.iK1jSN4jSN4fCNvbSNvbSLh7hO7.UPRETSfjFY8HBZocFZSgVYrYlQxUVbh.hcgwVck0iH1jiM13RMwjCLzHSN1fyM0HxK9vCTAIUPMARZj0iHnk1YnMEZkwlYGEVZtIBH1EFa0UVOhHiKvHxK9vCTAIUPMARZj0iHnk1YnMEZkwlYQIBH1EFa0UVOh.iK1jSN4jSN4fCNvbSNvbSLh7hO7.UPRETSfjFY8HBaucGTkE1ZFIWYwIBH1EFa0UVOhDCLv.iKvHxK9vCTAIUPMARZj0iHr81cPUVXqcTXo4lHfXWXrUWY8HBLt.iHu3COPEjTA0DHoQVOhv1a2AUYgsVTh.hcgwVck0iHv3hM4jSN4jSN3fCL2jCL2DiHu3COPEjTA0DHoQVOhv1a2MEZkwlYFIWYwIBH1EFa0UVOhDSLv3xL3DSNxbCM4.iLyPCMh7hO7.UPRETSfjFY8HBauc2TnUFalcTXo4lHfXWXrUWY8HhLtjCLv.CLvTyMxHCLzTSNh7hO7.UPRETSfjFY8HBauc2TnUFalEkHfXWXrUWY8HBLtXSN4jSN4jCN3.yM4.yMwHxK9vyKFwVY3UTT9.."
+                  currentProgram="0">
+      <PLUGIN name="FlexEQ" format="Built-In" category="Effect" manufacturer="Built-In"
+              version="0.17.4" file="FlexEQ:" uid="7d94da85" isInstrument="0"
+              fileTime="0" infoUpdateTime="0" numInputs="2" numOutputs="2"
+              isShell="0"/>
+    </InsertEffect>
+  </AudioInserts>
+</AudioFxLane>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<MidiLane title="PolyBox - 4 Layers" lokey="0" hikey="127" lovel="0" hivel="127"
+          keyOffset="0" midiChannel="0" midiConvChannel="0" midiSourceIndex="-1"
+          latchEnabled="0">
+  <MidiVelCurve>
+    <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+  </MidiVelCurve>
+  <MidiInserts>
+    <InsertEffect stateInformation="92.VMjLgLE....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOP8Fa4Iza3ABbu8FaSkldk0iHzHBHlklbyQWSoQVZCgVXt4VYr0iHwHxK9.."
+                  currentProgram="0">
+      <PLUGIN name="PolyBox" format="Built-In" category="MidiEffects" manufacturer="Built-In"
+              version="1.0.10" file="PolyBox:" uid="4b86623f" isInstrument="0"
+              fileTime="0" infoUpdateTime="0" numInputs="0" numOutputs="0"
+              isShell="0"/>
+    </InsertEffect>
+  </MidiInserts>
+</MidiLane>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<AudioFxLane title="Magical DelayVerb" mixLevel="1.0" panPos="0.5" muteState="1">
+  <AudioInserts>
+    <InsertEffect stateInformation="903.VMjLg32....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOO0VYmEFQkwVX44COPEjTA0DHoQVOhHFbsMUdtMlHfXWXrUWY8HRLt.iHu3COPEjTA0DHoQVOhLFZuIWcyYTYkQlXgM1Zh.hcgwVck0iH23BLh7hO7.UPRETSfjFY8HxXn8lb0MWSuQFQkAGcnIBH1EFa0UVOhHSMt.iHu3COPEjTA0DHoQVOhLFZuIWcy0zajYjbkEmHfXWXrUWY8HBLtLiMzXSN3PSN4PCMwDCM1jiHu3COPEjTA0DHoQVOhLFZuIWcy0zajUlHfXWXrUWY8HRLt.iHu3COPEjTA0DHoQVOhLFZuIWcycUYz0TZ3IBH1EFa0UVOhDCLv3BLh7hO7.UPRETSfjFY8HBYkwVX4QUZsUFSh.hcgwVck0iHv3hM3PiLw.SMyfCN1PSLyTyMh7hO7.UPRETSfjFY8HBYkwVX4QUZsUlTh.hcgwVck0iHv3hM3PiLw.SMyfCN1PSLyTyMh7hO7.UPRETSfjFY8HBYoMGcDIWZ1UlHfXWXrUWY8HBLt.iHu3COPEjTA0DHoQVOhPVZyQ2Qgklah.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HBYoMGcSQmbk41YzglHfXWXrUWY8HBLt.iHu3COPEjTA0DHoQVOhPVZyQGU4AWYh.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HBYxklYzETauUmazIBH1EFa0UVOh.iK0HxK9vCTAIUPMARZj0iHjIWdWUFcMkFdh.hcgwVck0iHw.CLt.iHu3COPEjTA0DHoQVOhXlXLUlYzIBH1EFa0UVOhPiLt.iHu3COPEjTA0DHoQVOhXlXM8FYkIBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHlIlTocFZzIBH1EFa0UVOhTiLt.iHu3COPEjTA0DHoQVOhXVZrQWYxYjbkEmHfXWXrUWY8HxLwjyMtXSL3fSN1PCNzLyM0HxK9vCTAIUPMARZj0iHlkFazUlbGEVZtIBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHlkFazUlbQIBH1EFa0UVOh.iK2.yMv.CLvDyMwXiMwLyM2HxK9vCTAIUPMARZj0iHlkFazUlbTkGbkIBH1EFa0UVOh.iKvHxK9vyKO0VYmEFQkwVX44C."
+                  currentProgram="0">
+      <PLUGIN name="Omega Delay" format="Built-In" category="Effect" manufacturer="Built-In"
+              version="0.16.3" file="Omega Delay:" uid="86367dc4" isInstrument="0"
+              fileTime="0" infoUpdateTime="0" numInputs="2" numOutputs="2"
+              isShell="0"/>
+    </InsertEffect>
+    <InsertEffect stateInformation="183.VMjLg3J....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOWEFckImUkImX9vCTAIUPMARZj0iHjIWdWUFcMkFdh.hcgwVck0iHw.CLt.iHu3COPEjTA0DHoQVOhXVYkQlXgM1Zh.hcgwVck0iH1HiK0HxK9vCTAIUPMARZj0iHlkFazUlbFIWYwIBH1EFa0UVOhDiMwXiLt.iHu3COubUXzUlbVUlbh4C."
+                  currentProgram="0">
+      <PLUGIN name="WaterVerb" format="Built-In" category="Effect" manufacturer="Built-In"
+              version="0.16.4" file="WaterVerb:" uid="6aaf22b6" isInstrument="0"
+              fileTime="0" infoUpdateTime="0" numInputs="2" numOutputs="2"
+              isShell="0"/>
+    </InsertEffect>
+  </AudioInserts>
+</AudioFxLane>

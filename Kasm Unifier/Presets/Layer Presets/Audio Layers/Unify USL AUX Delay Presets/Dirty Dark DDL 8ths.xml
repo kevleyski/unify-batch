@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<AudioFxLane title="Dirty Dark DDL 8ths" mixLevel="0.2238721549510956" panPos="0.5"
+             muteState="1">
+  <AudioInserts>
+    <InsertEffect stateInformation="946.VMjLgj5....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOO0VYmEFQkwVX44COPEjTA0DHoQVOhHFbsMUdtMlHfXWXrUWY8HRLt.iHu3COPEjTA0DHoQVOhLFZuIWcyYTYkQlXgM1Zh.hcgwVck0iHzXiKvHxK9vCTAIUPMARZj0iHig1axU2bM8FYDUFbzglHfXWXrUWY8HhLv3BLh7hO7.UPRETSfjFY8HxXn8lb0MWSuQlQxUVbh.hcgwVck0iHv3RM3XiLwDCLxTyMwPCN2PyLh7hO7.UPRETSfjFY8HxXn8lb0MWSuQVYh.hcgwVck0iHw3BLh7hO7.UPRETSfjFY8HxXn8lb0M2UkQWSogmHfXWXrUWY8HxL23BLh7hO7.UPRETSfjFY8HBYkwVX4QUZsUFSh.hcgwVck0iHv3hM3PiLw.SMyfCN1PSLyTyMh7hO7.UPRETSfjFY8HBYkwVX4QUZsUlTh.hcgwVck0iHv3hM3PiLw.SMyfCN1PSLyTyMh7hO7.UPRETSfjFY8HBYoMGcDIWZ1UlHfXWXrUWY8HBLtPiL1biM0XiLvbCL3PiM0XiHu3COPEjTA0DHoQVOhPVZyQ2Qgklah.hcgwVck0iHsDCLtDSNzjSN3bCMwDCM4jiHu3COPEjTA0DHoQVOhPVZyQ2TzIWYtcFcnIBH1EFa0UVOh.iKvbSMvDSM1LCMxjCNyHCM0fiHu3COPEjTA0DHoQVOhPVZyQGU4AWYh.hcgwVck0iHx3BLh7hO7.UPRETSfjFY8HBYxklYzETauUmazIBH1EFa0UVOhHiK0HxK9vCTAIUPMARZj0iHjIWdWUFcMkFdh.hcgwVck0iHw.CLt.iHu3COPEjTA0DHoQVOhXlXLUlYzIBH1EFa0UVOhLSNtTiHu3COPEjTA0DHoQVOhXlXM8FYkIBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHlIlTocFZzIBH1EFa0UVOhLSLtTiHu3COPEjTA0DHoQVOhXVZrQWYxYjbkEmHfXWXrUWY8HhLvLyMtjCN0fyL4fCMybSMh7hO7.UPRETSfjFY8HhYowFckI2Qgklah.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HhYowFckIWTh.hcgwVck0iHv3RM0fyL4HyLzTSNvTyLvPiHu3COPEjTA0DHoQVOhXVZrQWYxQUdvUlHfXWXrUWY8HBLt.iHu3COu7TakcVXDUFagkmO.."
+                  currentProgram="0">
+      <PLUGIN name="Omega Delay" format="Built-In" category="Effect" manufacturer="Built-In"
+              version="0.16.3" file="Omega Delay:" uid="86367dc4" isInstrument="0"
+              fileTime="0" infoUpdateTime="0" numInputs="2" numOutputs="2"
+              isShell="0"/>
+    </InsertEffect>
+  </AudioInserts>
+</AudioFxLane>

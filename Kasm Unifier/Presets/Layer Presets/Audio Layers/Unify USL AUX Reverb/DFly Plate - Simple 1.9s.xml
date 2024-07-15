@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<AudioFxLane title="Dragofly Plate - Simple 1.9s" mixLevel="0.2238720655441284"
+             panPos="0.5" muteState="1">
+  <AudioInserts>
+    <InsertEffect stateInformation="570.CMlaKA....fQBMDZ....APjYPwF.CH......H.............................................................................................................................................................................P.ZZ0PxDRjA...77CdswFH1Ulbyk1at0iHw3BLh.RYtM1ajklam0iHUQkQsfiH+3CH7Pjbgc1atYFa4AEagQWY9vCTAIUPMARZj0iHgw1YI4FYkgmHfXWXrUWY8HBLt.iHu3COPEjTA0DHoQVOhPVXsAWYtIBH1EFa0UVOhXiMzjiKybSMh7hO7.UPRETSfjFY8HBYkMVX4IBH1EFa0UVOhDiK3jSN4jSN4biMwTCNwPiLh7hO7.UPRETSfjFY8HBYxkGSkYWYrIBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHnk1YnMTczIBH1EFa0UVOhDiMv.CLt.iHu3COPEjTA0DHoQVOhv1a2MTczIBH1EFa0UVOhLyMz3hLvLSLxTiHu3COPEjTA0DHoQVOh.mbkQVYrEVdh.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HxckQGSkYWYrIBH1EFa0UVOhDCLv3BLh7hO7.UPRETSfjFY8HxcoQFcnIBH1EFa0UVOhDSMv3BLh7hO77BQxE1Yu4lYrkGTrEFck4C."
+                  currentProgram="0" isBypassed="0">
+      <PLUGIN name="Dragonfly Plate" format="VST" category="Effect" manufacturer="PlugInGuru"
+              version="3.2.0.0" file="/Applications/PlugInGuru/Unify/VST/Dragonfly Plate.vst"
+              uid="4466506c" isInstrument="0" fileTime="171c7a02924" infoUpdateTime="171c7a7dd2e"
+              numInputs="2" numOutputs="2" isShell="0"/>
+    </InsertEffect>
+  </AudioInserts>
+</AudioFxLane>

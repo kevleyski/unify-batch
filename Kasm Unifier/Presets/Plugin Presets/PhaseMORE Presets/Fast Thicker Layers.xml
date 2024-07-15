@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PhaseMORE presetName="Fast Thicker Layers">
+  <Parameters>
+    <PARAM id="depth" value="26.5"/>
+    <PARAM id="feedback" value="-42.5"/>
+    <PARAM id="frequency" value="2250.89208984375"/>
+    <PARAM id="lfoRate" value="1.711671352386475"/>
+    <PARAM id="lfoShape" value="0.5239867568016052"/>
+    <PARAM id="numStages" value="9.0"/>
+    <PARAM id="resonance" value="1.453330039978027"/>
+    <PARAM id="mix"/>
+  </Parameters>
+</PhaseMORE>

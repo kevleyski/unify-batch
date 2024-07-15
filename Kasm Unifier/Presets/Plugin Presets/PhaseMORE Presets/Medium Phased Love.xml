@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PhaseMORE presetName="Medium Phased Love">
+  <Parameters>
+    <PARAM id="depth" value="71.0"/>
+    <PARAM id="feedback" value="49.0"/>
+    <PARAM id="frequency" value="1497.486694335938"/>
+    <PARAM id="lfoRate" value="0.7788857817649841"/>
+    <PARAM id="lfoShape" value="0.5239867568016052"/>
+    <PARAM id="numStages" value="5.0"/>
+    <PARAM id="resonance" value="0.1908459365367889"/>
+    <PARAM id="mix" value="30.0"/>
+  </Parameters>
+</PhaseMORE>

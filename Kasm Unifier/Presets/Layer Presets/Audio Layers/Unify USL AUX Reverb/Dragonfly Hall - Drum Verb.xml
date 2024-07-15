@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<AudioFxLane title="DFH - Drum Verb" mixLevel="0.1778279393911362" panPos="0.5"
+             muteState="1">
+  <AudioInserts>
+    <InsertEffect stateInformation="971.CMlaKA....fQBMDZ....APjYHEF.CD......Y.............................................................................................................................................................................v.qX0PxDhHC...77CdswFH1Ulbyk1at0iHw3BLh.RYtM1ajklam0iHUQkQsfiH+3CH7Pjbgc1atYFa4gTXrwlO7.UPRETSfjFY8HBYkMVX4IBH1EFa0UVOhHiK2bSM4fSNvTSM1LyL0PSMh7hO7.UPRETSfjFY8HBYoYlY0MWYh.hcgwVck0iH1.iKv.CLv.yL3DCM1jyMxbiHu3COPEjTA0DHoQVOhPlb4wTY1UFah.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HRYgIGa4wTY1UFah.hcgwVck0iHxHiKzHCLyDiL3fSLzXSN2LiHu3COPEjTA0DHoQVOhTVXxwVdSUlajIBH1EFa0UVOhHCLt.iHu3COPEjTA0DHoQVOhfVZmg1Px81byIBH1EFa0UVOhDCLv.iKvHxK9vCTAIUPMARZj0iHnk1YnMTczIBH1EFa0UVOhTCN0LiKx.iL1LiM2DCN2TiHu3COPEjTA0DHoQVOhfVZmgVS0wFch.hcgwVck0iHv3hMx.iMvjCMvHiM0XSM0TiLh7hO7.UPRETSfjFY8HBagQWYLUlckwlHfXWXrUWY8HRLv.iKvHxK9vCTAIUPMARZj0iHr81cCI2ayMmHfXWXrUWY8HBN2jiK3jCL1HSMh7hO7.UPRETSfjFY8HBauc2P0QmHfXWXrUWY8HRLvXiKw.yLwLCMwTSMxbyLzHxK9vCTAIUPMARZj0iHr81cMUGazIBH1EFa0UVOh.iK3PyMybSMvLSMxfSM4PSN2HxK9vCTAIUPMARZj0iHs8FY0wVXzk1atIBH1EFa0UVOhDSMtjyM3DiLyXiMzfSM0jiMh7hO7.UPRETSfjFY8HBbxUFYkwVX4IBH1EFa0UVOhPiKvHxK9vCTAIUPMARZj0iHykldkIBH1EFa0UVOhDSNtHCNwHSMh7hO7.UPRETSfjFY8Hxbvklah.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8Hxcg4FYkImHfXWXrUWY8HBMv3BLh7hO7.UPRETSfjFY8HxcoQFcnIBH1EFa0UVOhDCLv3BLh7hO77BQxE1Yu4lYrkGRgwFa9.."
+                  currentProgram="0" isBypassed="0">
+      <PLUGIN name="Dragonfly Hall" format="VST" category="Effect" manufacturer="PlugInGuru"
+              version="3.1.0.0" file="/Applications/PlugInGuru/Unify/VST/Dragonfly Hall.vst"
+              uid="44664861" isInstrument="0" fileTime="171c7a664de" infoUpdateTime="171c7a7dcc2"
+              numInputs="2" numOutputs="2" isShell="0"/>
+    </InsertEffect>
+  </AudioInserts>
+</AudioFxLane>

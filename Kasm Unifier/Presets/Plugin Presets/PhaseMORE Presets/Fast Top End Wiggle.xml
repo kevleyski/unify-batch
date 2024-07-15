@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PhaseMORE presetName="Fast Top End Wiggle">
+  <Parameters>
+    <PARAM id="depth" value="100.0"/>
+    <PARAM id="feedback" value="-33.5"/>
+    <PARAM id="frequency" value="4215.34765625"/>
+    <PARAM id="lfoRate" value="10.0"/>
+    <PARAM id="lfoShape" value="0.5"/>
+    <PARAM id="numStages" value="4.0"/>
+    <PARAM id="resonance" value="4.931299209594727"/>
+    <PARAM id="mix" value="50.0"/>
+  </Parameters>
+</PhaseMORE>

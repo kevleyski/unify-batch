@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<pluginSelections>
-  <PluginSelector descriptiveName="Butch Vig Vocals Mono" pluginFormatName="VST3"/>
-  <PluginSelector descriptiveName="Butch Vig Vocals Stereo" pluginFormatName="VST3"/>
-  <PluginSelector descriptiveName="Choral" pluginFormatName="VST3"/>
-  <PluginSelector descriptiveName="Eric Whitacre Choir" pluginFormatName="VST3"/>
-  <PluginSelector descriptiveName="Eric Whitacre Choir Evo Grid" pluginFormatName="VST3"/>
-</pluginSelections>

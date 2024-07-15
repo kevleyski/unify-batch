@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<AudioFxLane title="Omega Dist Chorused DDL into ZenVerb" mixLevel="0.1258924752473831"
+             panPos="0.5" muteState="1">
+  <AudioInserts>
+    <InsertEffect stateInformation="960.VMjLgb6....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOO0VYmEFQkwVX44COPEjTA0DHoQVOhHFbsMUdtMlHfXWXrUWY8HRLt.iHu3COPEjTA0DHoQVOhLFZuIWcyYTYkQlXgM1Zh.hcgwVck0iHzXiKvHxK9vCTAIUPMARZj0iHig1axU2bM8FYDUFbzglHfXWXrUWY8HhLv3BLh7hO7.UPRETSfjFY8HxXn8lb0MWSuQlQxUVbh.hcgwVck0iHv3hM0HSM2DSNwXSM3.iLv.iLh7hO7.UPRETSfjFY8HxXn8lb0MWSuQVYh.hcgwVck0iHw3BLh7hO7.UPRETSfjFY8HxXn8lb0M2UkQWSogmHfXWXrUWY8HxL23BLh7hO7.UPRETSfjFY8HBYkwVX4QUZsUFSh.hcgwVck0iHv3RMy.iMvDSLzLCNyXSN2TSLh7hO7.UPRETSfjFY8HBYkwVX4QUZsUlTh.hcgwVck0iHv3RMvPCL3TSMz.yM2DCM3PCMh7hO7.UPRETSfjFY8HBYoMGcDIWZ1UlHfXWXrUWY8HBLtHSNzTCLv.SMxjiL3jiLzXiHu3COPEjTA0DHoQVOhPVZyQ2Qgklah.hcgwVck0iHsjiKxHCM1fiM1HiL1DSN1HSNh7hO7.UPRETSfjFY8HBYoMGcSQmbk41YzglHfXWXrUWY8HBLtDSNyXyMwfSN2.SMybSL3XiHu3COPEjTA0DHoQVOhPVZyQGU4AWYh.hcgwVck0iHx3BLh7hO7.UPRETSfjFY8HBYxklYzETauUmazIBH1EFa0UVOhLiKw.CLv.iLxfCN3DCNyTSNh7hO7.UPRETSfjFY8HBYxk2UkQWSogmHfXWXrUWY8HRLv.iKvHxK9vCTAIUPMARZj0iHlIFSkYFch.hcgwVck0iHyTiKvHxK9vCTAIUPMARZj0iHlIVSuQVYh.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HhYhIUZmgFch.hcgwVck0iHyjiK0HxK9vCTAIUPMARZj0iHlkFazUlbFIWYwIBH1EFa0UVOhDSLyjiMtDSN1HCN4.iMxTiHu3COPEjTA0DHoQVOhXVZrQWYxcTXo4lHfXWXrUWY8HBLt.iHu3COPEjTA0DHoQVOhXVZrQWYxEkHfXWXrUWY8HBLtTSM3LSNxLCM0jCL0LCLzHxK9vCTAIUPMARZj0iHlkFazUlbTkGbkIBH1EFa0UVOh.iKvHxK9vyKO0VYmEFQkwVX44C."
+                  currentProgram="0">
+      <PLUGIN name="Omega Delay" format="Built-In" category="Effect" manufacturer="Built-In"
+              version="0.16.3" file="Omega Delay:" uid="86367dc4" isInstrument="0"
+              fileTime="0" infoUpdateTime="0" numInputs="2" numOutputs="2"
+              isShell="0"/>
+    </InsertEffect>
+    <InsertEffect stateInformation="460.VMjLgLb....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOZUlaVUlbh4COPEjTA0DHoQVOhLlbuM2buYWYxgjdh.hcgwVck0iHx.CLt.iHu3COPEjTA0DHoQVOhPVXsAWZtcFR5IBH1EFa0UVOhHCN3fiKvHxK9vCTAIUPMARZj0iHjIWdWUFcMkFdh.hcgwVck0iHx.iK0HxK9vCTAIUPMARZj0iHkEGSkYWYrEiHfXWXrUWY8HBLt.iHu3COPEjTA0DHoQVOhTVbLUlckwlLh.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HRYwIUXtcVYwfjdh.hcgwVck0iHyDSMt.iHu3COPEjTA0DHoQVOhTVbRElamUlLHomHfXWXrUWY8HRL0.CLt.iHu3COPEjTA0DHoQVOhv1a2IUYrUVXyUlHfXWXrUWY8HxMtjCLv.CLv.SN0LiM2PyLxHxK9vCTAIUPMARZj0iHskFYRUFakE1bkIBH1EFa0UVOhTiK0jSN4jSN4.CM1LiL0XCNh7hO7.UPRETSfjFY8HBbxUFQkwVX4IBH1EFa0UVOhXCLt.iHu3COunUYtYUYxIlO.."
+                  currentProgram="0">
+      <PLUGIN name="ZenVerb" format="Built-In" category="Effect" manufacturer="Built-In"
+              version="0.19.4" file="ZenVerb:" uid="4b810642" isInstrument="0"
+              fileTime="0" infoUpdateTime="0" numInputs="2" numOutputs="2"
+              isShell="0"/>
+    </InsertEffect>
+  </AudioInserts>
+</AudioFxLane>

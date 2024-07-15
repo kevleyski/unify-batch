@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Layer layerTitle="Digits PAD Synth" mixLevel="1.0" panPos="0.5" muteState="1"
+       lokey="0" hikey="127" lovel="0" hivel="127" keyOffset="0" midiChannel="0"
+       midiSourceIndex="-1" latchEnabled="0" directSendLevel="1.0" fxSendLevel1="1.0"
+       fxSendLevel2="1.0" fxSendLevel3="1.0" fxSendLevel4="1.0">
+  <Instrument stateInformation="1166.CMlaKA....fQBMDZ....AvzQPQF...P......B............................................................................................................................................................................v.tGf.OEyTqU1c......vSwLEZv0zajA....nOOIyTqU1c......vSxLEZv0zajA....nOMkFd.....7iTkMWYz8zbiMG......HUYy8lUuwF......HUYy81UgYWY......PPsAWPzQG....f9DTavQTYiAC......DTavMUcyA....3OA0FbFEFYkA....3OA0FbDU1X.7Rn83yTnAWPzQG.2KgV9LEZvQTYiAC......LEZvMUcyA....3OSgFbFEFYkA......SgFbDU1X.DsWB6yTnAWSo4F.lYTu9LEZv0TX3AfbbbzOF0D......PTYzUmakAvFPxhOC8VXxMWY.....5iPgMWZycUX1UF.......UcrMWYWkFYzgF.iHBZ8XUYrMEZgAWYxA......VUFaV8Fa00VY.....9SSuQ1TnEFbkIG.ZlAm9zzajwjQOESPsAG......DDUSgVXvUlb......PPTwjQOESPsAG......vjQOIUXzUF.43337vjQOQUdvUF......vjQOQTYrEVd.......SF8jTkAWYgQG....f+vjQOMEZvA......LYzSA0Fb.......SF8jQxUVb.......SF8DTW0D......vjQOIiTgQWY.......SF8jLTkGbkA......LYzSxPTYrEVd.......SF8jLRUFbkEFc.......SF8jLSgFb.......SF8jLA0Fb.......SF8jLFIWYwA......LYzSx.0UMA......LYzSyHUXzUF......vjQOMCU4AWY.......SF8zLDUFagkG......vjQOMiTkAWYgQG......vjQOMyTnAG......vjQOMSPsAG......vjQOMiQxUVb.......SF8zLPcUS......PUtk1bu4F.Cl8T9PTYr0BS..drY6CQkwVKRAfgJ6vODUFaWUFc.7kP66CQkwlQBAf1KZtODUFaL81byAvQn5vOCglbREFckA.EtnsOCglbDUFbzgF....f+LDZxQTZxQG.BWK.+LDZxQ0atUF.dTHc+LDZxcUYzA......CglbFwVXtcF......HTZzQTZ1A.bcQyOBkFcBkFcyAPgqOpOBkFcWUFc.......SuM1ZSgVXvUlbAQG......XTZrQWYxIUYy8F......XTZrQWYx0zajUF......zzat8VSuQVY.......TuIGcgMEbjA......A0FbREFckM0XgwVY......vTnAmTgQWYSMVXrUF......LEZvwTY1M0XgwVY.......ThUlajUEb.rpppzCThUlajQja.rpppzyQgkla.Pe+z7C"
+              currentProgram="6">
+    <PLUGIN name="Digits" format="VST" category="Synth" manufacturer="Extent of the Jam"
+            version="1.0.0.0" file="/Users/johnlehmkuhl/Documents/PlugInGuru/Unify/VST/Digits.vst"
+            uid="4c475064" isInstrument="1" fileTime="157c6bebee0" infoUpdateTime="16cb5945e68"
+            numInputs="0" numOutputs="2" isShell="0"/>
+  </Instrument>
+  <MidiVelCurve>
+    <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+  </MidiVelCurve>
+  <MidiInserts/>
+  <AudioInserts/>
+</Layer>

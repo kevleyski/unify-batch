@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<AudioFxLane title="Short Dark Room" mixLevel="0.1883648931980133" panPos="0.5"
+             muteState="1">
+  <AudioInserts>
+    <InsertEffect stateInformation="384.VMjLgbW....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOE0lUkImX9vCTAIUPMARZj0iHhElajcWZjQGZh.hcgwVck0iHv3RMh7hO7.UPRETSfjFY8HBYg0Fbo41Yh.hcgwVck0iHv3xM4jSN4jSN0HyLwXiL3PiLh7hO7.UPRETSfjFY8HBYkMVX4IBH1EFa0UVOh.iKxTiHu3COPEjTA0DHoQVOhPVYtMWZzkmHfXWXrUWY8HBLtfCM4jSN4jiMzHyL2HSLyDiHu3COPEjTA0DHoQVOhPlb4cUYz0TZ3IBH1EFa0UVOhDiKvHxK9vCTAIUPMARZj0iHkElbrkGSgQWYMkFdh.hcgwVck0iHv3RMh7hO7.UPRETSfjFY8HBbxUFYkwVX4IBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHx81asMUZ5UlHfXWXrUWY8HBLtXCNv.CLv.CL2DSMxTSM2PiHu3COuTTaVUlbh4C."
+                  currentProgram="0">
+      <PLUGIN name="EmVerb" format="Built-In" category="Effect" manufacturer="Built-In"
+              version="0.16.3" file="EmVerb:" uid="7be70607" isInstrument="0"
+              fileTime="0" infoUpdateTime="0" numInputs="2" numOutputs="2"
+              isShell="0"/>
+    </InsertEffect>
+  </AudioInserts>
+</AudioFxLane>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Layer layerTitle="Just MIDI Monitor" mixLevel="1.0" panPos="0.5" muteState="1"
+       midiDisabled="0" midiChannel="0" midiConvChannel="0" midiSourceIndex="-1"
+       lovel="0" hivel="127" keyOffset="0" outputBusIndex="-1" lokey="0"
+       hikey="127" loFadeKey="0" hiFadeKey="127" loFadeCurvature="0.0"
+       hiFadeCurvature="0.0" latchEnabled="0" directSendLevel="1.0"
+       fxSendLevel1="0.0" fxSendLevel2="0.0" fxSendLevel3="0.0" fxSendLevel4="0.0">
+  <Instrument stateInformation="0." currentProgram="0">
+    <PLUGIN name="MIDI Monitor" format="Built-In" category="Synth" manufacturer="Built-In"
+            version="1.2.0" file="MIDI Monitor:" uid="99ba5b3b" isInstrument="1"
+            fileTime="0" infoUpdateTime="0" numInputs="2" numOutputs="2"
+            isShell="0"/>
+  </Instrument>
+  <MidiVelCurve>
+    <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+  </MidiVelCurve>
+  <MidiInserts/>
+  <AudioInserts/>
+</Layer>

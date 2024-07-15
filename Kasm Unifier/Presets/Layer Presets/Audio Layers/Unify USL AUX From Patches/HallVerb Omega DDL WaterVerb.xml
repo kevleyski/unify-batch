@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<AudioFxLane title="RVB - HallVerb-Omega DDL-WaterVerb" mixLevel="0.6683439016342163"
+             panPos="0.5" muteState="1">
+  <AudioInserts>
+    <InsertEffect stateInformation="228.CMlaKA....fQ3IzZ....AzFYgED...P.....A...........................................................................................................................................................................CMlaKA....fQ3MzZ....AzFYgED...P.....DLUagwFafLEbgMVYfDTahkVYtMVY..........vOyLyL+LyLy7iYlY1O...."
+                  currentProgram="0">
+      <PLUGIN name="mdaAmbience" descriptiveName="mda Ambience" format="VST"
+              category="Effect" manufacturer="mda" version="1.0.0.0" file="/Users/shane/Documents/PlugInGuru/Unify/VST/mda/mdaAmbience.vst"
+              uid="6d646141" isInstrument="0" fileTime="16c7ca61e44" infoUpdateTime="16cb5945d08"
+              numInputs="2" numOutputs="2" isShell="0"/>
+    </InsertEffect>
+    <InsertEffect stateInformation="286.VMjLgTQ....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOHEFarYUYxIlO7.UPRETSfjFY8HBYg0Fbo41Yh.hcgwVck0iHv3RMh7hO7.UPRETSfjFY8HBYxkGSkYWYrIBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHlIWYkoWYM8FYkIBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHx81asMUZ5UlHfXWXrUWY8HBLtTiHu3COPEjTA0DHoQVOhbWYzwTY1UFah.hcgwVck0iHv3xLy.CLv.CLwLSLwLCLxDSNh7hO7.UPRETSfjFY8HxcoQFcnIBH1EFa0UVOhDiKvHxK9vyKHEFarYUYxIlO.."
+                  currentProgram="0">
+      <PLUGIN name="HallVerb" format="Built-In" category="Effect" manufacturer="Built-In"
+              version="0.16.3" file="HallVerb:" uid="f70118" isInstrument="0"
+              fileTime="0" infoUpdateTime="0" numInputs="2" numOutputs="2"
+              isShell="0"/>
+    </InsertEffect>
+    <InsertEffect stateInformation="898.VMjLgj2....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOO0VYmEFQkwVX44COPEjTA0DHoQVOhHFbsMUdtMlHfXWXrUWY8HRLt.iHu3COPEjTA0DHoQVOhLFZuIWcyYTYkQlXgM1Zh.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HxXn8lb0MWSuQFQkAGcnIBH1EFa0UVOhHCLt.iHu3COPEjTA0DHoQVOhLFZuIWcy0zajYjbkEmHfXWXrUWY8HRLt.iHu3COPEjTA0DHoQVOhLFZuIWcy0zajUlHfXWXrUWY8HBLt.iHu3COPEjTA0DHoQVOhLFZuIWcycUYz0TZ3IBH1EFa0UVOhTCLt.iHu3COPEjTA0DHoQVOhPVYrEVdTkVakwjHfXWXrUWY8HBLtXCNzHSLvTyL3fiMzDyL0biHu3COPEjTA0DHoQVOhPVYrEVdTkVakIkHfXWXrUWY8HBLtXCNzHSLvTyL3fiMzDyL0biHu3COPEjTA0DHoQVOhPVZyQGQxklckIBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHjk1bzcTXo4lHfXWXrUWY8HBLt.iHu3COPEjTA0DHoQVOhPVZyQ2TzIWYtcFcnIBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHjk1bzQUdvUlHfXWXrUWY8HBLt.iHu3COPEjTA0DHoQVOhPlboYFcA01a04Fch.hcgwVck0iHw3xMv.CLv.yM1HSNyjCM0LiHu3COPEjTA0DHoQVOhPlb4cUYz0TZ3IBH1EFa0UVOhTCLt.iHu3COPEjTA0DHoQVOhXlXLUlYzIBH1EFa0UVOhLyMtTiHu3COPEjTA0DHoQVOhXlXM8FYkIBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHlIlTocFZzIBH1EFa0UVOhLSNt.iHu3COPEjTA0DHoQVOhXVZrQWYxYjbkEmHfXWXrUWY8HRN4jSNtjSN4.iLyPyL2TiHu3COPEjTA0DHoQVOhXVZrQWYxcTXo4lHfXWXrUWY8HBLt.iHu3COPEjTA0DHoQVOhXVZrQWYxEkHfXWXrUWY8HBLtbCL2.CLv.SL2DiM1DyL2biHu3COPEjTA0DHoQVOhXVZrQWYxQUdvUlHfXWXrUWY8HBLt.iHu3COu7TakcVXDUFagkmO.."
+                  currentProgram="0">
+      <PLUGIN name="Omega Delay" format="Built-In" category="Effect" manufacturer="Built-In"
+              version="0.16.3" file="Omega Delay:" uid="86367dc4" isInstrument="0"
+              fileTime="0" infoUpdateTime="0" numInputs="2" numOutputs="2"
+              isShell="0"/>
+    </InsertEffect>
+    <InsertEffect stateInformation="182.VMjLgzJ....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOWEFckImUkImX9vCTAIUPMARZj0iHjIWdWUFcMkFdh.hcgwVck0iH0.iKvHxK9vCTAIUPMARZj0iHlUVYjIVXislHfXWXrUWY8HxMv3BLh7hO7.UPRETSfjFY8HhYowFckImQxUVbh.hcgwVck0iHw.CLv.iKvHxK9vyKWEFckImUkImX9.."
+                  currentProgram="0">
+      <PLUGIN name="WaterVerb" format="Built-In" category="Effect" manufacturer="Built-In"
+              version="0.16.3" file="WaterVerb:" uid="6aaf22b6" isInstrument="0"
+              fileTime="0" infoUpdateTime="0" numInputs="2" numOutputs="2"
+              isShell="0"/>
+    </InsertEffect>
+  </AudioInserts>
+</AudioFxLane>

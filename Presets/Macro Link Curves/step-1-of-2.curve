@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<curve>
-<Segment fxMin="0.000000" fxMax="0.500000" fyMin="1.000000" fyMax="1.000000" curvature="0.000000"/>
-<Segment fxMin="0.500000" fxMax="0.500000" fyMin="1.000000" fyMax="0.000000" curvature="0.000000"/>
-<Segment fxMin="0.500000" fxMax="1.000000" fyMin="0.000000" fyMax="0.000000" curvature="0.000000"/>
-</curve>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PhaseMORE presetName="Medium and Vivid">
+  <Parameters>
+    <PARAM id="depth" value="50.0"/>
+    <PARAM id="feedback" value="35.0"/>
+    <PARAM id="frequency" value="1745.140625"/>
+    <PARAM id="lfoRate" value="0.2443356961011887"/>
+    <PARAM id="lfoShape" value="0.4999843239784241"/>
+    <PARAM id="numStages" value="3.0"/>
+    <PARAM id="resonance" value="1.015490531921387"/>
+    <PARAM id="mix" value="30.0"/>
+  </Parameters>
+</PhaseMORE>

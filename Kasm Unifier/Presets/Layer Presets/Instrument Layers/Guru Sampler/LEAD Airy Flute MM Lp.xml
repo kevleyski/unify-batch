@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Layer layerTitle="LEAD Airy Flute MM Lp" mixLevel="1.0" panPos="0.5"
+       muteState="1" lokey="0" hikey="127" lovel="0" hivel="127" keyOffset="0"
+       midiChannel="0" midiConvChannel="0" midiSourceIndex="-1" latchEnabled="0"
+       directSendLevel="1.0" fxSendLevel1="1.0" fxSendLevel2="1.0" fxSendLevel3="1.0"
+       fxSendLevel4="1.0">
+  <Instrument stateInformation="1969.VMjLgf5A...O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOGUmb0MUXsAGakIGHvElbg0lUkI2bo8la8HhLh.xayMVLLklXxElb44TXsUVOhTkaoYVdfLEcg4FYgIGYfvTZhIWXxkmHf71biEyTg0FbrUlQuwFYkIWOhzTYmEVSgcVZiAhPkwFayARXtQFHWklajMGHLkDUEIBHuM2XwLUXsAGakMUYz0iHWkjSDARKfXDa0QWYfLCHLAmHf71biEyTg0FbrUVSgAWRtQVY30iHsDiH9vCTAIUPMARZj0iHv8Fa4AGZu4Vdh.hcgwVck0iH1PiKvHxK9vCTAIUPMARZj0iHsE1bzUlbLUlckwlHfXWXrUWY8HRLv.iKvHxK9vCTAIUPMARZj0iHvIVUvMUYsklHfXWXrUWY8HhLt.iHu3COPEjTA0DHoQVOh.mXD41Tk0VZh.hcgwVck0iHsHiKvHxK9vCTAIUPMARZj0iHg0FbVUFaSUlayIBH1EFa0UVOhTSNtHiMvjyLxjiLxLiMyHCNh7hO7.UPRETSfjFY8HhYowFckImUkw1Tk41bh.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HBal81UgYWYl8lbsIBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHrY1aVElboEFco8lah.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HBal8lTgQWYh.hcgwVck0iHy3RN3DSM4jyLy.SNvHSLh7hO7.UPRETSfjFY8HBal8FToQ2XnQTYvQGZh.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HBal81P0Q2alYFQkAGcnIBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHscGToQ2XnQTYvQGZh.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HRa2MTcz8lYlQTYvQGZh.hcgwVck0iHsfiK0HCM4jyL3jiMzfCMybSMh7hO7.UPRETSfjFY8HRa2wjYuAUZzMFZDUFbzglHfXWXrUWY8HBLtfyM2PCN2DCNxXSL2DCN2TiHu3COPEjTA0DHoQVOhz1cLY1aCUGcuYlYDUFbzglHfXWXrUWY8HBLt.iHu3COPEjTA0DHoQVOh71biECToQ2XnEDam8lHfXWXrUWY8HBLt.iHu3COPEjTA0DHoQVOh71biEyTnklYzIBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHuM2Xw.UZzMFZh.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HxayMVLC8VXxMWYh.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HxayMVLDUFc04VYh.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8Hxbg0FbrU1TzElbzIBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHyEVavwVYSQWXxQmUgImHfXWXrUWY8HBLt.iHu3COPEjTA0DHoQVOhXVZrQWYxQUdvUlHfXWXrUWY8HRLt.iHu3COPEjTA0DHoQVOhXVZrQWYxMEcgcVYyIBH1EFa0UVOhDiKvHxK9vCTAIUPMARZj0iHlkFazUlbGEVZtIBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHlkFazUlbCUGcuYlYh.hcgwVck0iH0.iLv3BN4bCM1.SNybSMh7hO7.UPRETSfjFY8HhYowFckImUkw1P0Q2alYlHfXWXrUWY8HxM43xLxPSN4XSNzfiLzHSL4HxK9vCTAIUPMARZj0iHlkFazUlbRU1bh.hcgwVck0iHwfiKvPCN2PSN4HyL2.iMvTiHu3COPEjTA0DHoQVOhXVZrQWYxUja1ETazIBH1EFa0UVOhDCLyTSLtTiMxTiHu3COPEjTA0DHoQVOhXVZrQWYxsTY4QkbqIBH1EFa0UVOhXCLt.iHu3COPEjTA0DHoQVOhDVavEDczE1XqIBH1EFa0UVOh.iKv.CMzbiMxPiL1jCN2HSNvLCNh7hO7.UPRETSfjFY8HRXsAGQkMVX4IBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHg0FbSU2bzEVZtIBH1EFa0UVOhDCLv3BLh7hO7.UPRETSfjFY8HRXsAmTkwVYgMWYh.hcgwVck0iHv3RLzDyL3PiMyDyL4TyLzHxK9vCTAIUPMARZj0iHlwFcAQGcgM1Zh.hcgwVck0iHv3xLzHSNwXSMzfiL0HSLvTyMh7hO7.UPRETSfjFY8HhYrQGQkMVX4IBH1EFa0UVOh.iK1XSLwjSL4PCLy.yM1DyMxHxK9vCTAIUPMARZj0iHlwFcSU2bzEVZtIBH1EFa0UVOhXiKxTyLwHCM2DyL3jyM2.SMh7hO7.UPRETSfjFY8HhYrQmTkwVYgMWYh.hcgwVck0iH43BLh7hO7.UPRETSfjFY8HxYrkFYkMUYiAUYx8zXzElckIBH1EFa0UVOh.iKvLyL0PiL2jyLxPCMwHyLzXiHu3COPEjTA0DHoQVOhz1cLE1YSU1Xh7hO7.UPRETSfjFY8HxayMVLV8VZiUVSuQVYh.hcgwVck0iHx3BLh7hO7.UPRETSfjFY8HBbhwTXmMUYiIxK9vyKGUmb0MUXsAGakImO.."
+              currentProgram="0">
+    <PLUGIN name="Guru Sampler" format="Built-In" category="Synth" manufacturer="Built-In"
+            version="0.16.3" file="Guru Sampler:" uid="894b1e99" isInstrument="1"
+            fileTime="0" infoUpdateTime="0" numInputs="0" numOutputs="2"
+            isShell="0"/>
+  </Instrument>
+  <MidiVelCurve>
+    <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="-1.050000071525574"/>
+  </MidiVelCurve>
+  <MidiInserts/>
+  <AudioInserts>
+    <InsertEffect stateInformation="607.VMjLgXk....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOFwVY3UTT9vCTAIUPMARZj0iHnk1YnAUYgslQxUVbh.hcgwVck0iH1HSMx3BN2jCN3HCNwHSMh7hO7.UPRETSfjFY8HBZocFZPUVXqcTXo4lHfXWXrUWY8HRMtbCLv.CLvbiMxjyL4PSMyHxK9vCTAIUPMARZj0iHnk1YnAUYgsVTh.hcgwVck0iHv3hM4jSN4jSN3fCL2jCL2DiHu3COPEjTA0DHoQVOhfVZmg1TnUFalYjbkEmHfXWXrUWY8HRN4jSNtjSN4.iLyPyL2TiHu3COPEjTA0DHoQVOhfVZmg1TnUFalcTXo4lHfXWXrUWY8HRNt.iHu3COPEjTA0DHoQVOhfVZmg1TnUFalEkHfXWXrUWY8HBLtXSN4jSN4jCN3.yM4.yMwHxK9vCTAIUPMARZj0iHr81cPUVXqYjbkEmHfXWXrUWY8HRLv.CLt.iHu3COPEjTA0DHoQVOhv1a2AUYgs1Qgklah.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HBaucGTkE1ZQIBH1EFa0UVOh.iK1jSN4jSN4fCNvbSNvbSLh7hO7.UPRETSfjFY8HBauc2TnUFalYjbkEmHfXWXrUWY8HhLv3BLh7hO7.UPRETSfjFY8HBauc2TnUFalcTXo4lHfXWXrUWY8HBLt.iHu3COPEjTA0DHoQVOhv1a2MEZkwlYQIBH1EFa0UVOh.iK1jSN4jSN4fCNvbSNvbSLh7hO77hQrUFdEEkO.."
+                  currentProgram="0" isBypassed="0">
+      <PLUGIN name="FlexEQ" format="Built-In" category="Effect" manufacturer="Built-In"
+              version="0.18.1" file="FlexEQ:" uid="7d94da85" isInstrument="0"
+              fileTime="0" infoUpdateTime="0" numInputs="2" numOutputs="2"
+              isShell="0"/>
+    </InsertEffect>
+    <InsertEffect stateInformation="949.CMlaKA....fQBMDZ....AfDSKYD.AD......ATlai8FYo41Y8HRUTYTK3HxO9.BOFwVY3UTT9vCTAIUPMARZj0iHnk1YnAUYgslQxUVbh.hcgwVck0iH1HSMx3BN2jCN3HCNwHSMh7hO7.UPRETSfjFY8HBZocFZPUVXqcTXo4lHfXWXrUWY8HRMtbCLv.CLvbiMxjyL4PSMyHxK..v.UX0PxDBCC...77CdswFH1Ulbyk1at0iHw3BLh.RYtM1ajklam0iHUQkQsfiH+3CH7LzatY2arUGco8laf.Ga0cVZtYUYxMWZu4VOhDiKw3BLh.xckQ2St0iHwHBH2UFcDU1XoIVYrMWOhzRLv3RMxbyM2.SN4XCL4LyM0HBHjIWdO4VOhDiHfPlb4QTYiklXkw1b8HBLt.iHfDVcz81QgklaO4VOhDiHfTVbL81cTkGbk0iHCUGch.RYwwza2MTczYjbkEWOh.iKvHBHkEGSuc2TnUFalYjbkEWOhHCLt.iHfTVbL81cSgVYrYFQkMVZhUFay0iHv3BLh.RYwgTZmgFU4AWY8HxP0QmHfTVbHk1YnMTczYjbkEWOhHCLv.CLt.iHfTVbHk1YnMEZkwlYFIWYw0iHx.CLv.iKvHBHkEGRocFZSgVYrYFQkMVZhUFay0iHv3BLh.RZxITYmkla8HBLt.iHfjlbE4FY8HRLt.iHfLGcxUFcigVOhDiKvHBHvIWYjUFagkWSy0iHv3BLh.RXzQWXisFSk41YzgVOh.iKvHBHgQGcgM1ZSgVXvUVOh.iKvHBHjU1Xgk2TnEFbk0iHv3BLh.xbzUlbk81UoQFcn0iHw3BLh.hbkYWYxMWY8HBLh3COI0Fb0w1bkIUYyA2atMWYfjlavUGc8HBLh.xa0QGb0QWOh.iHfXVZrUVOhTkaoYVdfLEcg4FYgIGYfvTZhIWXxk2KI0Fb0w1bkAhTkMGbu41bkM2KA0lXoYUYxI1Kv3BNf3zaooWYfH0au0lK2Elch.RctklY4AUXzgVOhDiHfXVZrU1PnElatUFa8HBLh7hO7jTavUGayUlTkMGbu41bkARZtAWcz0iHwHBHuUGcvUGc8HRLh.hYowVY8HRUtklY4AxTzElajElbjABSoIlbgIWdujTavUGayUFHRU1bv8layU1buDTahklUkImXu.iK3.hSukldkAhTu8VatbWX1IBH04VZlkGTgQGZ8HRLh.hYowVYCgVXt4VYr0iHwHxK9vyKC8la18Fa0QWZu4lO.."
+                  currentProgram="0" isBypassed="1">
+      <PLUGIN name="KlangFalter" format="VST" category="Effect" manufacturer="HiFi-LoFi"
+              version="1.0.0.0" file="/Users/Shared/PlugInGuru/Unify/VST/KlangFalter.vst"
+              uid="484c4b46" isInstrument="0" fileTime="16d37b3b820" infoUpdateTime="16d37b4e175"
+              numInputs="2" numOutputs="2" isShell="0"/>
+    </InsertEffect>
+  </AudioInserts>
+</Layer>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<pluginSelections>
-  <PluginSelector descriptiveName="Keyscape" pluginFormatName="VST"/>
-  <PluginSelector descriptiveName="Omnisphere" pluginFormatName="VST"/>
-  <PluginSelector descriptiveName="Stylus RMX" pluginFormatName="VST3"/>
-  <PluginSelector descriptiveName="StylusRMX" pluginFormatName="VST"/>
-  <PluginSelector descriptiveName="Trilian" pluginFormatName="VST"/>
-</pluginSelections>
