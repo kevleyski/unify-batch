@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pluginSelections>
+  <PluginSelector descriptiveName="ADSR Sample Manager" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Bilbao (Sampler)" pluginFormatName="AudioUnit"/>
+  <PluginSelector descriptiveName="DecentSampler" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Guru Sampler" pluginFormatName="Built-In"/>
+  <PluginSelector descriptiveName="HALion 7" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="HY-Slicer2" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Kontakt 7" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="MRhythmizer" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Sydney (Sampler)" pluginFormatName="AudioUnit"/>
+  <PluginSelector descriptiveName="Vancouver (Sample)" pluginFormatName="AudioUnit"/>
+</pluginSelections>

@@ -2,12 +2,26 @@
 
 <pluginSelections>
   <PluginSelector descriptiveName="Diva" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="FabFilter Twin 3" pluginFormatName="VST"/>
+  <PluginSelector descriptiveName="Farfisa V" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="FM8" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Jun-6 V" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Jup-8 V4" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Lush 2" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="M1" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="MiniFreak V" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="miniKORG" pluginFormatName="VST3"/>
   <PluginSelector descriptiveName="Omnisphere" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="OP-X PRO-3" pluginFormatName="AudioUnit"/>
+  <PluginSelector descriptiveName="OP-Xa V" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="Serum" pluginFormatName="VST3"/>
   <PluginSelector descriptiveName="Surge XT" pluginFormatName="VST3"/>
   <PluginSelector descriptiveName="Sylenth1" pluginFormatName="VST3"/>
   <PluginSelector descriptiveName="Synth1" pluginFormatName="AudioUnit"/>
+  <PluginSelector descriptiveName="TAL-NoiseMaker" pluginFormatName="VST3"/>
   <PluginSelector descriptiveName="Vital" pluginFormatName="VST3"/>
   <PluginSelector descriptiveName="VOX Continental V2" pluginFormatName="VST3"/>
+  <PluginSelector descriptiveName="WAVESTATION" pluginFormatName="VST3"/>
   <PluginSelector descriptiveName="Zebra2" pluginFormatName="VST3"/>
   <PluginSelector descriptiveName="ZebraHZ" pluginFormatName="VST3"/>
   <PluginSelector descriptiveName="Zebralette3" pluginFormatName="VST3"/>
