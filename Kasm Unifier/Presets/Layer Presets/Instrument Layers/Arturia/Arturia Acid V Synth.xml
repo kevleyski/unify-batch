@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<Layer layerTitle="Arturia Pigmnets Synth" colour="ff0b362c" mixLevel="1.00000011920929"
+<Layer layerTitle="Arturia Acid V Synth" colour="ff0b362c" mixLevel="1.00000011920929"
        panPos="0.5" muteState="1" midiDisabled="0" midiChannel="0" midiConvChannel="0"
        midiSourceIndex="-1" lovel="0" hivel="127" keyOffset="0" lokey="0"
        hikey="127" loFadeKey="0" hiFadeKey="127" loFadeCurvature="0.0"
