@@ -80,8 +80,11 @@ namespace BinaryData
     extern const char*   One_Lush2_Layer_xml;
     const int            One_Lush2_Layer_xmlSize = 220373;
 
+    extern const char*   One_Arturia_Acid_V_Layer_xml;
+    const int            One_Arturia_Acid_V_Layer_xmlSize = 211249;
+
     // Number of elements in the namedResourceList and originalFileNames arrays.
-    const int namedResourceListSize = 24;
+    const int namedResourceListSize = 25;
 
     // Points to the start of a list of resource names.
     extern const char* namedResourceList[];

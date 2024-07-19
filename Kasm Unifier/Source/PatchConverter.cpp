@@ -57,6 +57,7 @@ PatchConverter::PatchConverter()
     unifyPatchXml_SurgeXT = parseXML(BinaryData::One_SurgeXT_Layer_xml);
     unifyPatchXml_Sylenth1 = parseXML(BinaryData::One_Sylenth1_Layer_xml);
     unifyPatchXml_Softube_Modular = parseXML(BinaryData::One_Softube_Modular_Layer_xml);
+    unifyPatchXml_Arturia_AcidV = parseXML(BinaryData::One_Arturia_Acid_V_Layer_xml);
     //test();
 }
 
@@ -294,9 +295,16 @@ XmlElement* PatchConverter::processPresetFile(File inFile, String& newPatchNameO
         patchXml = new XmlElement(*unifyPatchXml_Twin3);
         commentString = "Factory presets by FabFilter converted for Unify (Kasm)";
     } else if (patchFile.indexOf("serial") >= 0) {
-        // Arturia Pigments Synth
-        patchXml = new XmlElement(*unifyPatchXml_Pigments);
-        commentString = "Factory presets by Arturia converted for Unify (Kasm)";
+        // Arturia Instrument Patches
+        if (patchFile.indexOf("Distortion_PostEQ_ParamEq_Cutoff4") >= 0) {
+            // Arturia Acid V Synth
+            patchXml = new XmlElement(*unifyPatchXml_Arturia_AcidV);
+            commentString = "Factory presets by Arturia converted for Unify (Kasm)";
+        } else {
+            // Arturia Pigments Synth
+            patchXml = new XmlElement(*unifyPatchXml_Pigments);
+            commentString = "Factory presets by Arturia converted for Unify (Kasm)";
+        }
     } else if (presetExtension.indexOf("nki") >= 0) {
         // Native Instrument
         patchXml = new XmlElement(*unifyPatchXml_Kontakt);
