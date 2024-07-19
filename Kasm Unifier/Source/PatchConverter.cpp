@@ -321,10 +321,10 @@ XmlElement* PatchConverter::processPresetFile(File inFile, String& newPatchNameO
         // Unfiltered Audio
         if (patchFile.indexOf("drum1distortenv1") >= 0) {
             patchXml = new XmlElement(*unifyPatchXml_Battalion_Patch);
-            commentString = "Factory presets by Unified Plugins converted for Unify (Kasm)";
+            commentString = "Factory presets by Unfiltered Audio converted for Unify (Kasm)";
         } else {
             patchXml = new XmlElement(*unifyPatchXml_Lion_Patch);
-            commentString = "Factory presets by Unified Plugins converted for Unify (Kasm)";
+            commentString = "Factory presets by Unfiltered Audio converted for Unify (Kasm)";
         }
     } else if (presetExtension.indexOf("nksf") >= 0) {
         // Native Instruments Massive X Synth
