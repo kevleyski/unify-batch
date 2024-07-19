@@ -32,9 +32,9 @@
       <FILE id="XGv97B" name="One Omnisphere Patch Layer.xml" compile="0"
             resource="1" file="Assets/Omnisphere/One Omnisphere Patch Layer.xml"/>
       <FILE id="XGv97A" name="One Battalion Layer.xml" compile="0" resource="1"
-            file="Assets/Unified Audio/Battalion/One Battalion Layer.xml"/>
+            file="Assets/Unfiltered Audio/Battalion/One Battalion Layer.xml"/>
       <FILE id="XGv96F" name="One Lion Layer.xml" compile="0" resource="1"
-            file="Assets/Unified Audio/Lion/One Lion Layer.xml"/>
+            file="Assets/Unfiltered Audio/Lion/One Lion Layer.xml"/>
       <FILE id="XGv96E" name="One Massive X Layer.xml" compile="0" resource="1"
             file="Assets/Native Instruments/Massive X/One Massive X Layer.xml"/>
       <FILE id="XGv96F" name="One Decent Sampler Layer.xml" compile="0" resource="1"

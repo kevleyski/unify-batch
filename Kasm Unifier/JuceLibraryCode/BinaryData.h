@@ -48,7 +48,7 @@ namespace BinaryData
     const int            One_Omnisphere_Patch_Layer_xmlSize = 653388;
 
     extern const char*   One_Battalion_Layer_xml;
-    const int            One_Battalion_Layer_xmlSize = 299285;
+    const int            One_Battalion_Layer_xmlSize = 301444;
 
     extern const char*   One_Lion_Layer_xml;
     const int            One_Lion_Layer_xmlSize = 32634;
@@ -81,7 +81,7 @@ namespace BinaryData
     const int            One_Lush2_Layer_xmlSize = 220373;
 
     extern const char*   One_Arturia_Acid_V_Layer_xml;
-    const int            One_Arturia_Acid_V_Layer_xmlSize = 211249;
+    const int            One_Arturia_Acid_V_Layer_xmlSize = 211247;
 
     // Number of elements in the namedResourceList and originalFileNames arrays.
     const int namedResourceListSize = 25;

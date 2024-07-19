@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LIONSETTINGS Attack="0.0" AttackScaled="0.002000000094994903" Attack_Curve="0.2000000029802322"
+              Attack_CurveScaled="-3.600000143051147" BYOMEMix="1.0" BYOMEMixScaled="1.0"
+              Cutoff="0.2443437427282333" CutoffScaled="311.4735412597656"
+              Decay="0.6316539645195007" DecayScaled="5.040431022644043" Decay_Curve="0.800000011920929"
+              Decay_CurveScaled="-3.600000143051147" Drive="0.5" DriveOn="0.0"
+              DriveOnScaled="0.0" DriveScaled="0.5" FEnable="1.0" FEnableScaled="1.0"
+              FiltMode="Ladder LP12" Gain1="1.0" Gain1Scaled="1.0" Gain2="0.3277812600135803"
+              Gain2Scaled="0.3277812600135803" Invert="0.0" InvertScaled="0.0"
+              Legato="0.0" LegatoRate="0.0" LegatoRateScaled="0.0" LegatoScaled="0.0"
+              MixMode="Linear XFade" MixSpecial="0.5" MixSpecialScaled="0.5"
+              ModControl1="0.0" ModControl10="0.0" ModControl10Scaled="0.0"
+              ModControl11="0.0" ModControl11Scaled="0.0" ModControl12="0.0"
+              ModControl12Scaled="0.0" ModControl13="0.0" ModControl13Scaled="0.0"
+              ModControl14="0.0" ModControl14Scaled="0.0" ModControl15="0.0"
+              ModControl15Scaled="0.0" ModControl16="0.0" ModControl16Scaled="0.0"
+              ModControl17="0.0" ModControl17Scaled="0.0" ModControl18="0.0"
+              ModControl18Scaled="0.0" ModControl19="0.0" ModControl19Scaled="0.0"
+              ModControl1Scaled="0.0" ModControl2="0.0" ModControl20="0.0"
+              ModControl20Scaled="0.0" ModControl21="0.0" ModControl21Scaled="0.0"
+              ModControl22="0.0" ModControl22Scaled="0.0" ModControl23="0.0"
+              ModControl23Scaled="0.0" ModControl24="0.0" ModControl24Scaled="0.0"
+              ModControl25="0.0" ModControl25Scaled="0.0" ModControl26="0.0"
+              ModControl26Scaled="0.0" ModControl27="0.0" ModControl27Scaled="0.0"
+              ModControl28="0.0" ModControl28Scaled="0.0" ModControl29="0.0"
+              ModControl29Scaled="0.0" ModControl2Scaled="0.0" ModControl3="0.0"
+              ModControl30="0.0" ModControl30Scaled="0.0" ModControl31="0.0"
+              ModControl31Scaled="0.0" ModControl32="0.0" ModControl32Scaled="0.0"
+              ModControl3Scaled="0.0" ModControl4="0.0" ModControl4Scaled="0.0"
+              ModControl5="0.0" ModControl5Scaled="0.0" ModControl6="0.0" ModControl6Scaled="0.0"
+              ModControl7="0.0" ModControl7Scaled="0.0" ModControl8="0.0" ModControl8Scaled="0.0"
+              ModControl9="0.0" ModControl9Scaled="0.0" NumberOfVoices="Poly 8"
+              O1Drift="0.0" O1DriftScaled="0.0" O1Enable="1.0" O1EnableScaled="1.0"
+              O1Stereo="1.0" O1StereoScaled="1.0" O1UniNum="Off" O1UniP1="0.0"
+              O1UniP1Scaled="0.0" O1UniP2="0.0" O1UniP2Scaled="0.0" O1UniP3="0.0"
+              O1UniP3Scaled="0.0" O1UniPan="0.0" O1UniPanScaled="0.0" O1UniSub="0.0"
+              O1UniSubScaled="0.0" O1UniTune="0.0" O1UniTuneScaled="0.0" O2Drift="0.0"
+              O2DriftScaled="0.0" O2Enable="1.0" O2EnableScaled="1.0" O2Stereo="1.0"
+              O2StereoScaled="1.0" O2UniNum="Off" O2UniP1="0.0" O2UniP1Scaled="0.0"
+              O2UniP2="0.0" O2UniP2Scaled="0.0" O2UniP3="0.0" O2UniP3Scaled="0.0"
+              O2UniPan="0.0" O2UniPanScaled="0.0" O2UniSub="0.0" O2UniSubScaled="0.0"
+              O2UniTune="0.0" O2UniTuneScaled="0.0" OfflineQuality="1x" OnlineQuality="1x"
+              Osc1Ctrl1="0.4851406216621399" Osc1Ctrl1Scaled="0.4851406216621399"
+              Osc1Ctrl2="0.2798125147819519" Osc1Ctrl2Scaled="0.2798125147819519"
+              Osc1Ctrl3="0.6150781512260437" Osc1Ctrl3Scaled="0.6150781512260437"
+              Osc1Mode="Circuit Bent" Osc1Pan="0.5" Osc1PanScaled="0.0" Osc1Tune="0.4954062402248383"
+              Osc1TuneScaled="1.0" Osc2Ctrl1="0.1316718757152557" Osc2Ctrl1Scaled="0.1316718757152557"
+              Osc2Ctrl2="0.5" Osc2Ctrl2Scaled="0.5" Osc2Ctrl3="0.5" Osc2Ctrl3Scaled="0.5"
+              Osc2Mode="Dust" Osc2Pan="0.5" Osc2PanScaled="0.0" Osc2Tune="0.8672656416893005"
+              Osc2TuneScaled="2.828427076339722" OutGain="0.699999988079071"
+              OutGainScaled="1.0" Pan="0.5" PanScaled="0.0" QuantOsc1="Chromatic"
+              QuantOsc2="Chromatic" QuantSub1="Chromatic" QuantSub2="Chromatic"
+              Release="0.5812343955039978" ReleaseScaled="3.927208185195923"
+              Release_Curve="0.800000011920929" Release_CurveScaled="-3.600000143051147"
+              Res="0.2225781232118607" ResScaled="3.225781202316284" Sub1Tune="0.2568593621253967"
+              Sub1TuneScaled="0.5" Sub2Tune="0.9195937514305115" Sub2TuneScaled="3.17480206489563"
+              Sustain="0.516796886920929" SustainScaled="0.516796886920929"
+              Transpose="0.5" TransposeScaled="1.0" pluginVersion="1.0.0" presetName="BPM LEAD - Neverending Sunset JL"
+              tuningName="Default">
+  <modulation footerMode="0" mute="0">
+    <mods>
+      <mod_0 bipolar="1" index="0" minimized="1" tempoSync="0" type="macro">
+        <outputs>
+          <out_0 macroIndex="0" scale="1.0"/>
+          <out_1 macroIndex="1" scale="1.0"/>
+          <out_2 macroIndex="2" scale="1.0"/>
+          <out_3 macroIndex="3" scale="1.0"/>
+          <out_4 macroIndex="4" scale="1.0"/>
+          <out_5 macroIndex="5" scale="1.0"/>
+          <out_6 macroIndex="6" scale="1.0"/>
+          <out_7 macroIndex="7" scale="1.0"/>
+          <out_8 macroIndex="8" scale="1.0"/>
+          <out_9 macroIndex="9" scale="1.0"/>
+          <out_10 macroIndex="10" scale="1.0"/>
+          <out_11 macroIndex="11" scale="1.0"/>
+          <out_12 macroIndex="12" scale="1.0"/>
+          <out_13 macroIndex="13" scale="1.0"/>
+          <out_14 macroIndex="14" scale="1.0"/>
+          <out_15 macroIndex="15" scale="1.0"/>
+          <out_16 macroIndex="16" scale="1.0"/>
+          <out_17 macroIndex="17" scale="1.0"/>
+          <out_18 macroIndex="18" scale="1.0"/>
+          <out_19 macroIndex="19" scale="1.0"/>
+          <out_20 macroIndex="20" scale="1.0"/>
+          <out_21 macroIndex="21" scale="1.0"/>
+          <out_22 macroIndex="22" scale="1.0"/>
+          <out_23 macroIndex="23" scale="1.0"/>
+          <out_24 macroIndex="24" scale="1.0"/>
+          <out_25 macroIndex="25" scale="1.0"/>
+          <out_26 macroIndex="26" scale="1.0"/>
+          <out_27 macroIndex="27" scale="1.0"/>
+          <out_28 macroIndex="28" scale="1.0"/>
+          <out_29 macroIndex="29" scale="1.0"/>
+          <out_30 macroIndex="30" scale="1.0"/>
+          <out_31 macroIndex="31" scale="1.0"/>
+        </outputs>
+        <sliders>
+          <slider name="AMP" scaledValue="0.25" value="0.625"/>
+          <slider name="ModControl1" scaledValue="0.0" value="0.0"/>
+          <slider name="ModControl2" scaledValue="0.0" value="0.0"/>
+          <slider name="ModControl3" scaledValue="0.0" value="0.0"/>
+          <slider name="ModControl4" scaledValue="0.0" value="0.0"/>
+          <slider name="ModControl5" scaledValue="0.0" value="0.0"/>
+          <slider name="ModControl6" scaledValue="0.0" value="0.0"/>
+          <slider name="ModControl7" scaledValue="0.0" value="0.0"/>
+          <slider name="ModControl8" scaledValue="0.0" value="0.0"/>
+          <slider name="ModControl9" scaledValue="0.0" value="0.0"/>
+          <slider name="ModControl10" scaledValue="0.0" value="0.0"/>
+          <slider name="ModControl11" scaledValue="0.0" value="0.0"/>
+          <slider name="ModControl12" scaledValue="0.0" value="0.0"/>
+          <slider name="ModControl13" scaledValue="0.0" value="0.0"/>
+          <slider name="ModControl14" scaledValue="0.0" value="0.0"/>
+          <slider name="ModControl15" scaledValue="0.0" value="0.0"/>
+          <slider name="ModControl16" scaledValue="0.0" value="0.0"/>
+          <slider name="ModControl17" scaledValue="0.0" value="0.0"/>
+          <slider name="ModControl18" scaledValue="0.0" value="0.0"/>
+          <slider name="ModControl19" scaledValue="0.0" value="0.0"/>
+          <slider name="ModControl20" scaledValue="0.0" value="0.0"/>
+          <slider name="ModControl21" scaledValue="0.0" value="0.0"/>
+          <slider name="ModControl22" scaledValue="0.0" value="0.0"/>
+          <slider name="ModControl23" scaledValue="0.0" value="0.0"/>
+          <slider name="ModControl24" scaledValue="0.0" value="0.0"/>
+          <slider name="ModControl25" scaledValue="0.0" value="0.0"/>
+          <slider name="ModControl26" scaledValue="0.0" value="0.0"/>
+          <slider name="ModControl27" scaledValue="0.0" value="0.0"/>
+          <slider name="ModControl28" scaledValue="0.0" value="0.0"/>
+          <slider name="ModControl29" scaledValue="0.0" value="0.0"/>
+          <slider name="ModControl30" scaledValue="0.0" value="0.0"/>
+          <slider name="ModControl31" scaledValue="0.0" value="0.0"/>
+          <slider name="ModControl32" scaledValue="0.0" value="0.0"/>
+        </sliders>
+        <buttons/>
+        <combos/>
+        <macroTitles macro0="Macro 1" macro1="Macro 2" macro10="Macro 11" macro11="Macro 12"
+                     macro12="Macro 13" macro13="Macro 14" macro14="Macro 15" macro15="Macro 16"
+                     macro16="Macro 17" macro17="Macro 18" macro18="Macro 19" macro19="Macro 20"
+                     macro2="Macro 3" macro20="Macro 21" macro21="Macro 22" macro22="Macro 23"
+                     macro23="Macro 24" macro24="Macro 25" macro25="Macro 26" macro26="Macro 27"
+                     macro27="Macro 28" macro28="Macro 29" macro29="Macro 30" macro3="Macro 4"
+                     macro30="Macro 31" macro31="Macro 32" macro4="Macro 5" macro5="Macro 6"
+                     macro6="Macro 7" macro7="Macro 8" macro8="Macro 9" macro9="Macro 10"/>
+      </mod_0>
+      <mod_1 bipolar="1" index="1" minimized="0" tempoSync="0" type="midiin">
+        <outputs>
+          <out_0 macroIndex="0" scale="1.0"/>
+          <out_1 macroIndex="1" scale="1.0"/>
+          <out_2 macroIndex="2" scale="1.0"/>
+          <out_3 macroIndex="2" scale="1.0"/>
+          <out_4 macroIndex="3" scale="1.0"/>
+          <out_5 macroIndex="4" scale="1.0"/>
+          <out_6 macroIndex="5" scale="1.0"/>
+          <out_7 macroIndex="6" scale="1.0"/>
+          <out_8 macroIndex="7" scale="1.0"/>
+          <out_9 macroIndex="8" scale="1.0"/>
+        </outputs>
+        <sliders>
+          <slider name="AMP" scaledValue="0.6922500133514404" value="0.8461250066757202"/>
+        </sliders>
+        <buttons>
+          <button name="M" scaledValue="0.0" value="0.0"/>
+          <button name="LATCH" scaledValue="0.0" value="0.0"/>
+        </buttons>
+        <combos/>
+        <midiSettings pbDown="13" pbUp="13"/>
+      </mod_1>
+      <mod_2 bipolar="1" index="2" minimized="0" tempoSync="0" type="masteradsr">
+        <outputs>
+          <out_0 macroIndex="0" scale="0.58798828125"/>
+          <out_1 macroIndex="0" scale="1.0"/>
+        </outputs>
+        <sliders>
+          <slider name="AMP" scaledValue="0.4008125066757202" value="0.7004062533378601"/>
+          <slider name="DUR" scaledValue="2.0" value="0.5"/>
+          <slider name="Attack" scaledValue="0.002000000094994903" value="0.0"/>
+          <slider name="Decay" scaledValue="5.040431022644043" value="0.6316539645195007"/>
+          <slider name="Sustain" scaledValue="0.516796886920929" value="0.516796886920929"/>
+          <slider name="Release" scaledValue="3.927208185195923" value="0.5812343955039978"/>
+          <slider name="Depth" scaledValue="50.0" value="0.5"/>
+        </sliders>
+        <buttons>
+          <button name="M" scaledValue="0.0" value="0.0"/>
+        </buttons>
+        <combos/>
+        <adsrParams>
+          <adsrParam name="Attack" scaledValue="0.002000000094994903" value="0.0"/>
+          <adsrParam name="Attack_Curve" scaledValue="-3.600000143051147" value="0.2000000029802322"/>
+          <adsrParam name="Decay" scaledValue="5.040431022644043" value="0.6316539645195007"/>
+          <adsrParam name="Decay_Curve" scaledValue="-3.600000143051147" value="0.800000011920929"/>
+          <adsrParam name="Sustain" scaledValue="0.516796886920929" value="0.516796886920929"/>
+          <adsrParam name="Release" scaledValue="3.927208185195923" value="0.5812343955039978"/>
+          <adsrParam name="Release_Curve" scaledValue="-3.600000143051147" value="0.800000011920929"/>
+        </adsrParams>
+      </mod_2>
+      <mod_3 bipolar="1" index="3" minimized="0" tempoSync="0" type="shnoise">
+        <outputs>
+          <out_0 macroIndex="0" scale="1.0"/>
+          <out_1 macroIndex="0" scale="0.0"/>
+          <out_2 macroIndex="0" scale="0.4318359375"/>
+          <out_3 macroIndex="0" scale="0.726953125"/>
+          <out_4 macroIndex="0" scale="1.0"/>
+          <out_5 macroIndex="0" scale="0.456640625"/>
+          <out_6 macroIndex="0" scale="1.0"/>
+          <out_7 macroIndex="0" scale="1.0"/>
+        </outputs>
+        <sliders>
+          <slider name="AMP" scaledValue="1.0" value="1.0"/>
+          <slider name="FREQ" scaledValue="11.12231349945068" value="0.8223468661308289"/>
+          <slider name="PHASE" scaledValue="0.0" value="0.0"/>
+          <slider name="SLEW" scaledValue="0.0" value="0.0"/>
+        </sliders>
+        <buttons>
+          <button name="M" scaledValue="0.0" value="0.0"/>
+          <button name="T" scaledValue="1.0" value="1.0"/>
+          <button name="B" scaledValue="1.0" value="1.0"/>
+        </buttons>
+        <combos/>
+      </mod_3>
+      <mod_4 bipolar="1" index="4" minimized="0" tempoSync="0" type="shnoise">
+        <outputs>
+          <out_0 macroIndex="0" scale="1.0"/>
+          <out_1 macroIndex="0" scale="0.30751953125"/>
+          <out_2 macroIndex="0" scale="1.0"/>
+          <out_3 macroIndex="0" scale="1.0"/>
+        </outputs>
+        <sliders>
+          <slider name="AMP" scaledValue="0.7563437223434448" value="0.8781718611717224"/>
+          <slider name="FREQ" scaledValue="19.13545417785645" value="0.9853781461715698"/>
+          <slider name="PHASE" scaledValue="0.0" value="0.0"/>
+          <slider name="SLEW" scaledValue="0.0" value="0.0"/>
+        </sliders>
+        <buttons>
+          <button name="M" scaledValue="0.0" value="0.0"/>
+          <button name="T" scaledValue="1.0" value="1.0"/>
+          <button name="B" scaledValue="1.0" value="1.0"/>
+        </buttons>
+        <combos/>
+      </mod_4>
+    </mods>
+    <connections>
+      <connection_0 modIndex="2" outIndex="0" parameterXMLName="Cutoff"/>
+      <connection_1 modIndex="3" outIndex="0" parameterXMLName="Osc1Ctrl2"/>
+      <connection_2 modIndex="3" outIndex="1" parameterXMLName="Osc1Ctrl3"/>
+      <connection_3 modIndex="3" outIndex="2" parameterXMLName="Osc1Ctrl1"/>
+      <connection_4 modIndex="3" outIndex="3" parameterXMLName="Cutoff"/>
+      <connection_5 modIndex="4" outIndex="0" parameterXMLName="Osc1Ctrl2"/>
+      <connection_6 modIndex="4" outIndex="1" parameterXMLName="Osc1Ctrl3"/>
+      <connection_7 modIndex="1" outIndex="2" parameterXMLName="Cutoff"/>
+      <connection_8 modIndex="3" outIndex="4" parameterXMLName="Sub2Tune"/>
+      <connection_9 modIndex="3" outIndex="5" parameterXMLName="Osc2Tune"/>
+      <connection_10 modIndex="3" outIndex="6" parameterXMLName="Osc2Ctrl3"/>
+      <connection_11 modIndex="4" outIndex="2" parameterXMLName="Osc2Ctrl1"/>
+    </connections>
+  </modulation>
+  <effectRow_0>
+    <effects>
+      <effect_0 index="0" minimized="0" normalizedGain="0.8" tempoSync="0" type="renoun">
+        <sliders>
+          <slider name="DryWet" scaledValue="0.1218437477946281" value="0.1218437477946281"/>
+          <slider name="PREDELAY" scaledValue="0.0" value="0.0"/>
+          <slider name="Bandwidth" scaledValue="0.9990000128746033" value="0.9990000128746033"/>
+          <slider name="Damping" scaledValue="0.0" value="0.0"/>
+          <slider name="Decay" scaledValue="0.800000011920929" value="0.800000011920929"/>
+          <slider name="MODRATE" scaledValue="0.8772703409194946" value="0.1480937451124191"/>
+          <slider name="ModDepth" scaledValue="0.792187511920929" value="0.792187511920929"/>
+          <slider name="Diffuse" scaledValue="0.7599999904632568" value="0.7599999904632568"/>
+          <slider name="Tail" scaledValue="0.7070000171661377" value="0.7070000171661377"/>
+        </sliders>
+        <buttons/>
+        <combos/>
+        <comboboxes/>
+      </effect_0>
+      <effect_1 index="1" minimized="0" normalizedGain="0.8" tempoSync="0" type="instantDelay">
+        <sliders>
+          <slider name="DryWet" scaledValue="0.1404374986886978" value="0.1404374986886978"/>
+          <slider name="DelayT" scaledValue="0.375" value="0.6386406421661377"/>
+          <slider name="DelaySpr" scaledValue="1.0" value="0.8129687309265137"/>
+          <slider name="Filter" scaledValue="20.0" value="0.5"/>
+          <slider name="Feedback" scaledValue="0.2643437385559082" value="0.2643437385559082"/>
+          <slider name="XFeedback" scaledValue="0.0" value="0.0"/>
+          <slider name="Jitter" scaledValue="0.0" value="0.0"/>
+        </sliders>
+        <buttons>
+          <button name="T" scaledValue="1.0" value="1.0"/>
+        </buttons>
+        <combos>
+          <combo name="Link" namedValue="I" value="1"/>
+        </combos>
+        <comboboxes/>
+      </effect_1>
+      <effect_2 index="2" minimized="0" normalizedGain="0.8" tempoSync="0" type="eq3">
+        <sliders>
+          <slider name="DryWet" scaledValue="1.0" value="1.0"/>
+          <slider name="low" scaledValue="1.964948415756226" value="0.6856406331062317"/>
+          <slider name="lowFreq" scaledValue="141.9934692382812" value="0.182773694396019"/>
+          <slider name="mid" scaledValue="1.0" value="0.5"/>
+          <slider name="highFreq" scaledValue="10560.78125" value="0.8080267906188965"/>
+          <slider name="high" scaledValue="2.100485801696777" value="0.6982499957084656"/>
+        </sliders>
+        <buttons>
+          <button name="UNITY" scaledValue="0.0" value="0.0"/>
+        </buttons>
+        <combos/>
+        <comboboxes/>
+      </effect_2>
+    </effects>
+  </effectRow_0>
+  <meta artist="John Lehmkuhl" tag="Lead" character="Arpeggiated"/>
+</LIONSETTINGS>
