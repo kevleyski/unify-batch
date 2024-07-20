@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<UnifyMacroPreset>
+  <MacroParameter id="macro1" name=" 1  Vol" unit="" value="0.610197901725769"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="0">
+    <link paramPath="inst/1/plugin/ 1  Vol" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro2" name=" 2  Vol" unit="" value="0.479083389043808"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="1">
+    <link paramPath="inst/1/plugin/ 2  Vol" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro3" name=" 3  Vol" unit="" value="0.4725000262260437"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="2">
+    <link paramPath="inst/1/plugin/ 3  Vol" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro4" name=" 4  Vol" unit="" value="0.5812500715255737"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="3">
+    <link paramPath="inst/1/plugin/ 4  Vol" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro5" name=" 5  Vol" unit="" value="0.6153333187103271"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="4">
+    <link paramPath="inst/1/plugin/ 5  Vol" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro6" name=" 6  Vol" unit="" value="0.3146666884422302"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="5">
+    <link paramPath="inst/1/plugin/ 6  Vol" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro7" name=" 7  Vol" unit="" value="0.4294166564941406"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="6">
+    <link paramPath="inst/1/plugin/ 7  Vol" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro8" name=" 8  Vol" unit="" value="0.4579166769981384"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="7">
+    <link paramPath="inst/1/plugin/ 8  Vol" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro9" name=" 9  Vol" unit="" value="0.3645833730697632"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="8">
+    <link paramPath="inst/1/plugin/ 9  Vol" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro10" name="10  Vol" unit="" value="0.4215833246707916"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="9">
+    <link paramPath="inst/1/plugin/10  Vol" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro11" name="11  Vol" unit="" value="0.2235972285270691"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="10">
+    <link paramPath="inst/1/plugin/11  Vol" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro12" name="12  Vol" unit="" value="0.1875972151756287"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="11">
+    <link paramPath="inst/1/plugin/12  Vol" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro13" name="13  Vol" unit="" value="0.2021944522857666"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="12">
+    <link paramPath="inst/1/plugin/13  Vol" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro14" name="14  Vol" unit="" value="0.4344166815280914"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="13">
+    <link paramPath="inst/1/plugin/14  Vol" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro15" name="15  Vol" unit="" value="0.393416702747345"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="14">
+    <link paramPath="inst/1/plugin/15  Vol" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro16" name="16  Vol" unit="" value="0.3414166569709778"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="15">
+    <link paramPath="inst/1/plugin/16  Vol" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro17" name="Loop Divide" unit="" value="0.0" minValue="0.0"
+                  maxValue="1.0" valueStep="0.0" defaultValue="0.0" index="16">
+    <link paramPath="inst/1/plugin/Loop Divide" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro18" name="Loop Position" unit="" value="0.0" minValue="0.0"
+                  maxValue="1.0" valueStep="0.0" defaultValue="0.0" index="17">
+    <link paramPath="inst/1/plugin/Loop Position" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro19" name="Macro19" unit="" value="0.0" minValue="0.0"
+                  maxValue="1.0" valueStep="0.0" defaultValue="0.0" index="18"/>
+  <MacroParameter id="macro20" name="Macro20" unit="" value="0.0" minValue="0.0"
+                  maxValue="1.0" valueStep="0.0" defaultValue="0.0" index="19"/>
+  <MacroParameter id="macro21" name="Macro21" unit="" value="0.0" minValue="0.0"
+                  maxValue="1.0" valueStep="0.0" defaultValue="0.0" index="20"/>
+  <MacroParameter id="macro22" name="Macro22" unit="" value="0.0" minValue="0.0"
+                  maxValue="1.0" valueStep="0.0" defaultValue="0.0" index="21"/>
+  <MacroParameter id="macro23" name="Macro23" unit="" value="0.0" minValue="0.0"
+                  maxValue="1.0" valueStep="0.0" defaultValue="0.0" index="22"/>
+  <MacroParameter id="macro24" name="Macro24" unit="" value="0.0" minValue="0.0"
+                  maxValue="1.0" valueStep="0.0" defaultValue="0.0" index="23"/>
+  <MacroParameter id="macro25" name="Macro25" unit="" value="0.0" minValue="0.0"
+                  maxValue="1.0" valueStep="0.0" defaultValue="0.0" index="24"/>
+  <MacroParameter id="macro26" name="Macro26" unit="" value="0.0" minValue="0.0"
+                  maxValue="1.0" valueStep="0.0" defaultValue="0.0" index="25"/>
+  <MacroParameter id="macro27" name="Macro27" unit="" value="0.0" minValue="0.0"
+                  maxValue="1.0" valueStep="0.0" defaultValue="0.0" index="26"/>
+  <MacroParameter id="macro28" name="Macro28" unit="" value="0.0" minValue="0.0"
+                  maxValue="1.0" valueStep="0.0" defaultValue="0.0" index="27"/>
+  <MacroParameter id="macro29" name="Macro29" unit="" value="0.0" minValue="0.0"
+                  maxValue="1.0" valueStep="0.0" defaultValue="0.0" index="28"/>
+  <MacroParameter id="macro30" name="Macro30" unit="" value="0.0" minValue="0.0"
+                  maxValue="1.0" valueStep="0.0" defaultValue="0.0" index="29"/>
+  <MacroParameter id="macro31" name="Macro31" unit="" value="0.0" minValue="0.0"
+                  maxValue="1.0" valueStep="0.0" defaultValue="0.0" index="30"/>
+  <MacroParameter id="macro32" name="Macro32" unit="" value="0.0" minValue="0.0"
+                  maxValue="1.0" valueStep="0.0" defaultValue="0.0" index="31"/>
+</UnifyMacroPreset>
