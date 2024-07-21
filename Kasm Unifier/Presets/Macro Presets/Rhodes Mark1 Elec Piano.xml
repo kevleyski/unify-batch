@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<UnifyMacroPreset>
+  <MacroParameter id="macro1" name="Brightness" unit="" value="0.5640000104904175"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="0">
+    <link paramPath="inst/1/plugin/Brightness" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro2" name="Timbre" unit="" value="0.4645714163780212"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="1">
+    <link paramPath="inst/1/plugin/Timbre" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro3" name="Time" unit="" value="0.1028070896863937" minValue="0.0"
+                  maxValue="1.0" valueStep="0.0" defaultValue="0.0" index="2">
+    <link paramPath="inst/1/plugin/Time" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro4" name="Movement" unit="" value="0.01600000075995922"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="3">
+    <link paramPath="inst/1/plugin/Movement" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro5" name="Preamp Treble" unit="" value="0.6439999938011169"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="4">
+    <link paramPath="inst/1/plugin/Preamp Treble" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro6" name="Preamp Bass" unit="" value="0.5" minValue="0.0"
+                  maxValue="1.0" valueStep="0.0" defaultValue="0.0" index="5">
+    <link paramPath="inst/1/plugin/Preamp Bass" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro7" name="Preamp Vibrato Intensity" unit="" value="0.2592000067234039"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="6">
+    <link paramPath="inst/1/plugin/Preamp Vibrato Intensity" enabled="1"
+          stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro8" name="Preamp Vibrato Speed" unit="" value="0.5" minValue="0.0"
+                  maxValue="1.0" valueStep="0.0" defaultValue="0.0" index="7">
+    <link paramPath="inst/1/plugin/Preamp Vibrato Speed" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro9" name="Hammer Hardness" unit="" value="0.5565714240074158"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="8">
+    <link paramPath="inst/1/plugin/Hammer Hardness" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro10" name="Pickup Distance" unit="" value="0.4486667215824127"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="9">
+    <link paramPath="inst/1/plugin/Pickup Distance" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro11" name="Pickup Alignment" unit="" value="0.612000048160553"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="10">
+    <link paramPath="inst/1/plugin/Pickup Alignment" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro12" name="Damper Duration" unit="" value="0.1908070892095566"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="11">
+    <link paramPath="inst/1/plugin/Damper Duration" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro13" name="Pickup Noise" unit="" value="0.02800000086426735"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="12">
+    <link paramPath="inst/1/plugin/Pickup Noise" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro14" name="Hammer Noise" unit="" value="0.2897143065929413"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="13">
+    <link paramPath="inst/1/plugin/Hammer Noise" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro15" name="Tine Noise" unit="" value="0.7711579203605652"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="14">
+    <link paramPath="inst/1/plugin/Tine Noise" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro16" name="Damper Noise" unit="" value="0.7122105360031128"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="15">
+    <link paramPath="inst/1/plugin/Damper Noise" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro17" name="FX4 Stereo Pan Rate Synced" unit="" value="0.75"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="16">
+    <link paramPath="inst/1/plugin/Rotary Speaker Slow Speed" enabled="1"
+          stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+    <link paramPath="inst/1/plugin/FX4 Stereo Pan Rate Synced" enabled="1"
+          stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro18" name="FX4 Stereo Pan LFO Waveform" unit="" value="0.0"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="17">
+    <link paramPath="inst/1/plugin/FX4 Stereo Pan LFO Waveform" enabled="1"
+          stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro19" name="Stereo Pan 4 Dry/Wet" unit="" value="0.02000000141561031"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="18">
+    <link paramPath="inst/1/plugin/'Stereo Pan 4 Dry/Wet'" enabled="1"
+          stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro20" name="Macro20" unit="" value="0.0" minValue="0.0"
+                  maxValue="1.0" valueStep="0.0" defaultValue="0.0" index="19"/>
+  <MacroParameter id="macro21" name="Macro21" unit="" value="0.0" minValue="0.0"
+                  maxValue="1.0" valueStep="0.0" defaultValue="0.0" index="20"/>
+  <MacroParameter id="macro22" name="Macro22" unit="" value="0.0" minValue="0.0"
+                  maxValue="1.0" valueStep="0.0" defaultValue="0.0" index="21"/>
+  <MacroParameter id="macro23" name="Macro23" unit="" value="0.0" minValue="0.0"
+                  maxValue="1.0" valueStep="0.0" defaultValue="0.0" index="22"/>
+  <MacroParameter id="macro24" name="Macro24" unit="" value="0.0" minValue="0.0"
+                  maxValue="1.0" valueStep="0.0" defaultValue="0.0" index="23"/>
+  <MacroParameter id="macro25" name="Macro25" unit="" value="0.0" minValue="0.0"
+                  maxValue="1.0" valueStep="0.0" defaultValue="0.0" index="24"/>
+  <MacroParameter id="macro26" name="Macro26" unit="" value="0.0" minValue="0.0"
+                  maxValue="1.0" valueStep="0.0" defaultValue="0.0" index="25"/>
+  <MacroParameter id="macro27" name="Macro27" unit="" value="0.0" minValue="0.0"
+                  maxValue="1.0" valueStep="0.0" defaultValue="0.0" index="26"/>
+  <MacroParameter id="macro28" name="Macro28" unit="" value="0.0" minValue="0.0"
+                  maxValue="1.0" valueStep="0.0" defaultValue="0.0" index="27"/>
+  <MacroParameter id="macro29" name="Macro29" unit="" value="0.0" minValue="0.0"
+                  maxValue="1.0" valueStep="0.0" defaultValue="0.0" index="28"/>
+  <MacroParameter id="macro30" name="Macro30" unit="" value="0.0" minValue="0.0"
+                  maxValue="1.0" valueStep="0.0" defaultValue="0.0" index="29"/>
+  <MacroParameter id="macro31" name="Macro31" unit="" value="0.0" minValue="0.0"
+                  maxValue="1.0" valueStep="0.0" defaultValue="0.0" index="30"/>
+  <MacroParameter id="macro32" name="Macro32" unit="" value="0.0" minValue="0.0"
+                  maxValue="1.0" valueStep="0.0" defaultValue="0.0" index="31"/>
+</UnifyMacroPreset>
