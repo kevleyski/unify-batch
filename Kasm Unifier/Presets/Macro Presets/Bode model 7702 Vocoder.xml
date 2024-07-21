@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<UnifyMacroPreset>
+  <MacroParameter id="macro1" name="Brightness" unit="" value="0.5799999833106995"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="0">
+    <link paramPath="inst/1/plugin/Brightness" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro2" name="Timbre" unit="" value="0.5609998106956482"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="1">
+    <link paramPath="inst/1/plugin/Timbre" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro3" name="Time" unit="" value="0.1991296857595444" minValue="0.0"
+                  maxValue="1.0" valueStep="0.0" defaultValue="0.0" index="2">
+    <link paramPath="inst/1/plugin/Time" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro4" name="Movement" unit="" value="0.004000000189989805"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="3">
+    <link paramPath="inst/1/plugin/Movement" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro5" name="Vocoder Voice Input Level" unit="" value="0.6150097846984863"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="4">
+    <link paramPath="inst/1/plugin/Vocoder Voice Input Level" enabled="1"
+          stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro6" name="Vocoder Synth Input Level" unit="" value="0.6181785464286804"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="5">
+    <link paramPath="inst/1/plugin/Vocoder Synth Input Level" enabled="1"
+          stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro7" name="Vocoder Attack" unit="" value="0.2560000121593475"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="6">
+    <link paramPath="inst/1/plugin/Vocoder Attack" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro8" name="Vocoder Release" unit="" value="0.2703277170658112"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="7">
+    <link paramPath="inst/1/plugin/Vocoder Release" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro9" name="Vocoder Bands Shift" unit="" value="0.3351998329162598"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="8">
+    <link paramPath="inst/1/plugin/Vocoder Bands Shift" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro10" name="Vocoder Bands Width" unit="" value="0.5600000023841858"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="9">
+    <link paramPath="inst/1/plugin/Vocoder Bands Width" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro11" name="Vocoder Sample &amp; Hold" unit="" value="0.2991249859333038"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="10">
+    <link paramPath="inst/1/plugin/Vocoder Sample &amp; Hold" enabled="1"
+          stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro12" name="Vocoder High Frequencies Mode" unit="" value="1.0"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="11">
+    <link paramPath="inst/1/plugin/Vocoder High Frequencies Mode" enabled="1"
+          stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro13" name="Vocoder High Frequencies Level" unit="" value="0.4000000059604645"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="12">
+    <link paramPath="inst/1/plugin/Vocoder High Frequencies Level" enabled="1"
+          stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro14" name="Vocoder Hiss Release" unit="" value="1.0"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="13">
+    <link paramPath="inst/1/plugin/Vocoder Hiss Release" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro15" name="Vocoder Hiss / Buzz Balance" unit="" value="0.5920000076293945"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="14">
+    <link paramPath="inst/1/plugin/'Vocoder Hiss / Buzz Balance'" enabled="1"
+          stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro16" name="Vocoder Dry/Wet" unit="" value="0.8320000171661377"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="15">
+    <link paramPath="inst/1/plugin/'Vocoder Dry/Wet'" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro17" name="Synth Glide Time" unit="" value="0.06400000303983688"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="16">
+    <link paramPath="inst/1/plugin/Synth Glide Time" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro18" name="Synth Osc 1 Waveform" unit="" value="0.0"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="17">
+    <link paramPath="inst/1/plugin/Synth Osc 1 Waveform" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro19" name="Synth Osc 1 Shape" unit="" value="0.004000000189989805"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="18">
+    <link paramPath="inst/1/plugin/Synth Osc 1 Shape" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro20" name="Synth Osc 1 Coarse" unit="" value="0.5083333253860474"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="19">
+    <link paramPath="inst/1/plugin/Synth Osc 1 Coarse" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro21" name="Synth Osc 1 Volume" unit="" value="0.5239877700805664"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="20">
+    <link paramPath="inst/1/plugin/Synth Osc 1 Volume" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro22" name="Synth Osc FM 2&gt;1" unit="" value="0.1440000087022781"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="21">
+    <link paramPath="inst/1/plugin/Synth Osc FM 2&gt;1" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro23" name="Synth Osc 2 Waveform" unit="" value="0.3333333432674408"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="22">
+    <link paramPath="inst/1/plugin/Synth Osc 2 Waveform" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro24" name="Synth Osc 2 Shape" unit="" value="0.01200000010430813"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="23">
+    <link paramPath="inst/1/plugin/Synth Osc 2 Shape" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro25" name="Synth Osc 2 Coarse" unit="" value="0.4083333313465118"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="24">
+    <link paramPath="inst/1/plugin/Synth Osc 2 Coarse" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro26" name="Synth Osc 2 Fine" unit="" value="0.4560000002384186"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="25">
+    <link paramPath="inst/1/plugin/Synth Osc 2 Fine" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro27" name="Synth Osc 2 Volume" unit="" value="0.01200000010430813"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="26">
+    <link paramPath="inst/1/plugin/Synth Osc 2 Volume" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro28" name="Synth Attack" unit="" value="0.1960000097751617"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="27">
+    <link paramPath="inst/1/plugin/Synth Attack" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro29" name="Synth Release" unit="" value="0.3538342714309692"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="28">
+    <link paramPath="inst/1/plugin/Synth Release" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro30" name="Synth Ensemble Amount" unit="" value="0.1000000014901161"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="29">
+    <link paramPath="inst/1/plugin/Synth Ensemble Amount" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro31" name="Compressor Amount" unit="" value="0.03200000151991844"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="30">
+    <link paramPath="inst/1/plugin/Compressor Amount" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro32" name="LFO Rate Unsynced" unit="" value="0.2650237381458282"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="31">
+    <link paramPath="inst/1/plugin/LFO Rate Unsynced" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+</UnifyMacroPreset>
