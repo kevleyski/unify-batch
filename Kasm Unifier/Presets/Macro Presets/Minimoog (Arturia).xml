@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<UnifyMacroPreset>
+  <MacroParameter id="macro1" name="Brightness" unit="" value="0.9440000057220459"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="0">
+    <link paramPath="inst/1/plugin/Brightness" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro2" name="Timbre" unit="" value="0.06400000303983688"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="1">
+    <link paramPath="inst/1/plugin/Timbre" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro3" name="Time" unit="" value="0.06000000238418579" minValue="0.0"
+                  maxValue="1.0" valueStep="0.0" defaultValue="0.0" index="2">
+    <link paramPath="inst/1/plugin/Time" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro4" name="Movement" unit="" value="0.08800000697374344"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="3">
+    <link paramPath="inst/1/plugin/Movement" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro5" name="Macro5" unit="" value="0.0" minValue="0.0"
+                  maxValue="1.0" valueStep="0.0" defaultValue="0.0" index="4"/>
+  <MacroParameter id="macro6" name="Osc 1 Range" unit="" value="0.4000000059604645"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="5">
+    <link paramPath="inst/1/plugin/Osc 1 Range" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro7" name="Osc 1 Waveform" unit="" value="0.4000000059604645"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="6">
+    <link paramPath="inst/1/plugin/Osc 1 Waveform" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro8" name="Osc 1 Volume" unit="" value="0.8760000467300415"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="7">
+    <link paramPath="inst/1/plugin/Osc 1 Volume" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro9" name="Drive Amount" unit="" value="0.1080000028014183"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="8">
+    <link paramPath="inst/1/plugin/Drive Amount" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro10" name="Osc 2 Range" unit="" value="0.6000000238418579"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="9">
+    <link paramPath="inst/1/plugin/Osc 2 Range" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro11" name="Osc 2 Fine" unit="" value="0.5099999904632568"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="10">
+    <link paramPath="inst/1/plugin/Osc 2 Fine" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro12" name="Osc 2 Waveform" unit="" value="0.6000000238418579"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="11">
+    <link paramPath="inst/1/plugin/Osc 2 Waveform" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro13" name="Osc 2 Volume" unit="" value="0.04400000348687172"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="12">
+    <link paramPath="inst/1/plugin/Osc 2 Volume" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro14" name="Feedback Amount" unit="" value="0.00800000037997961"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="13">
+    <link paramPath="inst/1/plugin/Feedback Amount" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro15" name="Osc 3 Range" unit="" value="0.4000000059604645"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="14">
+    <link paramPath="inst/1/plugin/Osc 3 Range" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro16" name="Osc 3 Fine" unit="" value="0.002000000094994903"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="15">
+    <link paramPath="inst/1/plugin/Osc 3 Fine" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro17" name="Osc 3 Waveform" unit="" value="0.2000000029802322"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="16">
+    <link paramPath="inst/1/plugin/Osc 3 Waveform" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro18" name="Noise Volume" unit="" value="0.0560000017285347"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="17">
+    <link paramPath="inst/1/plugin/Noise Volume" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro19" name="Filter Cutoff" unit="" value="0.8652750253677368"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="18">
+    <link paramPath="inst/1/plugin/Filter Cutoff" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro20" name="Filter Emphasis" unit="" value="0.1986875087022781"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="19">
+    <link paramPath="inst/1/plugin/Filter Emphasis" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro21" name="Filter Contour Amount" unit="" value="0.04800000041723251"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="20">
+    <link paramPath="inst/1/plugin/Filter Contour Amount" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro22" name="VCF Attack" unit="" value="0.04400000348687172"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="21">
+    <link paramPath="inst/1/plugin/VCF Attack" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro23" name="VCF Decay" unit="" value="0.3270000219345093"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="22">
+    <link paramPath="inst/1/plugin/VCF Decay" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro24" name="VCA Sustain" unit="" value="0.9120000004768372"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="23">
+    <link paramPath="inst/1/plugin/VCA Sustain" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro25" name="#14" unit="" value="0.1232500076293945" minValue="0.0"
+                  maxValue="1.0" valueStep="0.0" defaultValue="0.0" index="24">
+    <link paramPath="inst/1/plugin/#14" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro26" name="Macro26" unit="" value="0.0" minValue="0.0"
+                  maxValue="1.0" valueStep="0.0" defaultValue="0.0" index="25"/>
+  <MacroParameter id="macro27" name="Velocity Amount" unit="" value="0.004000000189989805"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="26">
+    <link paramPath="inst/1/plugin/Velocity Amount" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro28" name="Vintage Amount" unit="" value="0.2199997454881668"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="27">
+    <link paramPath="inst/1/plugin/Vintage Amount" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro29" name="Master Tune" unit="" value="0.5879999995231628"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="28">
+    <link paramPath="inst/1/plugin/Master Tune" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro30" name="LFO Rate (All Sync)" unit="" value="0.1923076957464218"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="29">
+    <link paramPath="inst/1/plugin/LFO Rate (All Sync)" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro31" name="LFO Amplitude" unit="" value="0.8999999761581421"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="30">
+    <link paramPath="inst/1/plugin/LFO Amplitude" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+  <MacroParameter id="macro32" name="Arp Rate" unit="" value="0.7307692170143127"
+                  minValue="0.0" maxValue="1.0" valueStep="0.0" defaultValue="0.0"
+                  index="31">
+    <link paramPath="inst/1/plugin/Arp Rate" enabled="1" stepped="0">
+      <curve>
+        <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+      </curve>
+    </link>
+  </MacroParameter>
+</UnifyMacroPreset>
