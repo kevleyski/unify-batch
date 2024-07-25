@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Layer layerTitle="Kasm" colour="ff0b362c" mixLevel="1.00000011920929"
+       panPos="0.5" muteState="1" midiDisabled="0" midiChannel="0" midiConvChannel="0"
+       midiSourceIndex="-1" lovel="0" hivel="127" keyOffset="0" lokey="0"
+       hikey="127" loFadeKey="0" hiFadeKey="127" loFadeCurvature="0.0"
+       hiFadeCurvature="0.0" latchEnabled="0" directSendLevel="1.00000011920929"
+       fxSendLevel1="0.0" fxSendLevel2="0.0" fxSendLevel3="0.0" fxSendLevel4="0.0">
+  <Instrument stateInformation="304.VMjLgbR....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9DSL13hMIg1XqkjLh8FNrEFZtkFR1MiTLQmKogjbHIjXmkzUXMWSsgTMx0FRmAiQhUVQFMVbIglS1jDZYkGRogTMTkVS1MiTNgycngzYvXjXkkzUYIWRn4jMIgVV4gTZHUCQCwjcyHDS3bGZH0VQVoEcIglS1jDZYkGRogTMtj1R4I1PMEiY40jLLMUY3bGZHw1ZVkkbQEiXn4VdjgCLGwyKIMzasA2atUlaz4COIUDYoQ2Pu4Fcx8FarUlb9.iK77RREQVZzMzatQmbuwFakImO77hUSQ0LPwVcmklaSQWXzUlO.."
+              currentProgram="0">
+    <PLUGIN name="Kasm" format="VST3" category="Instrument|Synth|Stereo"
+            manufacturer="Pyrmont Brewery" version="0.1.0" file="/Library/Audio/Plug-Ins/VST3/kasm.vst3"
+            uniqueId="febbfc49" isInstrument="1" fileTime="190e974eb20" infoUpdateTime="190e975094a"
+            numInputs="2" numOutputs="2" isShell="0" hasARAExtension="0"
+            uid="d38664ed"/>
+  </Instrument>
+  <MidiVelCurve>
+    <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+  </MidiVelCurve>
+  <MidiInserts/>
+  <AudioInserts/>
+</Layer>
