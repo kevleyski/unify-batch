@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<AudioFxLane title="Kevs Oscilloscope" colour="ff6f6f75" mixLevel="1.00000011920929"
+             panPos="0.5" muteState="1">
+  <AudioInserts>
+    <InsertEffect stateInformation="493.VMjLgPd....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9DiL33xLugCV1cUangjPkgScynVdL0lX3U2LpkWclQ0RNAiTJkTd2HUcXYjXTkkQLoVTGMzRvflRNk2M4kVPSgkYgEDV1E0USkTdRgWctYVdxAGUY4FVS0TdDMFSvPTZXYWTsk2SsIlTxYFZS0zZlgGS3vjRIYFQ4sDLh4xaSUlPJMiP3kTdRoTRUYGbx.kQRcVPPY1U5U2PtkTZQA0ZuETci4lStPjMIImaA4hKt3BOujzPu0Fbu4VYtQmO7jTQjkFcC8lazI2arwVYx4SLxfiKy7FNXY2UsgFRBUFN0MiZ4wTahgWcynVd0YFUK4DLRoTR4ciT0gkQhQUVFwjZQczPKACZJ4Td2jWZAMEVlEVPXYWTWMUR4IEd04lY4IGbTkkaXMUS4QzXLACQogkcQ0VdO0lXRImYnMUSqYFdLgCSJkjYDk2RvHlKuMUYBozLBgWR4IkRIUkcvICTFI0YAAkYWoWcC4VRoEETq8VP0MlaN4BQ1jjbtEjKt3hK77RREQVZzMzatQmbuwFakImO77hUSQ0LPwVcmklaSQWXzUlO.."
+                  currentProgram="0" isBypassed="0" allowMidiIn="1">
+      <PLUGIN name="MOscilloscope" format="VST3" category="Fx|Tools" manufacturer="MeldaProduction"
+              version="16.11" file="/Library/Audio/Plug-Ins/VST3/MeldaProduction/Tools/MOscilloscope.vst3"
+              uniqueId="1ecc862b" isInstrument="0" fileTime="18dfdc34d2c" infoUpdateTime="1904f55386d"
+              numInputs="2" numOutputs="2" isShell="0" hasARAExtension="0"
+              uid="3ca88da0"/>
+    </InsertEffect>
+    <InsertEffect stateInformation="1517.VMjLgPdA...O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9TSLx3xLuM1UQYTbSEFQDQjQjgDZr4laHUDYAAkayfldD8VZ4gkRRUDYxQiX1IUNlMUNxYVU5MmczkENJYULvnkLvX1XJAEMEgzXuYValQEaWg1MDQTRToTZRUEbQITMSYTYtDTXwPWV4TWXrU2JqDDdgcGVz31ZgwVNQ81SHkVTyUUQtHmQpQGQVkVYroWdUIETtTUckUWQVsjXvkWQGkCTG4hc37VYSYibPMzLEUmP1cCcgIyb1YCUjkyaycDdyoTVrsVYpEkPu4BcPYSL23FUzbiVZ8Vd5gGQ03VdWI0ZPMyXvHyLy0TLhMjKg8TL1rVLXc1URIFLiEFRxklUMIVSvgWVFcTayIkb1wjUuM2Ph4TdQIVYg01c1cTQpIDR3TGVNUlT04jMvf2LNkiZv8FazYTLwUFMHklSFsVU1jTQDcDY4ISYycSXk8FMSQEbCg1RwU1X2nVYNMWRVUiQ17DcnQ1Mz4lasoGbjoWNTYFUVs1QVkERLcEa5sxJLojVA8VYEYidYYmbIc0LNcjTkkDcG0jRnoGbvs1cComUmYyMAM0QQYUYGQ2ZhUjSQcDR4MyMPgEN1TlK4PVcVcidrImXIcmXt4jcNA0RnMTdAECN2HUVycyPZMTRRc0TnkiZpQTLoYFaY8TZRcyXxTmakYUVw3BR3jURxUTNjY0YSEVZt3TPDUVMWUGMvs1J2MWXmMFShUkY2fWaSw1TiAyJ2bSS2YTb5IlSvPjQVAkdjISUsQGQKE0RwjUbNcyRwTDNRQlKRQ2LkAURJICS13hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKtvyKIMzasA2atUlaz4COIUDYoQ2Pu4Fcx8FarUlb9TSLx3xLuM1UQYTbSEFQDQjQjgDZr4laHUDYAAkayfldD8VZ4gkRRUDYxQiX1IUNlMUNxYVU5MmczkENJYULvnkLvX1XJAEMEgzXuYValQEaWg1MDQTRToTZRUEbQITMSYTYtDTXwPWV4TWXrU2JqDDdgcGVz31ZgwVNQ81SHkVTyUUQtHmQpQGQVkVYroWdUIETtTUckUWQVsjXvkWQGkCTG4hc37VYSYibPMzLEUmP1cCcgIyb1YCUjkyaycDdyoTVrsVYpEkPu4BcPYSL23FUzbiVZ8Vd5gGQ03VdWI0ZPMyXvHyLy0TLhMjKg8TL1rVLXc1URIFLiEFRxklUMIVSvgWVFcTayIkb1wjUuM2Ph4TdQIVYg01c1cTQpIDR3TGVNUlT04jMvf2LNkiZv8FazYTLwUFMHklSFsVU1jTQDcDY4ISYycSXk8FMSQEbCg1RwU1X2nVYNMWRVUiQ17DcnQ1Mz4lasoGbjoWNTYFUVs1QVkERLcEa5sxJLojVA8VYEYidYYmbIc0LNcjTkkDcG0jRnoGbvs1cComUmYyMAM0QQYUYGQ2ZhUjSQcDR4MyMPgEN1TlK4PVcVcidrImXIcmXt4jcNA0RnMTdAECN2HUVycyPZMTRRc0TnkiZpQTLoYFaY8TZRcyXxTmakYUVw3BR3jURxUTNjY0YSEVZt3TPDUVMWUGMvs1J2MWXmMFShUkY2fWaSw1TiAyJ2bSS2YTb5IlSvPjQVAkdjISUsQGQKE0RwjUbNcyRwTDNRQlKRQ2LkAURJICS13hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKtvyKIUDYoQ2Pu4Fcx8FarUlb9vyKVMEUy.Ea0cVZtMEcgQWY9.."
+                  currentProgram="0" isBypassed="0" allowMidiIn="1">
+      <PLUGIN name="MAnalyzer" format="VST3" category="Fx|Tools" manufacturer="MeldaProduction"
+              version="16.11" file="/Library/Audio/Plug-Ins/VST3/MeldaProduction/Tools/MAnalyzer.vst3"
+              uniqueId="1d0ac80b" isInstrument="0" fileTime="18dfdc34d10" infoUpdateTime="1904f5534d4"
+              numInputs="2" numOutputs="2" isShell="0" hasARAExtension="0"
+              uid="4100a1be"/>
+    </InsertEffect>
+  </AudioInserts>
+</AudioFxLane>
