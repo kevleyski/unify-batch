@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Layer layerTitle="Digits phase distortion synthesizer (Casio CZ)" colour="ff0b362c"
+       mixLevel="1.00000011920929" panPos="0.5" muteState="1" midiDisabled="0"
+       midiChannel="0" midiConvChannel="0" midiSourceIndex="-1" lovel="0"
+       hivel="127" keyOffset="0" lokey="0" hikey="127" loFadeKey="0"
+       hiFadeKey="127" loFadeCurvature="0.0" hiFadeCurvature="0.0" latchEnabled="0"
+       directSendLevel="1.00000011920929" fxSendLevel1="0.0" fxSendLevel2="0.0"
+       fxSendLevel3="0.0" fxSendLevel4="0.0">
+  <Instrument stateInformation="1166.CMlaKA....fQBMDZ....APTZmQG.CHP.....A.............................................................................................................................................................................v.tGf.OEyTqU1c.vLyL6ySwLEZv0zajA....nOOIyTqU1c......vSxLEZv0zajA....nOMkFd.v0iB8iTkMWYz8zbiMG......HUYy8lUuwF......HUYy81UgYWY......PPsAWPzQG....f9DTavQTYiAC......DTavMUcyA....3OA0FbFEFYkA....3OA0FbDU1X.7Rn83yTnAWPzQG.2KgV9LEZvQTYiAC......LEZvMUcyA....3OSgFbFEFYkA......SgFbDU1X.DsWB6yTnAWSo4F.....+LEZv0TX3A....vOF0D.ov0i8PTYzUmakAvFPxhOC8VXxMWY.....5iPgMWZycUX1UF.......UcrMWYWkFYzgF.qppp8XUYrMEZgAWYxA......VUFaV8Fa00VY.....9SSuQ1TnEFbkIG......zzajwjQOESPsAG......DDUSgVXvUlb......PPTwjQOESPsAG......vjQOIUXzUF.43337vjQOQUdvUF......vjQOQTYrEVd.......SF8jTkAWYgQG....f+vjQOMEZvA......LYzSA0Fb.......SF8jQxUVb.......SF8DTW0D......vjQOIiTgQWY.......SF8jLTkGbkA......LYzSxPTYrEVd.......SF8jLRUFbkEFc.......SF8jLSgFb.......SF8jLA0Fb.......SF8jLFIWYwA......LYzSx.0UMA......LYzSyHUXzUF......vjQOMCU4AWY.......SF8zLDUFagkG......vjQOMiTkAWYgQG......vjQOMyTnAG......vjQOMSPsAG......vjQOMiQxUVb.......SF8zLPcUS......PUtk1bu4F.viMK+PTYr0BS..drY6CQkwVKRAfgJ6vODUFaWUFc.7kP66CQkwlQBAP6kPyODUFaL81byAf5EewOCglbREFckA......CglbDUFbzgF......LDZxQTZxQG......LDZxQ0atUF......LDZxcUYzA......CglbFwVXtcF......HTZzQTZ1A......BkFcBkFcyA......BkFcWUFc.......SuM1ZSgVXvUlbAQG......XTZrQWYxIUYy8F......XTZrQWYx0zajUF......zzat8VSuQVY.......TuIGcgMEbjA....nOA0FbREFckM0XgwVY......vTnAmTgQWYSMVXrUF......LEZvwTY1M0XgwVY.......ThUlajUEb.......ThUlajQja......vQgkla.Pe+z7C"
+              currentProgram="0">
+    <PLUGIN name="Digits" format="VST" category="Synth" manufacturer="Extent of the Jam"
+            version="3.2.1.0" file="/Applications/PlugInGuru/Unify/VST/Digits.vst"
+            uniqueId="44696774" isInstrument="1" fileTime="17facf97600" infoUpdateTime="181b6f7178f"
+            numInputs="0" numOutputs="2" isShell="0" hasARAExtension="0"
+            uid="44696774"/>
+  </Instrument>
+  <MidiVelCurve>
+    <Segment fxMin="0.0" fxMax="1.0" fyMin="0.0" fyMax="1.0" curvature="0.0"/>
+  </MidiVelCurve>
+  <MidiInserts/>
+  <AudioInserts/>
+</Layer>
