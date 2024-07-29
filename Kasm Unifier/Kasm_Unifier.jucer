@@ -55,6 +55,8 @@
             file="Assets/Lush2/One Lush2 Layer.xml"/>
       <FILE id="XGv95C" name="One Arturia Acid V Layer.xml" compile="0" resource="1"
             file="Assets/Arturia/One Arturia Acid V Layer.xml"/>
+      <FILE id="XGv95B" name="One Voltage Modular Layer.xml" compile="0"
+            resource="1" file="Assets/Voltage Modular/One Voltage Modular Layer.xml"/>
     </GROUP>
     <GROUP id="{0444BDA6-8ED0-8B92-C3D3-D2AFB445879D}" name="Source">
       <FILE id="BLSL3z" name="PatchConverter.cpp" compile="1" resource="0"

@@ -58,6 +58,7 @@ PatchConverter::PatchConverter()
     unifyPatchXml_Sylenth1 = parseXML(BinaryData::One_Sylenth1_Layer_xml);
     unifyPatchXml_Softube_Modular = parseXML(BinaryData::One_Softube_Modular_Layer_xml);
     unifyPatchXml_Arturia_AcidV = parseXML(BinaryData::One_Arturia_Acid_V_Layer_xml);
+    unifyPatchXml_CherryVoltage_Modular = parseXML(BinaryData::One_Voltage_Modular_Layer_xml);
     //test();
 }
 
@@ -346,6 +347,10 @@ XmlElement* PatchConverter::processPresetFile(File inFile, String& newPatchNameO
         // UVI Workstation
         patchXml = new XmlElement(*unifyPatchXml_Softube_Modular);
         commentString = "Factory presets by Softube for Unify (Kasm)";
+    } else if (presetExtension.indexOf("voltagepreset") >= 0) {
+        // UVI Workstation
+        patchXml = new XmlElement(*unifyPatchXml_CherryVoltage_Modular);
+        commentString = "Factory presets by Cherry Audio for Unify (Kasm)";
     } else {
         // Not yet supported
         return NULL;

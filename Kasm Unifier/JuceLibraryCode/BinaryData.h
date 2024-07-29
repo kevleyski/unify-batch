@@ -51,7 +51,7 @@ namespace BinaryData
     const int            One_Battalion_Layer_xmlSize = 301444;
 
     extern const char*   One_Lion_Layer_xml;
-    const int            One_Lion_Layer_xmlSize = 32634;
+    const int            One_Lion_Layer_xmlSize = 33763;
 
     extern const char*   One_Massive_X_Layer_xml;
     const int            One_Massive_X_Layer_xmlSize = 57760;
@@ -83,8 +83,11 @@ namespace BinaryData
     extern const char*   One_Arturia_Acid_V_Layer_xml;
     const int            One_Arturia_Acid_V_Layer_xmlSize = 211247;
 
+    extern const char*   One_Voltage_Modular_Layer_xml;
+    const int            One_Voltage_Modular_Layer_xmlSize = 66529;
+
     // Number of elements in the namedResourceList and originalFileNames arrays.
-    const int namedResourceListSize = 25;
+    const int namedResourceListSize = 26;
 
     // Points to the start of a list of resource names.
     extern const char* namedResourceList[];
